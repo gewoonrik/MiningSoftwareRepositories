@@ -10,13 +10,18 @@ Projects to investigate:
 - [jQuery](https://github.com/jquery/jquery/releases): up to the release of jQuery 2.0
 
 
-TODO:
+TODO
+------------------------
 - [x] Setup Project
 - [x] Import data into Database
 - [x] Select projects to investigate
 - [x] Retrieve versions of project
 - [ ] Retrieve number of posts by day
+- [ ] Plot the number of posts per day in a graph 
+- [ ] Add lines to the graph on the days of new releases
+- [ ] ... Profit
 
-SQL query we are going to run:
-SELECT COUNT(*) FROM posts INNER JOIN posttags ON posts.id = posttags.PostId WHERE posttags.TagId = 820 GROUP BY CAST(posts.CreationDate AS DATE)
+SQL queries to remember
+-----------------------
+`SELECT COUNT(*) FROM posts INNER JOIN posttags ON posts.id = posttags.PostId WHERE posttags.TagId = 820 GROUP BY CAST(posts.CreationDate AS DATE)`
 This query selects all posts with the tag "jquery" and groups them by day and returns the count of posts per day
