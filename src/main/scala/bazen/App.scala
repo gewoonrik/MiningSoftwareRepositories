@@ -47,14 +47,15 @@ object App {
         val strTags = posts.getString("Tags");
         val postId = posts.getInt("Id")
         if(strTags != null) {
-          val curTags = splitTags(strTags)
+          val curTags = splitTags(strTags).distinct
           val ids = curTags.map(tags(_))
           ids.foreach(tagId =>{
             st.addBatch("INSERT INTO posttags VALUES (" + postId + "," +tagId+ ")");
           })
         }
-        if(i%1000 == 0) {
+        if(i%10000 == 0) {
           st.executeBatch()
+          println (i)
         }
         i+=1;
       }
