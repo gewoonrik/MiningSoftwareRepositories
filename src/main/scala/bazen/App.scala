@@ -44,20 +44,21 @@ object App {
       val st = conn2.createStatement();
       var i:Long = 0;
       while(posts.next()) {
-        if(i%1000 == 0) {
-          println (i)
-        }
         val strTags = posts.getString("Tags");
         val postId = posts.getInt("Id")
         if(strTags != null) {
           val curTags = splitTags(strTags)
           val ids = curTags.map(tags(_))
           ids.foreach(tagId =>{
-            st.executeUpdate("INSERT INTO posttags VALUES (" + postId + "," +tagId+ ")");
+            st.addBatch("INSERT INTO posttags VALUES (" + postId + "," +tagId+ ")");
           })
+        }
+        if(i%1000 == 0) {
+          st.executeBatch()
         }
         i+=1;
       }
+      st.executeBatch()
       st.close()
       statement2.close()
 
