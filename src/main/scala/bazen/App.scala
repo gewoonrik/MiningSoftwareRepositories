@@ -1,8 +1,10 @@
 package bazen
 
+import java.io.{File, PrintWriter}
+import java.nio.charset.StandardCharsets
+import java.nio.file.{Paths, Files}
 import java.sql.{ResultSet, DriverManager}
 
-import com.mysql.jdbc.MySQLConnection
 
 /**
  * @author ${user.name}
@@ -27,43 +29,19 @@ object App {
       val statement = conn.createStatement(ResultSet.TYPE_FORWARD_ONLY, ResultSet.CONCUR_READ_ONLY)
 
       // Execute Query
-      val rs = statement.executeQuery("SELECT Id, TagName FROM tags")
-      statement.setFetchSize(Integer.MIN_VALUE);
+      val rs = statement.executeQuery("SELECT COUNT(*) as count, CAST(posts.CreationDate AS DATE) as dag FROM posts INNER JOIN posttags ON posts.id = posttags.PostId WHERE posttags.TagId = 820 GROUP BY dag")
 
       // Iterate Over ResultSet
+      println("starting writing")
+      val writer = new PrintWriter(new File("C:\\Users\\Rik\\Documents\\results.txt" ))
       while (rs.next) {
-        tags += rs.getString("TagName") -> rs.getInt("Id")
+        println(rs.getDate("dag")+","+rs.getInt("count"))
+        writer.write(rs.getDate("dag")+","+rs.getInt("count")+"\n")
       }
+      writer.close()
+
       statement.close()
-      println("finished loading tags")
-
-      val statement2 = conn.createStatement(ResultSet.TYPE_FORWARD_ONLY, ResultSet.CONCUR_READ_ONLY)
-      statement2.setFetchSize(Integer.MIN_VALUE);
-      val posts = statement2.executeQuery("SELECT Tags,Id FROM posts")
-
-      val st = conn2.createStatement();
-      var i:Long = 0;
-      while(posts.next()) {
-        val strTags = posts.getString("Tags");
-        val postId = posts.getInt("Id")
-        if(strTags != null) {
-          val curTags = splitTags(strTags).distinct
-          val ids = curTags.map(tags(_))
-          ids.foreach(tagId =>{
-            st.addBatch("INSERT INTO posttags VALUES (" + postId + "," +tagId+ ")");
-          })
-        }
-        if(i%10000 == 0) {
-          st.executeBatch()
-          println (i)
-        }
-        i+=1;
-      }
-      st.executeBatch()
-      st.close()
-      statement2.close()
-
-
+      println("finished wrinting to file")
     }
     finally {
       conn.close
