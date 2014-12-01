@@ -9,15 +9,10 @@ weekdays <-subset(data, !(weekdays(V1) %in% c('zaterdag','zondag')))
 versions <- read.csv2(file="C:\\Users\\Rik\\Documents\\jquery.txt", sep=",", header=FALSE)
 versions[[2]] <- as.Date(versions[[2]])
 
-# Create graph
-plot(weekdays, type="l", col="blue")
-lines(weekends, col="red")
-plot(weekdays, col="purple")
 
+linearreg = lm(V2 ~ V1, data=weekdays)
+weekdays$V2 = linearreg$residuals
+plot(weekdays, xlab="Date", ylab="#posts-regression of #posts", main="Attempt to normalize #posts by plotting residual of regression.", type="l", col="blue")
 for(i in versions[2])
   abline(v=i)
-linearreg = lm(V2 ~ V1, data=weekdays)
-weekdays$V2 = weekdays$V2/linearreg$fitted.values
-lines(weekdays, col="red")
-
 
