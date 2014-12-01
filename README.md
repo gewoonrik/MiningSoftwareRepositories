@@ -16,10 +16,12 @@ TODO
 - [x] Import data into Database
 - [x] Select projects to investigate
 - [x] Retrieve versions of project
-- [ ] Retrieve number of posts by day
+- [x] Retrieve number of posts by day
+- [ ] Scrape versions of jQuery
 - [ ] Plot the number of posts per day in a graph 
-- [ ] Add lines to the graph on the days of new releases
-- [ ] ... Profit
+- [ ] Add lines to the graph on the days of releases
+- [ ] Normalize graph to ocunter increases/decreases in jquery popularity.
+
 
 Text search
 ----------------------
@@ -32,3 +34,4 @@ SQL queries to remember
 -----------------------
 `SELECT COUNT(*) FROM posts INNER JOIN posttags ON posts.id = posttags.PostId WHERE posttags.TagId = 820 GROUP BY CAST(posts.CreationDate AS DATE)`
 This query selects all posts with the tag "jquery" and groups them by day and returns the count of posts per day
+
