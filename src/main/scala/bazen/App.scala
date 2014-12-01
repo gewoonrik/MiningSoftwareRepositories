@@ -29,11 +29,11 @@ object App {
       val statement = conn.createStatement(ResultSet.TYPE_FORWARD_ONLY, ResultSet.CONCUR_READ_ONLY)
 
       // Execute Query
-      val rs = statement.executeQuery("SELECT COUNT(*) as count, CAST(posts.CreationDate AS DATE) as dag FROM posts INNER JOIN posttags ON posts.id = posttags.PostId WHERE posttags.TagId = 820 GROUP BY dag")
+      val rs = statement.executeQuery("SELECT COUNT(*) as count, CAST(posts.CreationDate AS DATE) as dag FROM posts INNER JOIN posttags ON posts.id = posttags.PostId WHERE posttags.TagId = 820 AND (Body LIKE '%1.9.0%' OR Title LIKE '%1.9.0%') GROUP BY dag")
 
       // Iterate Over ResultSet
       println("starting writing")
-      val writer = new PrintWriter(new File("C:\\Users\\Rik\\Documents\\results.txt" ))
+      val writer = new PrintWriter(new File("C:\\Users\\Rik\\Documents\\results1.9.0.txt" ))
       while (rs.next) {
         println(rs.getDate("dag")+","+rs.getInt("count"))
         writer.write(rs.getDate("dag")+","+rs.getInt("count")+"\n")
