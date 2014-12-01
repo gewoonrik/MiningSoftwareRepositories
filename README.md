@@ -21,6 +21,13 @@ TODO
 - [ ] Add lines to the graph on the days of new releases
 - [ ] ... Profit
 
+Text search
+----------------------
+- Find out how many posts refer to specific jquery version. (questions of specific version)/(total number of questions)
+- Find untagged questions about jquery using text search. 
+
+There is enough refering to specific versions to have an impact: http://stackoverflow.com/questions/22560963/bxslider-not-working-with-jquery-2-1-0
+
 SQL queries to remember
 -----------------------
 `SELECT COUNT(*) FROM posts INNER JOIN posttags ON posts.id = posttags.PostId WHERE posttags.TagId = 820 GROUP BY CAST(posts.CreationDate AS DATE)`
