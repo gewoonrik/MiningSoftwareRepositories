@@ -18,7 +18,7 @@ versions[[2]] <- as.Date(versions[[2]])
 # Create graph
 #plot(weekdays, type="l", col="blue")
 #lines(weekends, col="red")
-plot(data19, xlab="Date", ylab="#posts",main="#posts for jQuery version 1.9.0 and version 1.10.0.", xlim=as.Date(c("2013-01-01","2014-08-01")), type="l", col="purple")
+plot(data19, xlab="Date", ylab="#posts",main="#posts about jQuery version 1.9.0 and version 1.10.0.", xlim=as.Date(c("2013-01-01","2014-08-01")), type="l", col="purple")
 lines(data110, xlim=as.Date(c("2013-05-24","2014-08-01")), type="l", col="red")
 
 legend('topright', c('posts about version 1.9.0', 'posts about version 1.10.0'), 
