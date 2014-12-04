@@ -17,10 +17,13 @@ TODO
 - [x] Select projects to investigate
 - [x] Retrieve versions of project
 - [x] Retrieve number of posts by day
-- [ ] Scrape versions of jQuery
-- [ ] Plot the number of posts per day in a graph 
-- [ ] Add lines to the graph on the days of releases
-- [ ] Normalize graph to ocunter increases/decreases in jquery popularity.
+- [x] Scrape versions of jQuery
+- [x] Plot the number of posts per day in a graph 
+- [x] Add lines to the graph on the days of releases
+- [x] Normalize graph to ocunter increases/decreases in jquery popularity.
+- [ ] Use linear regression to analyse past releases
+- [ ] Use linear regression to predict unhype-day of releases
+- [ ] Prepare presentation
 
 
 Text search
