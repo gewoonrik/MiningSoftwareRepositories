@@ -13,6 +13,5 @@ versions[[2]] <- as.Date(versions[[2]])
 linearreg = lm(V2 ~ V1, data=weekdays)
 weekdays$V2 = linearreg$residuals
 plot(weekdays, xlab="Date", ylab="#posts-regression of #posts", main="Attempt to normalize #posts by plotting residual of regression.", type="l", col="blue")
-for(i in versions[2])
-  abline(v=i)
+
 

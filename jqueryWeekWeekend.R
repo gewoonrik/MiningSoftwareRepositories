@@ -10,9 +10,7 @@ versions <- read.csv2(file="C:\\Users\\Rik\\Documents\\jquery.txt", sep=",", hea
 versions[[2]] <- as.Date(versions[[2]])
 
 # Create graph
-plot(weekdays, main="Number of posts per day with tag jQuery and releases", xlab="Date", ylab= "#posts", col="blue")
-points(weekends, col="red")
+plot(weekdays, type="l", main="Number of posts per day with tag jQuery", xlab="Date", ylab= "#posts", col="blue")
+lines(weekends, col="red")
 legend('topleft', c('weekdays', 'weekends'), 
-       pch = "O",  col=c('blue', 'red'),  cex=.75)
-for(i in versions[2])
-  abline(v=i)
+       pch = "_",  col=c('blue', 'red'),  cex=.75)

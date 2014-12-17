@@ -25,5 +25,5 @@ legend('topright', c('posts about version 1.9.0', 'posts about version 1.10.0'),
         lty=1, col=c('purple', 'red'),  cex=.75)
 
 for(i in versions[2])
-  abline(v=i)
+  abline(v=i, lwd=2)
 
