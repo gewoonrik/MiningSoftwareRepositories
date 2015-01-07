@@ -1,0 +1,5 @@
+&#xa;,1
+gem,1
+change,1
+your,1
+,1
