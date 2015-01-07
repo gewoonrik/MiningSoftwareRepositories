@@ -1,5 +1,5 @@
 # Load data
-data <- read.csv2(file="C:\\Users\\Erwin\\Documents\\GitHub\\MiningSoftwareRepositories\\results\\posts_per_day_total.txt", sep=",", dec=".", header=FALSE, colClasses=c("Date",NA))
+data <- read.csv2(file="/home/erwin/Github/MiningSoftwareRepositories/results/posts_per_day_total.txt", sep=",", dec=".", header=FALSE, colClasses=c("Date",NA))
 data[[1]] <- as.Date(data[[1]])
 
 weekends <-subset(data, (weekdays(V1) %in% c('zaterdag','zondag')))
