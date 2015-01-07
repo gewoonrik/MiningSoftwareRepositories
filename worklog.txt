@@ -1,0 +1,39 @@
+posts of version / total posts of day
+
+k-means:
+3 clusters (major, minor, patch)
+parameters:
+- number of posts about version
+- 
+
+TODO:
+- normalize posts to popularity of project
+- # of posts per version 
+
+Conclusions
+- 2.3.2 has exceptionally high number of questions, because it was the last release of the 2.x branch. It therefore gets lots of questions.
+
+
+Attempt 1:
+Hypothese: major releases will have more questions
+- For each version: retrieve all posts 30/7 days after the release of the version
+- Normalized the posts about a release with the total number of posts about the subject of that day.
+- count number of posts per version
+Conclusion: hypothese is false, major releases have less questions in general
+
+Attempt 2:
+Hypothese: questions about major releases will have more score.
+- For each version:
+- retrieve all posts 30 days after the release of the version
+- For each question: get number of stars of the answer. (only use questions with accepted answers)
+
+Attempt 3:
+Hypothese: big releases will lead to longer answer time.
+- For each version:
+- retrieve all posts 30 days after the release of the version
+- for each post: get the answer time (time until accepted answer)
+- take average 
+
+Attempt 4:
+Hypothese: major releases have different words in the question/answer than other releases (eg. deprecated, dropped, added)
+- create a vector space model for each version
