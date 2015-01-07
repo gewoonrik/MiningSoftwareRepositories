@@ -1,11 +1,10 @@
 package bazen
 
 import java.io.{File, PrintWriter}
-import java.nio.charset.StandardCharsets
-import java.nio.file.{Paths, Files}
 import java.sql.{ResultSet, DriverManager}
+import java.time.Instant
+import java.time.temporal.ChronoUnit
 
-import scala.util.parsing.json.{JSONArray, JSONObject, JSON}
 
 
 /**
@@ -27,8 +26,13 @@ object App {
     val conn2 = DriverManager.getConnection(conn_str)
 
     try {
-      val input = scala.io.Source.fromFile("..\\data\\bootstrap-versions.csv").getLines().mkString.split(",")
-      val versions = input.map(v => v.stripPrefix("v"))
+      val input = scala.io.Source.fromFile("..\\data\\bootstrap-versions-date.csv").getLines()
+      val versionsReleaseDate = input.map(v => {
+        val vers = v.split(",")
+        vers(0) = vers(0).stripPrefix("v")
+        val instant = Instant.parse(vers(1));
+        (vers(0), instant)
+      }).toMap
 
       val inputDate = scala.io.Source.fromFile("..\\results\\posts_per_day_total.txt").getLines()
       val dateMap = inputDate.map(s => {
@@ -51,11 +55,13 @@ object App {
       while (rs.next) {
         val title = rs.getString("Title")
         val body = rs.getString("Body")
-        val date = rs.getDate("dag").toString
-        versions.foreach(v => {
-          if(title.contains(v) || body.contains(v)) {
+        val date = rs.getDate("dag")
+        val dateInstant = new java.util.Date(date.getTime).toInstant
+        versionsReleaseDate.keys.foreach(v => {
+          val releaseDate = versionsReleaseDate.get(v).get
+          if(title.contains(v) || body.contains(v) && dateInstant.isBefore(releaseDate.plus(30, ChronoUnit.DAYS))) {
             val postCount = numberOfPostsPerVersion.getOrElseUpdate(v, 0)
-            val normalized = 1.toDouble/dateMap.get(date).get.toDouble
+            val normalized = 1.toDouble/dateMap.get(date.toString).get.toDouble
             numberOfPostsPerVersion.put(v, postCount+normalized)
           }
         })
