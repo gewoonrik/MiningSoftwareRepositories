@@ -59,7 +59,7 @@ object App {
         val dateInstant = new java.util.Date(date.getTime).toInstant
         versionsReleaseDate.keys.foreach(v => {
           val releaseDate = versionsReleaseDate.get(v).get
-          if(title.contains(v) || body.contains(v) && dateInstant.isBefore(releaseDate.plus(30, ChronoUnit.DAYS))) {
+          if(title.contains(v) || body.contains(v) && dateInstant.isBefore(releaseDate.plus(100, ChronoUnit.DAYS))) {
             val postCount = numberOfPostsPerVersion.getOrElseUpdate(v, 0)
             val normalized = 1.toDouble/dateMap.get(date.toString).get.toDouble
             numberOfPostsPerVersion.put(v, postCount+normalized)
@@ -67,7 +67,7 @@ object App {
         })
       }
       println("starting writing")
-      val writer = new PrintWriter(new File("..\\results\\posts_per_version_total_normalized.txt" ))
+      val writer = new PrintWriter(new File("..\\results\\posts_per_version_total_normalized_100_days.txt" ))
       numberOfPostsPerVersion.toSeq.sortBy(_._1).foreach(tuple =>{
         writer.write(tuple._1+","+tuple._2+"\n")
       })
