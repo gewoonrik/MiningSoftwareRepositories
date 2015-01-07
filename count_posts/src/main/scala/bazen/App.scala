@@ -52,7 +52,7 @@ object App {
       }
       println("starting writing")
       val writer = new PrintWriter(new File("..\\results\\posts_per_version_total.txt" ))
-      numberOfPostsPerVersion.foreach((tuple: (String, Int)) =>{
+      numberOfPostsPerVersion.toSeq.sortBy(_._1).foreach((tuple: (String, Int)) =>{
         writer.write(tuple._1+","+tuple._2+"\n")
       })
       writer.close()
