@@ -47,7 +47,7 @@ object App {
 
       // Iterate Over ResultSet
 
-      val numberOfPostsPerVersion = scala.collection.mutable.Map[String, Float]()
+      val numberOfPostsPerVersion = scala.collection.mutable.Map[String, Double]()
       while (rs.next) {
         val title = rs.getString("Title")
         val body = rs.getString("Body")
@@ -55,7 +55,7 @@ object App {
         versions.foreach(v => {
           if(title.contains(v) || body.contains(v)) {
             val postCount = numberOfPostsPerVersion.getOrElseUpdate(v, 0)
-            val normalized = 1/dateMap.get(date).get.toFloat
+            val normalized = 1.toDouble/dateMap.get(date).get.toDouble
             numberOfPostsPerVersion.put(v, postCount+normalized)
           }
         })
