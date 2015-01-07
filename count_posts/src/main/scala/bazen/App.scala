@@ -30,29 +30,39 @@ object App {
       val input = scala.io.Source.fromFile("..\\data\\bootstrap-versions.csv").getLines().mkString.split(",")
       val versions = input.map(v => v.stripPrefix("v"))
 
+      val inputDate = scala.io.Source.fromFile("..\\results\\posts_per_day_total.txt").getLines()
+      val dateMap = inputDate.map(s => {
+        val splitted = s.split(",")
+        (splitted(0),splitted(1).toInt)
+      }
+      ).toMap
+
+
 
       // Configure to be Read Only
       val statement = conn.createStatement(ResultSet.TYPE_FORWARD_ONLY, ResultSet.CONCUR_READ_ONLY)
 
       // Execute Query
-      val rs = statement.executeQuery("SELECT Title, Body FROM posts INNER JOIN posttags ON posts.id = posttags.PostId WHERE posttags.TagId = 72270")
+      val rs = statement.executeQuery("SELECT Title, Body, CAST(posts.CreationDate AS DATE) as dag FROM posts INNER JOIN posttags ON posts.id = posttags.PostId WHERE posttags.TagId = 72270 AND PostTypeId = 1")
 
       // Iterate Over ResultSet
 
-      val numberOfPostsPerVersion = scala.collection.mutable.Map[String, Int]()
+      val numberOfPostsPerVersion = scala.collection.mutable.Map[String, Float]()
       while (rs.next) {
         val title = rs.getString("Title")
         val body = rs.getString("Body")
+        val date = rs.getDate("dag").toString
         versions.foreach(v => {
           if(title.contains(v) || body.contains(v)) {
             val postCount = numberOfPostsPerVersion.getOrElseUpdate(v, 0)
-            numberOfPostsPerVersion.put(v, postCount+1)
+            val normalized = 1/dateMap.get(date).get.toFloat
+            numberOfPostsPerVersion.put(v, postCount+normalized)
           }
         })
       }
       println("starting writing")
-      val writer = new PrintWriter(new File("..\\results\\posts_per_version_total.txt" ))
-      numberOfPostsPerVersion.toSeq.sortBy(_._1).foreach((tuple: (String, Int)) =>{
+      val writer = new PrintWriter(new File("..\\results\\posts_per_version_total_normalized.txt" ))
+      numberOfPostsPerVersion.toSeq.sortBy(_._1).foreach(tuple =>{
         writer.write(tuple._1+","+tuple._2+"\n")
       })
       writer.close()
