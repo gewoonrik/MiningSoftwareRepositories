@@ -28,9 +28,11 @@ def postBodiesToDocuments() :
     curr.execute(statement)
     rows = curr.fetchall()
     for row in rows :
-        body = re.sub(r'https?://[^\s<>"]+|www\.[^\s<>"]+', ' ', row[1])
+        body = re.sub(r'(<code>.*</code>)', ' ', row[1])
+        body = re.sub(r'https?://[^\s<>"]+|www\.[^\s<>"]+', ' ', body)
         body = re.sub('<[^<]+?>', '', body)
         body = re.sub('&[#a-zA-Z ]+?;', '', body)
+        body = re.sub('([\w]*[-!@#$%^&*+_)(*&/<>:"{}\\|=\]\[{}/.\']+?[\w]*)', '', body)
         filename = str(row[0]) + ".txt"
         f = open('./data/' + filename, 'w')
         logger.debug('Writing post %s to a file.', row[0])
