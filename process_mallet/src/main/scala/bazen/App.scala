@@ -46,7 +46,7 @@ object App {
       countPerTopic.map(a => {
         a._2/numberOfFiles
       }).foreach( value => {
-        writer.write(value+"\\n")
+        writer.write(value+"\n")
       })
       writer.close()
 
