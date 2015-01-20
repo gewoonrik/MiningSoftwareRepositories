@@ -1,0 +1,1 @@
+I need a popover in my modal with   3.0.2  Hi my problem isthat the popover that shoud be in the model when toggled, are instead directing to the body behind the modal in the top left corner and not shown in the modal.    here is my index code:         If you wanna ask me something pls do i really need help with this. (sorry for bad english :D )  

@@ -1,0 +1,1 @@
+Multiple play buttons and vimeo with Froogaloop & jQuery  I have multiple play buttons on a page that launches a twitter   modal that contains a vimeo video. Unfortunately I'm not able to get a play button to play a particular video. It plays them all. Is there a way to tie each play button to a single video?    I have an example loaded up here         JAVASCRIPT:        

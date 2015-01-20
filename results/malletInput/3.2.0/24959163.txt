@@ -1,0 +1,1 @@
+Bootstrap ancor doen't collapse mobile navbar  I am using Bootstrap v3.2.0 and have created this navbar:      to each link, it would work, but it didn't.  

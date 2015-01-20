@@ -1,0 +1,1 @@
+Bootstrap Collapse not working  I am trying to create a collapsable component using Bootstrap. My code is this         The "Collapsible Group Item #1" when clicked should collapse the items in class "panel-body" but it doesn't there is no effect of click. I copied this code directly from Bootstrap documentation still it doesnot work. Can anyone figure out what is the problem?  

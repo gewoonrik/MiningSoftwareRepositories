@@ -1,0 +1,1 @@
+How does Bootstrap create spans from @columnWidth?  I'm trying to modify Bootstrap 2.3.2's default 940px grid to something a little wider.     I changed   and turning it into spans. Seems basic, but I'm stumped.    Thanks for any help.  

@@ -1,0 +1,1 @@
+Tried to load twitter  , now getting a funny error  I just ran:         Can someone help? I don't know what I need to do to get the rails server working... Thanks!  

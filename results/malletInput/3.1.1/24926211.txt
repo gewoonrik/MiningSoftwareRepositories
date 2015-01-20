@@ -1,0 +1,1 @@
+Why I can't link the CSS file even when I run code from Wiki page for Bootstrap?  I came across a problem when I tested the example code on wiki page of  Bootstrap .          As you can see:      then it works!      So I am confused now. Does it mean the usage in the wiki page for   is wrong? Or am I getting something wrong?  

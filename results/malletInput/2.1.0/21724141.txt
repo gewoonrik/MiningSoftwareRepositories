@@ -1,0 +1,1 @@
+Bootstrap3 javascript hide/show error message  I have a problem with Bootstrap 3. I would like to show a DIV when there is an error detected in a form with javascript. The control seems to be ok but the DIV doesn't show. Thank's in advance    html code :       

@@ -1,0 +1,1 @@
+Rails 3.2.3 + Twitter Bootstrap + Nav-Tabs: How to show a specific tab?  another newbie-question regarding rails and  .    I am using something like this:       

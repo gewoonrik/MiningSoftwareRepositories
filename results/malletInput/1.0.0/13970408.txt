@@ -1,0 +1,1 @@
+how can we add another left sidebar to our site  i m working on wordpress with   theme.i m using a Main left-sidebar on my site.as i put the code into WIDGETS> MainSidebar but now i have a problem that on clicking a link i want to open another page having same as my home page but different sidebar.how can i achieve it??    Here is my Template for  :Page Template (page.php)       

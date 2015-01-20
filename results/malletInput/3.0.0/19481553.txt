@@ -1,0 +1,1 @@
+Bootstrap 3.0 - Static table horizontal size in the panel  I can not understand why the size of the nested table is static large then the panel decreases with the size of the browser. What can I do about it?         Example:     Screenshoot:      

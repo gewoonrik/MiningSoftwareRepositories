@@ -1,0 +1,1 @@
+Twitter-  Layout for form  I am trying to design UI form using Twitter Bootstrap (v2.3.2).    My layout currently looks like below      and my code looks like         However I want the layout to look something like;      How do I fix the layout ?  

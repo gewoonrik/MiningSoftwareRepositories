@@ -1,0 +1,1 @@
+Bootstrap 3.0 datepicker  I'm trying to include a datetime picker on my   page.    I dont know what im doing wrong. The button just doesn't do anything!    I included the js from   and  -datepicker and moment.js just like eonasdan says...    Could anyone help?       

@@ -1,0 +1,1 @@
+How to avoid conflict of wordpress plugin css and theme css?  I have used twitter   to my Wordpress plugin. But after install the plugin, it is changing style of the theme that has already  . How can i avoid this conflict? I have added   to the plugin as follows         Please tell the solution.  

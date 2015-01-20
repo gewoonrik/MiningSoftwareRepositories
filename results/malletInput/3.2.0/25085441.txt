@@ -1,0 +1,1 @@
+Compass Bootstrap Sass on Mac  I am having problems compiling my project. I installed everything non-Rails using gems. I am getting these errors:       

@@ -1,0 +1,1 @@
+Jquery Mobile Navbar for Tiwitter  How do I implement Jquery Mobile Navbar  and Footer App Bar to Tiwtter if the device is Mobile Version.           Thanks, ineffablep  

@@ -1,0 +1,1 @@
+Rails + Twitter Bootstrap -- btn-mini btn-small not changing size  Looking to use an icon for a delete button in a table, as shown below:         Thanks!  

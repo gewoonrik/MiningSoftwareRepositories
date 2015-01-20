@@ -1,0 +1,1 @@
+ -wysihtml5 no method 'wysihtml5' error  I'm currently trying to implement  -wysihtml5 into my website, but whenever I try to call the wysihtml5() method, I get the following error in the console:         I have tried placing the textarea outside of the modal, with no luck.  

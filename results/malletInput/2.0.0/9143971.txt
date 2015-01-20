@@ -1,0 +1,1 @@
+Using twitter   2.0 - How to make equal column heights?  Does   2.0 have any helpers to make .span1, .span2 .... .span12 equal height. I've nested this type of html         I would like each well to end up the same height if possible?  

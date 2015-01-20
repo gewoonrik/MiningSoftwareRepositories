@@ -1,0 +1,1 @@
+How to denote .abc = .xyz in CSS (not comma-seperated)?  In Bootstrap 2.3.1, there is a portion:         I know it can be done, simply by comma-seperated classes, but in that way the statements are to be mentioned again. I don't want such huge code block's repeat.  

@@ -1,0 +1,1 @@
+Load Bootstrap modal on page load without firing button or using jQuery  I'm trying to launch a Bootstrap modal on page load without firing a HTML button or using jQuery.    Here's my code:         But I don't want to call a method or fire a button. Is there a way to launch modal automatically on page load?    Demo:  Fiddle   

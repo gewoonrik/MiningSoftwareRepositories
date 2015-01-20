@@ -1,0 +1,1 @@
+Bootstrap 3.0 and Font Awesome  I have been using Bootstrap and Font Awesome for a while now with no problems. It seems that when I changed over to Bootstrap 3 the Font Awesome icons are no longer showing up in IE10 and Firefox. But it works fine in Chrome and Safari.    I have the same icons in a project I did in RC1/RC2 and that still works fine. Anyone know what happened?  

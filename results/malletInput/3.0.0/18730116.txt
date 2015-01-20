@@ -1,0 +1,1 @@
+Twitter Bootstrap 3.0 how do I "badge badge-important" now  In version two I could use         badge badge-important      I see that the .badge element no longer has contextual (-success,-primary,etc..) classes.    How do i achieve the same thing in version 3?    Eg. I want warning badges and important badges in my UI  

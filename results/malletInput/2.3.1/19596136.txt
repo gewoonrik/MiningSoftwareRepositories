@@ -1,0 +1,1 @@
+Loading Google Map into Bootstrap modal  Inserting a Google Map into a   modal is giving me the 'gray box' result, and I don't see the issue.    I thought I'd fire the model('show'), then load the map on('shown') to avoid the conflicts talked about here  Showing a Google Map in a modal created with Twitter Bootstrap      Any help greatly appreciated       

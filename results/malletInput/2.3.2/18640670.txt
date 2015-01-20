@@ -1,0 +1,1 @@
+jQuery Bootstrap: "TypeError: 'undefined' is not a function (evaluating 'jQuery('#myModal').modal('hide')')  In my application I want to manually close a   modal view after the ajax request has been finished. I call      Additional information:      jQuery version: 1.9.1,    Bootstrap version: 2.3.2      Any ideas?  

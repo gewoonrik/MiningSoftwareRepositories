@@ -1,0 +1,1 @@
+Bootstrap .form-horizontal not working  I am a first-try   guy. The thing i want to achieve is to have labels and inputs same line nice and clean.    Anyone can explain me why in the below example labels are still above inputs? Am i doing something wrong?       

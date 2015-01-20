@@ -1,0 +1,1 @@
+Bootstrap 3 .navbar-toggle toggled state  I'm using   3.0 and working on a mobile site.  I'm trying to figure out how to change the background colour of the button.navbar-toggle when the navbar has collapsed.     Basically what I'm asking is how to show a 'pressed' state on mobile device when the navbar menu is opened?  

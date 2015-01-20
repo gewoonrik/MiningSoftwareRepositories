@@ -1,0 +1,1 @@
+Bootstrap 2.1.1 "Collapsible" not opening first time in IE  The first time you click to open the   "collapsible" accordion in IE 7/8/9, it does not open. Anyone else run into this or can figure out why?    Thanks       jsfiddle demo:           

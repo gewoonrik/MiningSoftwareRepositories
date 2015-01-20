@@ -1,0 +1,1 @@
+troubles showing   modal  I am trying to show a hidden modal I have declared at the beginning of the body of a   page dependently on a value contained in the current session. To this end I am using    

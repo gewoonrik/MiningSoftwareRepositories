@@ -1,0 +1,1 @@
+Twitter Bootstrap and jQuery.ui conflict in Rails 3.2.8  I have  a rails app that deals with Bootstrap 2.0. It also uses  jQuery autocomplete combobox . My application.js looks like this:         How can I solve this issue?  

@@ -1,0 +1,1 @@
+trying to align three images in twitter   2.3.2 row/span  I am trying to align all three images so they are centered in the row, evenly.    Here is a fiddle of the markup,             I've tried text-align:center; I've tried pull-left/right. I am not having any luck. Any help is appreciated.    Thanks!  

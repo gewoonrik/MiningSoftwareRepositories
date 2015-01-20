@@ -1,0 +1,1 @@
+extend border line to the bottom of page tabs-left         The line to the right of inbox, sent , archived, trash; I want it to go all the way down to the bottom of the screen and I have no idea how to do that.  I'm using   3.0 and this css code to make the tabs come from the left       

@@ -1,0 +1,1 @@
+Bootstrap tabs not working in IE8  I'm using twitter   3 to build a simple web page that contains tabs panel inside it. it works fine on most of the browsers..    But the tabs panel doesn't work on internet explorer 8         3) Add html5shiv.js and respond.js    But it's still not work though lol Anyone have a solution for this problem?    Thanks for your looking :)   

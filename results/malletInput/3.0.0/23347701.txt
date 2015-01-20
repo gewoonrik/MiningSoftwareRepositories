@@ -1,0 +1,1 @@
+Twitter   3 how to activate navbar-collapse on small devices  I'm using   3.0 and working on a mobile site. I'm trying to figure out how to show and activate navbar-toggle on viewing tablet devices (Small / SM Device) because the navbar-collapse only works at Extra small devices . There is no problem while using   2    heres my code       

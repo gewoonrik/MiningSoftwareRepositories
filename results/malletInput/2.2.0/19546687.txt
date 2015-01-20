@@ -1,0 +1,1 @@
+Trying to install gems needed to run the twitter Bootstrap gem - getting error while running bundle  I have a regular Rails 4 app for which Im trying to incorporate the twitter   framework.     The relevant parts of my gemfile looks like this:         What am I doing wrong? Thanks  

@@ -1,0 +1,1 @@
+Align divs horizontally using Bootstrap  I have the following code         I need one div to be at the left and the other div to the right using Bootstrap 3.1.1 or css without forgetting responsive design. Thanks.  

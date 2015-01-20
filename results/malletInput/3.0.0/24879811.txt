@@ -1,0 +1,1 @@
+HTML Page selection  I am coding a contact page in   3.0 and the problem is that when i enter some values in the contact form , and try selecting the entered values , either with my mouse or by pressing  CTRL + SHIFT + Left arrow key , nothing selects . i don't know why . can somebody help me out with this ?     thank you .     below is the code for my contact form.        

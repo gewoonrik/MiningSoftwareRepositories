@@ -1,0 +1,1 @@
+Bootstrap 3: Dropdown menu on a fix top bar navbar inverse NOT DROPPING DOWN  It seems that the code is fine but on browser the drop down menu does not work the menu is simply not dropping down... I have attached the js script string as well... I don't know what to do, I can't find the problem...     Thanks,    Max       

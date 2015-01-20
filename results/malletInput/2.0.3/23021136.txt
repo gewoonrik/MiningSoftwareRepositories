@@ -1,0 +1,1 @@
+Typeahead.js is not filling dropdown menu  I'm using typeahead.js with Bootstrap 3, I tried a lot but the problem is typeahead is not filling dropdown menu           HTML code:           Note : I tried Typeahead v0.9.3 and It's worked but without new features (hint,highlight...etc)    any help please  

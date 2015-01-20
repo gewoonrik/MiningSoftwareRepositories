@@ -1,0 +1,1 @@
+HTML form: use dl, dt, dd for laying out form inputs, but get distorted by a dropdown menu  I am doing a website. I have a form that has many elements. Many rows have two or three inputs in the same row.    I am using dl/dt/dd for placing form inputs in a row in the following way:       

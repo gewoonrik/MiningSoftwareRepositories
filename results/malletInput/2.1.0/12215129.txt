@@ -1,0 +1,1 @@
+Rails 3 and Twitter  's sidebar (affix) - how?  I have simple RoR 3.2 application with Twitter   2.1.0 (i implemented it via twitter- -rails gem). I want to integrate sidebar with few links (as you can see on twitter   page on the left side) but i can't get how to implement this (yes, i'm noob). Does anyone have solution how to do that in Rails?    My application layout:       

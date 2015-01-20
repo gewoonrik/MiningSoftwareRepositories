@@ -1,0 +1,1 @@
+Twitter   rails error. "undefined local variable or method `flash'"  I added twitter- -rails (2.0.1) to my gemfile and then ran "bundle install". Next I ran "rails g  :install" and everything was fine. To generate the layout I did the following and got an error:         How do I take care of this? I'm running rails 3.2.1, ruby 1.9.3p0, and am using 'haml-rails'.  

@@ -1,0 +1,1 @@
+Twitter Bootstrap content in container not centered  I'm using Twitter Bootstrap for a site. I'm trying to get the content centered. Traditionally I would simple create a custom    

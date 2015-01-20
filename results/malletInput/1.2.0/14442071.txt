@@ -1,0 +1,1 @@
+Disabling Twitter Bootstrap styles on forms like JQM  It's possible to add data-role="none" on form elements in jQuery Mobile if you want to just use the native styles        Is there a similar option for Twitter Bootstrap? Can't seem to find anything on this.  

@@ -1,0 +1,1 @@
+Bootstrap 3 multiple navbars  I'm having trouble with multiple   in Twitter Bootstrap 3.  First Navbar is working ok with resizing and responsive. Second navbar doesn't work properly in normal resolution, but when i try to do size to responsive and after resize it's working okay.    Here's some code:         Here's link to bootply how to do it proper          

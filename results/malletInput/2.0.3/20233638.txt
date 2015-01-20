@@ -1,0 +1,1 @@
+Buttons on   timepicker is not showing  I'm using a time picker but I can't get to make the buttons show. Here's how the timepicker looks.         Here's how I render it.         I got the css files and the js files for the timepicker  Here .    Any ideas what's causing this? Thanks!  

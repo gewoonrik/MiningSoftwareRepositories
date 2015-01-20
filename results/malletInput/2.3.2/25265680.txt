@@ -1,0 +1,1 @@
+How do we specify path to the   2.3 glyphicon icons  How do we specify the path to glyphicon icons  image     Currently, I have this setup         instead.  

@@ -1,0 +1,1 @@
+AngularJS modal is not working  I am getting following error to test modal in Visual Studio ASP.NET MVC program. Although It works fine in Plunker         Error in Browser console:        

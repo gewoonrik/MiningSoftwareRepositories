@@ -1,0 +1,1 @@
+Bootstrap 3 level mobile menu doesn't wrap after click  I have problem with 3 level dropdown menu on mobile devices. When I click on    

@@ -1,0 +1,1 @@
+Twitter Bootstrap : vertically align child div with height  I am using Bootstrap v3.1.1 to design web app. I hav three divs in the middle div i have a small div and i need to place it vertically aligned.     Here is what i got so far.         Someone please help, Thanks.  

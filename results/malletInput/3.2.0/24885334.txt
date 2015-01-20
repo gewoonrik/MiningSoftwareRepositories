@@ -1,0 +1,1 @@
+Twitter Bootstrap - Button not rendering       Can someone explain why the  tag was not rendered in firefox? I'm playing with twitter  .     What I wanted was to have a drop-down button called "Rooms" in the nav-bar which drops down "Garage" and "Toilet"    Thankyou  

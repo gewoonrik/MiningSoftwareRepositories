@@ -1,0 +1,1 @@
+links in   3.0 navbar not woking in mobile browser  I have included   3.0 version of  .js and  .css. The problem what I was facing is navbar works fine in desktop browser even though I resize the browser but hyperlinks in navbar are not working in mobile browser. I know that independent of   nav bar should work since it is provided with    

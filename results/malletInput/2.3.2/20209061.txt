@@ -1,0 +1,1 @@
+Twitter Bootstrap modal should create new instance every time it opens  I am using      But it does not seems to be working.  

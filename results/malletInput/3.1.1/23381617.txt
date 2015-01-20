@@ -1,0 +1,1 @@
+white space and title not being displayed  There is a spacing of about 20 pixels separating my body and the top of the browser. I cant seem to create a remove this and create a 0 distance. Also my title isnt being displayed. I can't seem to figure out what is causing this.     css:       

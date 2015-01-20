@@ -1,0 +1,1 @@
+jQuery click function returns all images from instagram api in   modal  I have been piecing together a script using jQuery and instagrams api. I want to display the image/video in the   modal when that image/video is clicked. Currently it displays all the images that have loaded when you click on one. What am I misshing? Here is my complete script -        

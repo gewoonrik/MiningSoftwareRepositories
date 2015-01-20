@@ -1,0 +1,1 @@
+Bootstrap Collapse tweening  I'm using the Bootstrap Collapse plugin       .com/2.3.2/javascript.html#collapse     My problem is I need to call a function on each transition step of the collapse as I need to reposition a sliding panel, similar to the JQuery Animate step functionality.    Is this possible?   

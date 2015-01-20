@@ -1,0 +1,1 @@
+Trouble with chosen and    I'm trying to implement visual tags, as based on the Railscasts episode:        For some reason the chosen library cannot be found (see error below from the javascript console). I'm also a bit concerned there are all those   errors.    application.js         ** EDIT 3**    Related question:  chosen-rails error chosen is not a function   

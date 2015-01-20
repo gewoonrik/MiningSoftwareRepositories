@@ -1,0 +1,1 @@
+"Uncaught SyntaxError: Unexpected token { " in Bootstrap 2.1.0 bundled with Joomla! 3.0  I'm using Joomla! 3.0, which has Twitter Bootstrap 2.1.0 included. I want to do my own Joomla! template, and I need to use dropdown menus. When I include following CSS/JS:     , line 19  

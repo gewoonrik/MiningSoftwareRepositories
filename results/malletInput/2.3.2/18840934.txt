@@ -1,0 +1,1 @@
+One   for many items  I'm using   2.3.2. I got this div class SingleNewsMain applied to many news items         But the point is, that it is applied only to the first div class "SingleNewsMain", other divs remain unchanged and dont have padding. Where did I fail?  

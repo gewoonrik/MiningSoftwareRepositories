@@ -1,0 +1,1 @@
+How to compile older  3?  I want to build custom  3. I visited official website and went here:    .com/customize/     The problem is that this application allows only to build the current (3.2) version, but I want to build 3.0.3 (latest that works properly on my website).    I just want to set gutter width to 0px. Is it possible to build older release?  

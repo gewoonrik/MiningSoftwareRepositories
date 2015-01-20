@@ -1,0 +1,1 @@
+How to center elements inside div  I'm using   2.3.2. I have a div with some wells inside. Here is a  Preview     My structure is         The wells are inside a row div, how to center all the wells horizontally?    Here is the  jsfiddle  with the code.  

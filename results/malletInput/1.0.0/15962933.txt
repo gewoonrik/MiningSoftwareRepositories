@@ -1,0 +1,1 @@
+Bootstrap carousel in an Ember app  I'm a bit new to ember.  I have my app basically setup the way I want it, but now I need to add a carousel to the page.  I add the following sample (taken from  's example) to my template:         Is there something special I need to do to tell ember to make this work?  

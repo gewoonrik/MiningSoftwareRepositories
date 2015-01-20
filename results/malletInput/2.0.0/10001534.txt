@@ -1,0 +1,1 @@
+Why is the responsiveness getting lost even when the two tables are same?  I am using the same sample from Twitter Bootstrap 2.0 above as you can see in the picture, and then using the code at hand. It is not responding well to screen size changes as you can see in the screenshot attached. It's quite weird. Even the source code looks same. ERr            

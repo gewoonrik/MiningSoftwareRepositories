@@ -1,0 +1,1 @@
+Bootstrap is not working with Rails 4  I'm going through Michael Hartl's Ruby on Rails Tutorial, and I have problem with running   with my application. I've searched google to fix this error but I wasn't able to find anything helpful. Can some explain me why is this error occuring?    Here you can see the error:       

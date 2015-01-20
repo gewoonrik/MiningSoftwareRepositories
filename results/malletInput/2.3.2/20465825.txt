@@ -1,0 +1,1 @@
+Vertical align middle with Bootstrap responsive grid  I have a very simple problem on vertical middle a   table-cell. I copied that method here  How to use vertical align in    (with working example here    )    My challenge is a bit different due to requirements above. Any idea on how to make it work? Thanks.  

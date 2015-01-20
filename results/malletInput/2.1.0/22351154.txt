@@ -1,0 +1,1 @@
+activate menu onclick in   with codeigniter  I want to activate the menu on click .I am using   with codeigniter however I have tried a lot but its not working . Here is my top_menus.php code.       

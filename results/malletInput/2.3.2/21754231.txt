@@ -1,0 +1,1 @@
+How to adjust the delay of the opening of a Bootstrap modal?  I am using   has to do with the process of adding backdrop. I wish to speed up the process of the modal traveling from the top of the screen to its final position. This process happens after the backdrop is added.  

@@ -1,0 +1,1 @@
+  Invalid CSS selector button::-moz-focus-inner  My editor is rubymine5.4.3 I download   2.3.2 on official page, when I use it in below index.html(I hit shift + f9(debug this html))       

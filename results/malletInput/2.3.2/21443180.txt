@@ -1,0 +1,1 @@
+Glyphicons not applying to my i class  I can't get glyphicons to apply to my i class. Not sure why. My code is:    My HTML is (reduced by 80% for test case):         However, the only style that's being applied is from my style.css        So I'm not sure how to even use the glyphicons at this point. I thought it'd be simple :/ Not sure what I'm doing wrong. Looked so easy.  

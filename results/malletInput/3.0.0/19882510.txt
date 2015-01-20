@@ -1,0 +1,1 @@
+Stack level too deep while registering on Devise  I am currently getting an error while registering with devise. When I press submit on the sign up form, I am redirected to /users with this error:    SystemStackError in Devise::RegistrationsController#create  stack level too deep    Rails.root: /Users/user/Desktop/Programming/Rails/Site    Request    Parameters:       

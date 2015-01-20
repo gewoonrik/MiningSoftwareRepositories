@@ -1,0 +1,1 @@
+Twitter Bootstrap Modal not working in Rails  I am still fairly new  ?   

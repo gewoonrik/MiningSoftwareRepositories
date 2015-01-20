@@ -1,0 +1,1 @@
+Full width input group on   3.1.0 navbar  I've got some troubles with   v3.1.0.  I need to get search bar that will fit entire width of the navbar like this (v3.0.3):     But it feels like there is some troubles with input group and I am getting that (v3.1.0):     Any ideas how to fix that? Or is there another way to get same result?       

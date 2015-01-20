@@ -1,0 +1,1 @@
+Does twitter   typeahead supports remote data source?  Does typeahead feature support remote data source in version 2.0.3 of twitter- ?    The link to typehead functionality     /javascript.html#typeahead   

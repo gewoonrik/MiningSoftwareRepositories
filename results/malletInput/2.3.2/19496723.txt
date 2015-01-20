@@ -1,0 +1,1 @@
+Reliably hide Bootstrap modal  I'm using  ? I don't want to remove the dialog completely from the DOM, because the same dialog may be re-used on the page.  

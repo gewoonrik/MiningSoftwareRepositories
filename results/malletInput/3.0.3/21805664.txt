@@ -1,0 +1,1 @@
+images-less Bootstrap Directory Tree - font-awesome icons not changing  I am creating Image-less directory tree using  , so far i have managed to do something like this . but font awesome icons are not showing up. ref:    -tree     HTML                In above example, the font awesome icons are not rendering.    thanks for your time.  

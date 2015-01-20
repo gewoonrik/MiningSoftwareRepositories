@@ -1,0 +1,1 @@
+Nav collapse not working with twitter   - icon not appearing  Im having the exact same problem as stated on this answered post -  nav-collapse not working [Twitter Bootstrap]     I apologize for being a newbie but I assume the answer here means that I should place:       

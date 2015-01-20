@@ -1,0 +1,1 @@
+Bootstrap Fixing navigation bar on top when scrolling  I have a webpage with navigation bar using  . I wanted the navigation bar to fix to the top of the webpage when scrolling down the web page.    But my navigation bar were not able to fix at the top. It became static instead.    Below is my code. How can I go about doing it?       

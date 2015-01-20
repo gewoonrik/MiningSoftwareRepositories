@@ -1,0 +1,1 @@
+Angular Bootstrap 3 nav-bar submenu will not fire  I have Angular 1.2.1 and  Bootstrap 3.0.2     Plain vanilla nav menu with a drop down works fine but when I try to generate my menu using ng-repeat the submenu will not fire.    The HTML:       

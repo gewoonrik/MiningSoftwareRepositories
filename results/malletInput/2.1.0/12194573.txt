@@ -1,0 +1,1 @@
+Bootstrap: Dropdown within Breadcrumb  Apparently, this particular combination (dropdown inside a breadcrumb) is not supported very well:         My markup (Bootstrap 2.1.0):         Am I doing something wrong here?  

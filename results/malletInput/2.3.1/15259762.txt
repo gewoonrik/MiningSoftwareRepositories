@@ -1,0 +1,1 @@
+Twitter BootStrap - Responsive Design  I have followed the instructions on the Twitter Bootstrap site to post the following two lines of code into my pages head       

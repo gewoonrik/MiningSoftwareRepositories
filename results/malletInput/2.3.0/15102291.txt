@@ -1,0 +1,1 @@
+Stopping carousel on last slide on twitter bootstap v2.3.0  So I have been searching around and can't seem to get a clear answer.  I have 5 images and I want it to stop at the end of the last slide. Can someone please help me.    Here is the code:      but it still goes and the third slide goes twice more (obviously for slide 4 and 5) then it goes back to 1.  

@@ -1,0 +1,1 @@
+Bootstrap 3 responsive classes change display property  When upgrading my project from Bootstrap 2.3 to Bootstrap 3.0 I noticed that adding a responsive class, e.g.   behavior of those elements? And is there an easy workaround to restore the behavior known from Bootstrap 2.3 and earlier?  

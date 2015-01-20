@@ -1,0 +1,1 @@
+Select textbox after clicking it in a checkbox type  I am using twitter   . I want to focus textbox in two ways:      clicking the correspondent checkbox or   clicking the textbox      these two cases are not working.     See this fiddle.     CSS:  -3.0.0    HTML:       

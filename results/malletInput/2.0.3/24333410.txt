@@ -1,0 +1,1 @@
+2 jQuery scripts not working together  I am using jQuery 2.0.3 and  .    I have function created in jquery, one for the dropdown menu and other for changing images on page load.          When both of the are used together, the function for images on page load stops working.    Any help will be appreciated.  

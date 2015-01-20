@@ -1,0 +1,1 @@
+Bootstrap modal showing or not depending on   version  I'm relatively new to web programming so I used a couple of templates to create my website, all of them related to Twitter Bootstrap.    My login page correctly shows Bootstrap modals. These are the imports I used there:              Instead of this:         Any ideas?  

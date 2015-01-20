@@ -1,0 +1,1 @@
+Incorrect generation of    My problem is that doing all through Hyde and generating a page with 3 Bootstrap eventually some reason I get the Bootstrap 2     Gemfile:          But this hasn't helped me!  

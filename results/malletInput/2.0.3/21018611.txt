@@ -1,0 +1,1 @@
+Jade Bootstrap v2.0.3 dropdown Menu not displaying submenus  Using Node JS, Express, Jade and Bootstrap Dropdown menu items are not being displayed. Only Menu and caret are displayed, but not any items, when I click nothing happens. In Console I get this:       

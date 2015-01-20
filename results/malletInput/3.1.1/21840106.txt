@@ -1,0 +1,1 @@
+Bootstrap 3.1.1 scrollspy IE9 issue  I've a strange issue with scrollspy. It works correctly in Firefox and Chrome, but not in IE9. Only in IE the second navigation link is active instead of the first one when loading the page. But if I change the offset it doesn't work correctly in other browsers.       

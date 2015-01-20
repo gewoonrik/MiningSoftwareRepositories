@@ -1,0 +1,1 @@
+How to copy code from jsfiddle.net?  Maybe I've made simple mistake but can't make it code coppied from jsfiddle.net to work.    here is link to  jsfiddle.net     and here is the code I'm using but for some reason   modal is not opening :       

@@ -1,0 +1,1 @@
+Bootstrap checkbox  I've been developing a web application using   3.0.2 and jQuery. But I've some problems with checkboxes. Imagine that I’ve the following checkbox:         It'll check the checkbox, but if I called several times after this, for checking and unchecking the checkbox will not check again.    Any clue for this strange behavior?    Thanks.  

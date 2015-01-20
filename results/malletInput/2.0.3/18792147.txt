@@ -1,0 +1,1 @@
+Bootstrap navbar empty on IE9  I tried to use the   template to generate a navbar on my aspnet mvc application.    Everything works fine on Firefox and Chrome, but on IE my menu is transparent :           I checked, I have the    

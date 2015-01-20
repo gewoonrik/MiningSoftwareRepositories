@@ -1,0 +1,1 @@
+Reference twitter-  inside a Codeigniter view  I'm trying to reference the      And so on... But the style is just plain html.    I know there are plenty of questions in stackoverflow regarding this, like  this one , but I haven't found a solution in them. Any help would be great.  

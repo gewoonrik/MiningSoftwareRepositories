@@ -1,0 +1,1 @@
+How to integrate  3.0 with LESS in wordpress?  I was able to include Bootstrap 3.0 CSS and javascript files with the help of         wp- -navwalker available at:           -navwalker       There wasn't any problem when I included CSS file through      So generally speaking, how can we integrate Bootstrap LESS file during wordpress theming? (I am using underscores starter theme)  

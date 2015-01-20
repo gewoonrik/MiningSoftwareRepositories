@@ -1,0 +1,1 @@
+Twitter Bootstrap Tabs not changing on click  I am using Twitter Bootstrap v2.1.1 and its tabbable feature.     Problem:  When any of the tabs are clicked, the    

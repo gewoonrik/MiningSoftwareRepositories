@@ -1,0 +1,1 @@
+Align captions center & under the Featurette image in Twitter Bootstrap's Carousel Template  I'm trying to align a figure caption centered and underneath the      A centered caption under the three large browser icon images to be specific!        .com/2.3.2/examples/carousel.html   

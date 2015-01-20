@@ -1,0 +1,1 @@
+Using SimpleForm with Bootstrap 3?  I have a Rails application that uses the SimpleForm gem. The current SimpleForm 3.0.0.rc version provides attractive form styling using Bootstrap 2.3. But when I use Bootstrap 3.0, I lose the nice form styling. How do I use SimpleForm with Bootstrap 3?  

@@ -1,0 +1,1 @@
+Laravel4+Bootstrap: Redirect::back() - not at the top, but at the bottom of the site  I have made a site with Laravel 4 and Bootstrap 2.3.1. It is a one page site with four section:          Thank you!  

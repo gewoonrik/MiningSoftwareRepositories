@@ -1,0 +1,1 @@
+  modal popup not working when base path include  My   (3.0.2) modal won't show up. I've tried different buttons, links and all that but it simply won't show up. I appreciate any help!       

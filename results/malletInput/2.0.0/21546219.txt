@@ -1,0 +1,1 @@
+How to keep the nav active bg color to stay active when on a page?  I'm using    

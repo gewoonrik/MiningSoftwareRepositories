@@ -1,0 +1,1 @@
+Bootstrap popover not working properly  I am using twitter  -2.3.2 popover in my backboneJs project.    On click i am calling a function as which should trigger popover         function is called but popover doesn't open up.  

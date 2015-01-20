@@ -1,0 +1,1 @@
+Dropdown Submenus in AngularJS?  I wanted to make Dropdown Submenus similar to how they have it in   as denoted on this link under   array I have created.     If anyone could help me out, that would be great! Thanks!  

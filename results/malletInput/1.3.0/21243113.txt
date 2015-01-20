@@ -1,0 +1,1 @@
+Navbar covering text (Bootstrap)  I finally started playing around with twitter   a little but. Im trying to center some text in the middle of the page, however the Navbar is covering part of it. Can somebody help? Im still new to   and web design in general.        

@@ -1,0 +1,1 @@
+Getting Parsley 2.x working with Bootstrap 3 correctly  I am using   that the function runs. But I am new to jQuery and JavaScript, so I do not know how to debug it any further and fix it.  

@@ -1,0 +1,1 @@
+Why doesn't Twitter Bootstrap popover work with SVG elements?  I'm more of a C++ guy, but I am working on some web UI stuff at the moment. I can't seem to get a Bootstrap popover to show up on an SVG element.    Any ideas? The popover works on the normal div.    jsFiddle is here:           

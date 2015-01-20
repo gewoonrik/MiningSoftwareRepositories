@@ -1,0 +1,1 @@
+Radio button value is not properly sent when using btn-group  When I show fancy radio buttons using      Fiddle results:       

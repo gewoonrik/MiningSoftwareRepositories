@@ -1,0 +1,1 @@
+Bootstrap dropdown menu not working  I am having some trouble with a dropdown menu with  . I have browsed around the other questions on here and not found an answer that is working for me. Here is the HTML head         If anyone could help me figure out what I'm missing here I would really appreciate it. Thanks!  

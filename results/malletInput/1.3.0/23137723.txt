@@ -1,0 +1,1 @@
+Using  , the Js does not work  Im using a   theme but for som reason the js-files wont work. I suspect that I have som kind of path-error. This is really hard for me to troubleshot since there are som many different files, i´ll be happy to submit some of my code if you let me know what you want to see.    Any help appreciated.    Head of layout.cshtml       

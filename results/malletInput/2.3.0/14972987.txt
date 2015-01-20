@@ -1,0 +1,1 @@
+addClass not working  I have this code :     , i have control-grouperror (without space)    thanks for helping me  

@@ -1,0 +1,1 @@
+Bootstrap popover not working on iPad  I've got a   popover working so:      Popover opens on click   Popover closes when you click outside the popover   Popover has default href for if JS is disabled      Code is:         It's working fine across all browsers, but not on the iPad.  Any ideas why?  Where am I going wrong? Thanks :)    I am using Jquery 1.9.1,   2.1.1  

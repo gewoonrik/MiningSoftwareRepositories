@@ -1,0 +1,1 @@
+Input box and checkbox’s heights are different  I made a login box using Bootstrap 3.0.3. On the second line, the password input box’s and check box�?s (labelled    

@@ -1,0 +1,1 @@
+Bootstrap Form Submission and Modal  I'm trying to get my   3.0 form to: 1. Submit the form data when the submit button is clicked AND 2. Open a modal window where I deliver the confirmation message    Right now I can only get one or the other.    Here's my form code:       

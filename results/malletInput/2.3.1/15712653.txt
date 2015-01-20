@@ -1,0 +1,1 @@
+Centering text with Bootstrap 2.3.1  From searching around, I know this question has been asked before and I just... don't understand what is going wrong here.    I have tried about a million different angles and just can't get my text to center.    If anyone has any idea what the deal is and would like to let me know, that would be great.       

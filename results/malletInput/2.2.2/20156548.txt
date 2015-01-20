@@ -1,0 +1,1 @@
+Strange behaviour of the   button on focus into pagination  I use Bootstrap v2.2.2     And this is my button:      tag     How can I fix it?    Thank you,    (** comment : I'm not interesting to use   3.0)  

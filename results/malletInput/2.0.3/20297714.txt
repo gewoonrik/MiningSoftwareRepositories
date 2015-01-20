@@ -1,0 +1,1 @@
+query date time picker not get date in another function call  Can you please explain What is error here,and why i get undefined in second alert in loadchart function call?    I have problem with facing date from date timepicker..I also used   here    Here is ny code.           

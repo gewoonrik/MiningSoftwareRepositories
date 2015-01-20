@@ -1,0 +1,1 @@
+Basic grid using boostrap does not work  I'm new to twitter- , I've created a simple page(According to the  doc  ) as a follow:  But not working:         Something is missing ?  

@@ -1,0 +1,1 @@
+Action attribute will not be work in    I am using   3.0.3. I have coded form using php action. It didn't work properly. When i click submit button. action file was downloaded. It doesn't go to validation. I have xampp server. php file contains mail configuration. There is no problem for php/Server. Same script worked on without  .       

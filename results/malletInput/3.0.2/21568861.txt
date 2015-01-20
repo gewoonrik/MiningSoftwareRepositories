@@ -1,0 +1,1 @@
+The text of an error is not red  I have the following html output:         The inputBox itself and its title (label) are red but the error text is not. According to the documentation it should be. I wonder why and how do I fix this?    Twitter   3.0.2  

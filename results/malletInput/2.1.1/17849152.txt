@@ -1,0 +1,1 @@
+Bootstrap dropdown does not work  I'm starting to experiment with Bootstrap, but I'm not able to get the js dropdown function working the way it does in their doc.    The code I'm using is source from one of the example dropdown nodes on their own site.     

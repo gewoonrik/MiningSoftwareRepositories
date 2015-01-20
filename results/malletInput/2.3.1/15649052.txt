@@ -1,0 +1,1 @@
+Bootstrap sass permission denied  Im getting the following error after I've updated my gemfile and installed the gem:         Errno::EACCES: Permission denied - /Users/xxx/.rvm/gems/ruby-1.9.3-p194/build_info/ -sass-2.3.1.0.info   An error occurred while installing  -sass (2.3.1.0), and Bundler cannot continue.   Make sure that      at my wits end, can anyone help with this?   

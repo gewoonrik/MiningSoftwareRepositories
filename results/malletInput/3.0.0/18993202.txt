@@ -1,0 +1,1 @@
+Bootstrap 3.0 Collapse Horizontally  I would like to know how to use the collapse feature on Bootstrap 3.0 horizontally instead of vertically.    I know this has been asked here already ( Twitter Bootstrap Collapse plugin Direction ), but none of the answers works.  

@@ -1,0 +1,1 @@
+Getting Application Layout to work with Bootstrap4Xpages  I'm using Domino 9.0.1 and have managed to install correctly the Bootstrap Library 1.0.0.201403171254.    Under Application Configuration/Xsp Properties/General I have set the theme to be       

@@ -1,0 +1,1 @@
+Element not aligning  I am newbie to  , trying to get a make a template.                  Top image is what i wanted, but, what i am getting is the below output,         As one can see in the image, the links are in the same line as the brand name, which i do not want, it should be in the next line.  

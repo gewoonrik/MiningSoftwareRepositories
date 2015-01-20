@@ -1,0 +1,1 @@
+how to use the dynamic PHP ajax data with the bootpag  How can I display the dynamic content of PHP with   pagination.The result is displaying using ajax call in div id 'msrResult', how to use that div in    pagination code. Here my code:       

@@ -1,0 +1,1 @@
+What is the plus sign before a function?  Here is the JS code from  .js         I've seen ";" before a function to avoid mixing code before the function definition. But what does the "+" sign mean before the function mean? Is it going to convert the return to String?   

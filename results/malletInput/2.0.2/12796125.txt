@@ -1,0 +1,1 @@
+twitter   mvc3 collapse  i having a wired issue with TB and MVC3 in this fidel  working exemple  it use TB v2.0.2    but in my mvc3 project im using TB v2.1.1 and the collapse dont work...    this is all the scripts reference          thanks     miki  

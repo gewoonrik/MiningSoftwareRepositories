@@ -1,0 +1,1 @@
+jQuery .val('xxx') not setting value, but .attr('value', 'xxx') is?  I have a table which is populated with javascript, fetching data via ajax. I have a    

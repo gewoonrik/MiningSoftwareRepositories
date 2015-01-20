@@ -1,0 +1,1 @@
+ArgumentError in Rails::WelcomeController#index twitte    I have been developing using rails 4 and ruby 1.9.3, I was using the twitter   tutorial from    

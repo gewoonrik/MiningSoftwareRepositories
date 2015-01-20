@@ -1,0 +1,1 @@
+How to fix loginButtons in Meteor 0.9 with Bootstrap?  After adding the following to a Meteor 0.9 project:         the username/password dialog is shown partially outside the browser (same in Safari/Firefox/Chrome):         How can I fix it?  

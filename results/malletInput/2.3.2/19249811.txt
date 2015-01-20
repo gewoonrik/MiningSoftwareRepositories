@@ -1,0 +1,1 @@
+How to build a two column fluid layout with Twitter Bootstrap v3.0  Since   removed the *fluid css classes in v3.0, I couldn't find a way to build a two-column fluid layout. The goal is to achieve a layout similar to the Fluid Layout example in their old documantation:     .com/2.3.2/scaffolding.html#layouts   

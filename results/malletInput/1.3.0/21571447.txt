@@ -1,0 +1,1 @@
+Cannot insert data in codeigniter  I am a newbie in Codeigniter. I cannot insert data into my table. I have used   files too.    These are lines from View - groups.php       

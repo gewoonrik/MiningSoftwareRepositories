@@ -1,0 +1,1 @@
+  scrollspry doesn't highlight my nav  don't know what's going on here but i have the right code (i believe). My   scrollspry thing doesn't work. It's not highlighting any of the nav. Here's what i got so far....         It's pretty basic i would think. Any idea what i'm doing wrong here? Thanks guys!  

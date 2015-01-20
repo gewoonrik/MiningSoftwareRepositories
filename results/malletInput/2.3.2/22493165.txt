@@ -1,0 +1,1 @@
+Bootstrap 2: How to toggle an element by detecting a responsive navbar collapse event?  Here is the collapsable responsive navbar from the  Bootstrap 2 docs  with a search form added to it:         Doesn't seem to be working. Anyone know how to get this to work?  

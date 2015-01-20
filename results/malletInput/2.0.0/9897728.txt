@@ -1,0 +1,1 @@
+How to use twitter   with  -sass in rails app?  I'm quite new to this, but i cannot figure out the problem.    In twitter   i would use :         So in my case i think it should generate something like :     [class*="user-filter"] {       float: left;       margin-left: 20px;     }    or not?  

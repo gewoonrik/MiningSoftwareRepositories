@@ -1,0 +1,1 @@
+Rails Glyphicons are not showing up (BS 2.3.0)  I am having a very hard time displaying any Glyphicons in my Rails app. I can't display any of the BS 2.3 doc icon sets anywhere in my app. I actually downloaded a gem with some icons and those work great but I want to use the BS ones. What are some possible reaosns for this? This is my gemfile:       

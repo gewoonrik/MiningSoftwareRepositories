@@ -1,0 +1,1 @@
+  modal just shows darkened screen (no modal)  I have     which should load     as a modal, but it doesn't display it! What am I doing wrong? I have kept the code to bare minimum. The code source is     file=modal-with-remote-url  which works.              

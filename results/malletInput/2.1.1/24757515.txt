@@ -1,0 +1,1 @@
+Uncaught TypeError: undefined is not a function for date picker    I wanted to use datepicker of     ,what I use this code I got error        

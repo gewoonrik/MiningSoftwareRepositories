@@ -1,0 +1,1 @@
+Bootstrap 3 not working with angular-ui paginator  I am attempting to use the angular-ui paginator directive in ui- -0.6.0.js in an angular app that uses   3.0.2    I started with the example found here:    /          What do I need to do to get the paginator to work with   3?    Thanks for your time.  

@@ -1,0 +1,1 @@
+Bootstrap Typeahead: Return multiple pieces of data  I'm using Bootstrap v2.3.2's typeahead. I know how to return just one piece of data per result, but how would I return multiple pieces of data for each result?    For example, if I wanted to return the    

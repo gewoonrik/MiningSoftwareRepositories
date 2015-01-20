@@ -1,0 +1,1 @@
+How to avoid multiple jqueries clashes  I have a page that uses both Jquery's Fisheye and Bootstrap. Now the Fisheye isn't working whenever Bootstrap is used.I tried using :noConflict();    But it doesn't seem to help.Or maybe Im placing it wrongly? Below is my full page code.Kindly advise.Thanks in advance.       

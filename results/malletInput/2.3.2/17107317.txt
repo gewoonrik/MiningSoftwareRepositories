@@ -1,0 +1,1 @@
+How to use only one element from twitter  ?  How to use this (    -select  ) twitter   plugin only for one element on the page? If I use it all my site use twitter   element (url are blue etc.)              

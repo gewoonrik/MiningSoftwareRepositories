@@ -1,0 +1,1 @@
+Bootstrap 2.3.2 side content not responding properly to small screen  Initial view is like this. No problem here.    But when it responds to small screens it changes to      Why the images of right side in single column, they should be in a row until the device width is too small.     The Code I am using is          Hope this helps someone.  

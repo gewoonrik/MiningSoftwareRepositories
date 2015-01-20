@@ -1,0 +1,1 @@
+Bootstrap mobile app button size  I want to make a user interface for a mobile application with HTML5/Bootstrap 3. I have this:         The button is extremely small on my Windows Phone 8. It is about 1/4th the size of my finger.    How do I proceed making the appropriate size elements using   3?  

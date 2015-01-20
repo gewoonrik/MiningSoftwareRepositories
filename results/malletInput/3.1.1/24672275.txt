@@ -1,0 +1,1 @@
+Angular-UI Bootstrap's modal won't use   theme form  I'm having a style problem with my modal.      Here's the code of my modal :         What am I doing wrong ?    EDIT : I'm using Bootstrap 3.1.1   UI-Bootstrap 0.11.0,   

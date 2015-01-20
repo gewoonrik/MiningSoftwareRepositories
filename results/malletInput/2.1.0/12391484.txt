@@ -1,0 +1,1 @@
+Grails Twitter Bootstrap Plugin Issue with navbar-fixed-top  I am using  .  However, I would like to be able to use the Grails Twitter Bootstrap Plugin.     Thank you very much in advance, I appreciate it!  

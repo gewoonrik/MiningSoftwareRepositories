@@ -1,0 +1,1 @@
+Bootstrap's close button doesn't work  I'm trying to display an alert message with a close button with Twitter Bootstrap. But it doesn't work with Chrome. So I created a jsFiddle :    , but strangely this jsFiddle doesn't work.       

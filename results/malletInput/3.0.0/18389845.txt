@@ -1,0 +1,1 @@
+Twitter Bootstrap 3.0 - centered search box  I'm working in Bootstrap 3.0 trying to make a Google-style search box that has a "Search Help" link after the Submit button.     My problem: when I go responsive I lose my offset margins and the button wraps to the next line.      media query, but I don't know how to keep the input, button, and text all together.    Thanks!  

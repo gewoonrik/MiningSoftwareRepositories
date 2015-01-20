@@ -1,0 +1,1 @@
+In  , how make the thumbnails fluid resize well  I'm using   2.0 to make a fluid layout. However, I find it break bad when the browser is resize or when I see it from a iPhone:         This is my markup:         (The same markup with zero CSS aplied break bad too)    I have tried by CSS to put a width/height but that break the flow.  

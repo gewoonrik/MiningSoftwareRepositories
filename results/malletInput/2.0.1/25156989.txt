@@ -1,0 +1,1 @@
+" -sass" doesn't load Javascript on production  I am using   -sass  gem for Rails      Any ideas why it doesn't work on production?    Thank you  

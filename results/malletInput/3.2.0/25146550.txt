@@ -1,0 +1,1 @@
+Bootstrap tooltip doesn't show style of the tooltip, only data  Trying to make Bootstrap show the tooltip function, i have followed exactly as  Bootstrap DOC  about  Tooltips  and declare my attribute and properties. when i hover over the text the data      I really appreciate your help and thanks in advanced.    Here is image of how it shows.     

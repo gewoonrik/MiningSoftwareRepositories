@@ -1,0 +1,1 @@
+Bootstrap Popovers with ember.js template  I'm trying to use  Bootstrap Popover  with EmberJS, so that the content of the popover will be a ember/handlebars template (with binding etc). How can this be done? (Ember 1.0.0-rc2)  

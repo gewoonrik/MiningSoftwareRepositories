@@ -1,0 +1,1 @@
+Is there a loading pattern for using   with a npm project?  I have a npm project that uses jquery.      and I did not need the separate load.    Can anyone recommend a loading pattern for   with use with require?  

@@ -1,0 +1,1 @@
+can't insert 2 calendar elements in the same page with twitter    I'm using Bootstrap v2.1.1, and I can't insert two datepicker objects on the same page ( ). The first object works but not the second one.... This has happened before with the calendar object too...    Any idea on how can I solve this?  

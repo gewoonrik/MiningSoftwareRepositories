@@ -1,0 +1,1 @@
+glyphicons are not loading  For some reason the icons are not loading for the images when i use twitter   2.3.2. I have the default structure css/ img/ js/    Everything else works and i have also tried to add a simple icon like    

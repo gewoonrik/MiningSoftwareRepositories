@@ -1,0 +1,1 @@
+bringing twitter bootsrap typeahead above modal  This is my situation,    how can I fix this?          broswer.css  tried to remove- but changed nothing     I have two versions of modal.js new one where typeahead is below the modal        

@@ -1,0 +1,1 @@
+  alert not working  I am trying to make an alert using   and its not wokring. In the mozilla firebug console its showing        

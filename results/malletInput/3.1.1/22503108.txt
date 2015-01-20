@@ -1,0 +1,1 @@
+boostrap 3.1.1 navbar - toggle button does not appear on page  I am trying to use   nav bar with toggle functionality.  With sample code as below, my page is not showing toggle button on the header bar.  NavHeader (NavBarMenuCaption) and 1st menu item appears on the same line.     Bootply link         what could be wrong in below code?       

@@ -1,0 +1,1 @@
+how to make a fixed position div relative to another div?   has another height, I need to absolute position the banner !    Th goal is to create that template:    1)   tabs    2) a div inside one tab which is a div that will contain a chat    3) at bottom of that div, stuck a banner div which will contain the chat input text    regards    Here comes the desired result   

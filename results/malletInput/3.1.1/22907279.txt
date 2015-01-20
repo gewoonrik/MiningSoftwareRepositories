@@ -1,0 +1,1 @@
+Landing page occupying the entire height of the monitor - for every resolution  I want to get the effect like on this website:     Landing page occupying the entire height of the monitor    To do this the page I use Bootstrap 3.1.1.    My code:    HTML:       

@@ -1,0 +1,1 @@
+Getting Bootstrap to work in Rails 2  I have worked with Rails 4 earlier and getting   and sass to work with a Rails 4 application was very easy by doing:      Adding gem    

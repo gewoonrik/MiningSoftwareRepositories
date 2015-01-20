@@ -1,0 +1,1 @@
+Align two divs in    I can't align two divs horizontally at the same level in  . In fact, They are not a the same level horizontally, but either one below the other one (even if there is one left and another right) . In fact I want to align horizontally        and        That's why I used        followed by      .    here is my code :       

@@ -1,0 +1,1 @@
+Resetting zebra style after removing rows from table  I have a table that, with  , uses   class and filter through the table after every update to remove and reapply the classes, but was hoping for a more elegant solution.  

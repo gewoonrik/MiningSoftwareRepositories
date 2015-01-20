@@ -1,0 +1,1 @@
+Toggle Effect is not working in plain HTML  The toggle effect is not working in the html code but the code works when I tried using jsfiddle. I couldn't understand why. Can someone help ?         The following fiddle link works perfectly  jsfiddle     I have tried add javascript and css at the bottom of body.  

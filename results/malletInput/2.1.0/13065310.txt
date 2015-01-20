@@ -1,0 +1,1 @@
+Multiple transitions for Twitter   .transition?  I am wanting to animate two properties in Bootstrap v2.1.0,    The  : Margin overrides opacity.    Note that I am using  lessphp  so solutions that use the JavaScript regex will not work.    I know I could copy the mixin and modify it to accept two parameters as well, but that just seems hacky, surely there is a better way?  

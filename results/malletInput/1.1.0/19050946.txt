@@ -1,0 +1,1 @@
+jumbotron (initialitzr) layout not working with fuelux  I'm trying to add FuelUX to my MVC view layout to no avail. Inspecting elements with Chrome does show that they have the needed classes, the problem is they are all over the place. Buttons show as they should, like the default   ones.    Here's my code (I'm using initializr template):       

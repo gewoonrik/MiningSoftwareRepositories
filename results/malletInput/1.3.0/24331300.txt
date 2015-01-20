@@ -1,0 +1,1 @@
+How can i add hover effect to buttons?  Can anyone help me out. I really need to create an button effect for the img buttons i created. Is there a css solution are do i need to create other buttons? I hope anyone can help me because i really need an effect.       

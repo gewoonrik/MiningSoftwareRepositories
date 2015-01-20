@@ -1,0 +1,1 @@
+Can someone explain Bootstrap's Collapse code?  I was digging through Bootstrap source code, specifically the  -collapse.js v2.3.1    On line 157 where it does:         Can someone please explain what that does. I've been using jQuery for a while now but I've never seen it used that way.    Thanks SO!  

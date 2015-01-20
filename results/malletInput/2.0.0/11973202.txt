@@ -1,0 +1,1 @@
+Twitter Bootstrap 2.0 Carousel and IE transition problems  I know that this has been an ongoing issue for some with the slide transition not working in IE.   The solution I'd seen here on SO  several times and around the web is to add the class    

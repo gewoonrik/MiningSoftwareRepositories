@@ -1,0 +1,1 @@
+Twitter Bootstrap Dropdown with Tabs inside  I'm trying to make a dropdown menu with tabs inside of it. The problem is the dropdown closes when I click a tab. See this demo:    . (code reproduced below).    The  cited suggestion to    

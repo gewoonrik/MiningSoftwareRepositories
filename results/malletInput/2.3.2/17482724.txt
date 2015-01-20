@@ -1,0 +1,1 @@
+Twitter Bootstrap Grail plugin is not working  I am new in Grails. I start learning Grails before 3 days. I want to use twitter   in my sample Grail application. I am following this  tutorial     I added      Its not working. I am completely new in Grails. I don't know why it is not working. please help..  

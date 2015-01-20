@@ -1,0 +1,1 @@
+JQuery validation not working on webmatrix when locally hosting?  Ok so I know it validates correctly as it works in JSfiddle, but when I try to run it locally for some reason it is not validating. I have nothing happening with the POST of the form yet. Also, I am using twitter   along with validate.js and webmatrix for my IDE.      tag.)    Thanks, any help would be great.  

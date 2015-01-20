@@ -1,0 +1,1 @@
+Bootstrap 3 - item float right in navigation  This is my current navigation:         With this navigation I'm having this:      What I actually want is this:      I've tried floating of the anchor tag but it's floating just inside the li tag. In ExtJS I'm having the '->' item which provides me this behavior. How can I do this?    I'm using Bootstrap 3.1.1.    Thank you. :)  

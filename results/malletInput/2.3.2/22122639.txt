@@ -1,0 +1,1 @@
+Typeahead: Adding a last option  I'm using Bootstrap v2.3.2 and I have a regular typeahead set up that gets data from a database.    I'm trying to make it so that the last result of each typeahead is the option "Search for  what you typed ". So if you typed "hello" in the input, the last option (under all other results) would be  .    How would this be done?  

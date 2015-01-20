@@ -1,0 +1,1 @@
+Laravel + Bootstrap: how to use the yellow warning box  In laravel, using Bootstrap 2.3.2 when i made validation in this way:             How can i add that yellow box with fade-in also here?    Thank you!  

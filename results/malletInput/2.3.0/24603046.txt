@@ -1,0 +1,1 @@
+File upload form broken by javascript  Have a really bizarre issue which I can't work out.    Essentially I'm trying to add a file upload form to my existing web app. The markup is super simple at the moment:      elements.  

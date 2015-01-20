@@ -1,0 +1,1 @@
+Save dynamically created buttons  Below is my code. In this by clicking on Add Group, a button is dynamically created and added in fooBar. But when I refresh the page it goes away. I want to create the buttons and save it in the fooBar.       

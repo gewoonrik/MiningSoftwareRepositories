@@ -1,0 +1,1 @@
+Full height does not work when adding   css  I used the example here     Twitter   3 two columns full height     I just added  .css in the file                If I run in jsfiddle, it's fine. But if I run outside of jsfiddle, it doesn't have full height any more. See:        Any suggestion on why is this the problem?  

@@ -1,0 +1,1 @@
+how to add aditional glyphicons from glyphicons.com (png files) to   3?  I know how to use standard glyphicons, but I would like to use this additional from:     Direct link to the free version:        The structure of my   look so:         Where should i put this png files? How should I refere to them?  

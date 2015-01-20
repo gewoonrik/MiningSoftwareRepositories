@@ -1,0 +1,1 @@
+How has Twitter Bootstrap 3 changed over version 2.3.2?  I am studying the difference myself. So far i've come up with:         What are more differences? from people who've already done the study.  

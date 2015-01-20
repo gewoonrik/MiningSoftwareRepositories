@@ -1,0 +1,1 @@
+Bootstrap Carousel not displaying properly  I am trying to implement a   carousel but it is not displaying properly.    This is what my page looks like:         My page/home.html.erb is the following:       

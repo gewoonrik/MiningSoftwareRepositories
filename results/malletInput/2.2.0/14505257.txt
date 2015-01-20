@@ -1,0 +1,1 @@
+  responsive broken  After cloning my git repo, my app was broken. I fixed it ( Deleted the  _and_overrides.css.less ) to the point where I can actually see the pages now but the drop down lists and tabs are broken. This makes me think the  -responsive, for some reason, isn't being loaded. Below is what I feel are the culprits.     Gemfile          Eek, help please?  

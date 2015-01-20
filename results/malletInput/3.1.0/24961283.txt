@@ -1,0 +1,1 @@
+Font-Awesome-Rails Not Loading Icons  I have this in my      I get:         Here's me adding text to the helper:    I'm sure I've missed something but what?   

@@ -1,0 +1,1 @@
+Twitter Bootstrap Scroll Spy  I'm having an issue with twitter   scroll spy when the user starts scrolling. The navigation does not change to indicate which sections it's on until it reaches mid way through the div. Secondly it skips pass item 4 and goes straight to the last item. Here is an example of it :        What am I do wrong? Help please     HTML:       

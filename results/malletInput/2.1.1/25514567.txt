@@ -1,0 +1,1 @@
+Different vertical gap between form-group classes with    See this plunker:    I am using Bootstrap 3.x: and I have 4 divs with the class    

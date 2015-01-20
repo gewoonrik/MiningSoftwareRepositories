@@ -1,0 +1,1 @@
+Bootstrap carousel not working with angularjs  I want to use   carousel along with angular js to display images in carousel content. But, when the navigation links clicked, it displays blank page.    My code sample is as follows. ( Note  : This code works well only with  Bootstrap 3.1.0  but not along with  AngularJS 1.2.13 )       

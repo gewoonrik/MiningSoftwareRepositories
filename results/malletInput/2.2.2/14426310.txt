@@ -1,0 +1,1 @@
+  2.2.2 inline-help not show in middle  what is the code problem? please see in  jsfiddle .   1. inline help not show in middle.   2. when i scroll window, inline-help margin not true.               

@@ -1,0 +1,1 @@
+Cannot implicitly convert type 'bool?' to 'bool'  I would like to add a checkbox to a boostrap identity 2.0 registration form to ensure the user agrees to the terms and conditions of the site. For some reason I get the error      I thought a checkbox was true or false and so is a Boolean value.  

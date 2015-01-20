@@ -1,0 +1,1 @@
+Where should I put Bootstrap fonts files in case of using Ruby on Rails4  I try to use Twitter Bootstrap with Ruby on Rails 4.1.  So I downloaded Twitter Bootstrap form  here .  I put Bootstrap`s JavaScript files in   as berow.    Where should I putã€Œfontsã€?files?  

@@ -1,0 +1,1 @@
+Clear selected input in angular   typeahead  I am using    /#/typeahead  for a simple array lookup example.    I would like to trigger           

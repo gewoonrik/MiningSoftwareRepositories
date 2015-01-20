@@ -1,0 +1,1 @@
+  modal not animating on close  I have the demo code like this         It is showing the modal on click of button with the animation, but on click of close button its not hiding the modal with animation. Instead its hiding immediately. What I need to fix here?    I am using full css file of   3.1.1 and modal.js file.  

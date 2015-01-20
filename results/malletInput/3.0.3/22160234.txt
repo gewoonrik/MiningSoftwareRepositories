@@ -1,0 +1,1 @@
+Mobile Bootstrap nav not working  when you make the nav bar mobile screen size, the 3 line thing at the top right won't work. Any reason why? Thanks. I was using Google Chrome when changing the side. The JS and BootStrap versions both match, v3.0.3.         Thanks -FRED  

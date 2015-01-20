@@ -1,0 +1,1 @@
+Bootstrap alert not showing  I am trying to display this alert on my html page but the background color of the alert is not appearing. I've included the following   files ( .min.css,  .min.js) and (jquery-2.0.3.js). Any idea what I am missing here? Thanks         I am using Bootstrap 3  

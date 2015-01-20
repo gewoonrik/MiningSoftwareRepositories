@@ -1,0 +1,1 @@
+Twitter   rails simple form formatting  I'm trying to reformat the simple default devise login screen with twitter   simple form and I'm having major issues.           Here is my code:       

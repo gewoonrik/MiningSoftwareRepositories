@@ -1,0 +1,1 @@
+Why is this   modal not working?  My modal doesn't seem to work. I'm using   3.0.3. I've tried it once before but it doesn't seem to work now. Did I miss anything?       

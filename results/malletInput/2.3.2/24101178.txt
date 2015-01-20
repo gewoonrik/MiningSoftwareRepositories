@@ -1,0 +1,1 @@
+Something about navbar  Can someone tell me how can I move items in my navbar? I don't want to have my items aligned to right and left sides. Instead of that, I want to have offset from both sides.  This is one example of offset that I want.  This is my navbar code:       

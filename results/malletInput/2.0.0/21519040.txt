@@ -1,0 +1,1 @@
+Rails 4 +   set up assets  I am trying to setup   on Rails4 using  -sass and I am getting this famous error:       

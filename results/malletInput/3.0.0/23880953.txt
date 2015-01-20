@@ -1,0 +1,1 @@
+Bootstrap 3.0 input type of file in an input group  With Bootstrap 3.x I can create a form with an input field type of "file" as shown in the Bootstrap documentation:         I suspect I can't use the standard Bootstrap CSS to do put a file input field inline, but thought I would ask.  

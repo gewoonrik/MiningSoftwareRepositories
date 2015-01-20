@@ -1,0 +1,1 @@
+jquery.proxy in the  -typeahead.js context  I was reading the following line of code        

@@ -1,0 +1,1 @@
+javascript   modal - cancel closing  my work is using javascript   2.0.4    I'm looking for a way to cancel the modal from closing, by logic control. but I can't find any details how to do this       .com/javascript/#modals     something like .NET        

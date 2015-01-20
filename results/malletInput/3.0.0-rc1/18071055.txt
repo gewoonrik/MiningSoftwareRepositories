@@ -1,0 +1,1 @@
+Bootstrap 3: Missing gutters  Just started playing around with   3 and I can't get gutters between columns to work.    I created the most basic code to test with:         And the result is just one big green/blue box without any gutter in between the two columns. I have also tried it on a fiddle with no luck     What am I missing?  

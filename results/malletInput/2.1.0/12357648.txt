@@ -1,0 +1,1 @@
+How do I make an input box and a button line up in  ?  When using Twitter Bootstrap 2.1.0, and using HTML like this:         The button doesn't line up with the textbox.  You can see a jsFiddle of it  here .    What is the proper Bootstrap way of getting them to line up?  

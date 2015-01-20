@@ -1,0 +1,1 @@
+TypeError: $(...).popover is not a function   issues  i want to use the   popover, but i keep getting this error in firebug:    TypeError: $(...).popover is not a function    This is how i load it all:       

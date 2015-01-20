@@ -1,0 +1,1 @@
+Create an HTML Numeric Keypad without   layout  I am trying to create an HTML 'numeric keypad', like those found on some keyboards. I am stumped on how to do the layout without using a table.         I am using Bootstrap (v3.1.1) so my first instinct was to attempt to use its   is a variable percentage of the container, because responsive.  

@@ -1,0 +1,1 @@
+Bootstrap menu collapse in ajax site. How can i close menu on every click?  my website uses Ajax and i want to close the Bootstrap's collapsed menu every time a user click click on every menu item, like this code. But this code doesn't work!! Damn!       

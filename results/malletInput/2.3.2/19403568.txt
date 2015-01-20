@@ -1,0 +1,1 @@
+Bootstrap Dropdown does not work for me  I am using Chrome on OS X, and when I do a plain vanilla Bootstrap test it doesn't work.    I use the regular v2.3.2 files  downloaded from here , and I re-created a vanilla test.    This is how my      Why does this not work?  

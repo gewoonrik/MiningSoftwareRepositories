@@ -1,0 +1,1 @@
+Bootstrap IE 8 and under  I've been reading for days on ways to fix IE8 and under for Bootstrap.    The Site:       It works great in all other versions and all other browsers.  As soon as you hit IE8, it falls apart and reverts to a one column, mobile view.  Also, am not viewing this site locally, it is on my server.       

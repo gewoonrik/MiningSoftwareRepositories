@@ -1,0 +1,1 @@
+Bootstrap 3.0.3 & DatePicker not working  Yet another problem for me... I decided to remake my website in Bootstrap 3 (3.0.3), most stuff worked smooth until I needed a datepicker.                You can see the code in the jsfiddle above and my javascript, something doesn't let me click the icon. Any ideas?    Thanks  

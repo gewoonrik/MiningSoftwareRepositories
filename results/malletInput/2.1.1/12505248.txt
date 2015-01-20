@@ -1,0 +1,1 @@
+Bootstrap 2.1.1 And Tooltips  jsfiddle:        Excuse me for being a novice, but I'm trying to get a tooltip working using  's front-end. I'm not really sure what's going on, and I would appreciate any help in getting the tooltip to work in the same way that it works on Bootstrap's website.   

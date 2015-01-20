@@ -1,0 +1,1 @@
+Jquery not working with    I want assign invoke a Jquery function on click of a button on a Bootstrap 3.0 form.    Simple JQuery function is :             I am not getting this alert to pop-up.  

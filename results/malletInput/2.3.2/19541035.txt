@@ -1,0 +1,1 @@
+Fixed width sidebar with responsive main div in   2.3.2  Im trying to get a fixed width side bar with a responsive main div when using   2.3.2.     Something like this image below          Ived tried to use a   fixed width div and then place a fluid div next to it, but couldnt get it to work. Any ideas ? ive made a js fiddle of the problem here -      

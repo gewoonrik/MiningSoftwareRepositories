@@ -1,0 +1,1 @@
+jQuery Click Not Being Called in   navbar  I am having a huge issue with an item in the navbar not being able to use the click()    this is my html code:      instead but it still doesn't work. If this changes anything I'm using jquery 2.0.0 and Bootstrap 2.3.2  

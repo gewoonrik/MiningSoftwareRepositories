@@ -1,0 +1,1 @@
+Uncaught syntax error in angularjs  I am using below code to populate data from Parse api into table using Angularjs and  .But the Javascript in which i defined the controller is not executing. The html code is given below.     index.js        

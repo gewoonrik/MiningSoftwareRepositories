@@ -1,0 +1,1 @@
+Why are my Bootstrap modal images not showing?  I am trying to build an extremely simple image gallery with   3.    It is just a few thumbnails and when you click on one of them, a modal window appearing on top with the real size image.    This is the code I have so far:         Any ideas on what I am missing in my code?  

@@ -1,0 +1,1 @@
+Smarty and Bootstrap JS  I wrote a PHP page with Smarty template engine and decided to use Bootstrap UI in my project.  CSS works fine, but JavaScript doesn't work. I tried to use that without Smarty = all works excellent.     For example, hint:     index.tpl:             Pjax (   ) doesn't work too.   

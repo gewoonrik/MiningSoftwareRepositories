@@ -1,0 +1,1 @@
+Bootstrap 3.0.3 & 3.2.0 difference  The same code produces different result in   3.0.3   3.2.0 versions         3.0.3    3.0.3 example     3.2.0    3.2.0 example     How can I achieve the same layout with new version of   ?  

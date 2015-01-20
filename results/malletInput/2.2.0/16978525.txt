@@ -1,0 +1,1 @@
+File to import not found or unreadable:  -wysihtml5  I have a Rails 4rc1 application with multiple engines. I'm using   -wysihtml5-rails  gem in my admin engine. According to documentation I added    

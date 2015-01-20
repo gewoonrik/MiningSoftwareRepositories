@@ -1,0 +1,1 @@
+my   theme showing like phones and tablets compatibility in ie 7-8?  how to fix it i am using   3.1.0 it is responsive on crome and mozilla when i m running on ie then all 'span' element showing on full horizontaly of desktop and nav tab also showing         please help me thanks in advance  

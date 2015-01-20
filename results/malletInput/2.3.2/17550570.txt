@@ -1,0 +1,1 @@
+Full width tabs using Bootstrap  I'm trying to adjust Bootstrap tabs to make them span the full width of their container. Here's my code (a minimal working example):     :  Bootstrap 3 -> Navs -> Justified nav   

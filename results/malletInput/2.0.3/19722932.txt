@@ -1,0 +1,1 @@
+Bootstrap - AutoComplete with TagsInput  Hi I want to use the autocomplete feature along with tagsinput with Bootstrap I have an external json file too. I had added the external json also how it will look like.. can any one help me out thanks Refrence Links    -tagsinput/examples/     Code       

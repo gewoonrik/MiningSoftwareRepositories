@@ -1,0 +1,1 @@
+How do I align this list and this header so that they are horizontally centered  I am using   2.3.2 and trying to align a 2 column list horizontally:         When you resize the page, the alignment of the list changes and is inconsistent. Any suggestions?     My fiddle   

@@ -1,0 +1,1 @@
+JQuery Popover On Calculations?  I ran into a problem with my JQuery. I have been doing a calculator for certain items and quantity and originally made a popup   so that I can trigger the popover while typing in an input box.    If you want to see my original idea just to get an idea of what I'm talking aboutcheck out this  Fiddle .  

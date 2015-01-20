@@ -1,0 +1,1 @@
+Clear the value of  -datepicker  I am using  -datepicker from here:    -datepicker     version: 2.3.2    I am having trouble to clear the date values of the datepicker when a button is clicked. I have checked the API but cannot find anything on clearing/resetting the datepicker. Any help is welcome  

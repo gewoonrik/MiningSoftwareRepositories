@@ -1,0 +1,1 @@
+"On shown" event when manually use   modal  Problem appears when I try to show modal for the first time. Modal is shown but the    

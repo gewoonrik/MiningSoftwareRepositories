@@ -1,0 +1,1 @@
+twitter   dynamic show modal - too much recursion error  i have jQuery v1.8.3 and  twitter-  v2.2.1    I want to create a function to dynamically display the message.         How can I fix it or have another way?  

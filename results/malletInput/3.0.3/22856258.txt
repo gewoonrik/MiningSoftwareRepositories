@@ -1,0 +1,1 @@
+angularUI Bootstrap - *.tpls.html not found error  Here is my index.html         I am getting this error with "accordion-group", "alerts", "buttons", and all the angularUI   directives!    I cant figure what am i doing wrong here. i have included the proper "tpls" file. And included that in my app module as well.    Please help me out!  

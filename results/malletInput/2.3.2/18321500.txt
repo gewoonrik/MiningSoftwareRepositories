@@ -1,0 +1,1 @@
+Responsive CSS with Twitter Bootstrap  In my Rails app, I'm using      I don't know why does it not render it correctly. I am new to the Responsive CSS and I am learning. Please let me know what's wrong.    

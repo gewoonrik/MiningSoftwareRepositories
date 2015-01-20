@@ -1,0 +1,1 @@
+dropdown in navigation bar does not expand ( , angular, directives, routes)  For some strange reason the   menu dropdown is not expanded on click when it is constructed through router template. Being used directly in the template it works fine.    Here is the plunker to play with:           

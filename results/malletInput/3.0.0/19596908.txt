@@ -1,0 +1,1 @@
+Dropdown seems not working on version 3  I've updated my code to twitter   version 3 and got the    /releases/download/v3.0.0/ -3.0.0-dist.zip .    Still my dropdown menu's won't work. Code:      are smaller than the actual buttons?  

@@ -1,0 +1,1 @@
+Getting  -sass   CSS into production on Heroku  I'm using the  -sass gem with my rails (3.2.5) app, and things are working great in my local dev environment. But when I deploy to prod on Heroku the   CSS isn't included in the compiled assets.    I added  -sass and sass-rails to my Gemfile:         Basic stuff. Any idea why this isn't working in Prod?  

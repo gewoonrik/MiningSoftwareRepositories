@@ -1,0 +1,1 @@
+(Bootstrap 3.1.1) popover on show reset my addClass?       When I'm clicked to District123, my JavaScript add Class "active"... But, after that when action popover on show, popover reset my class :(  

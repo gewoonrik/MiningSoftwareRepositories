@@ -1,0 +1,1 @@
+twitter   tabs not working  I'm trying to work on a page using twitter   but the tabs is not functioning as they should be. I can't put new content in the different tabs. What's my mistake?       

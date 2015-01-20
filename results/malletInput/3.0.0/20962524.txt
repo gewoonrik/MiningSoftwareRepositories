@@ -1,0 +1,1 @@
+Bootstrap 3.0 affix doesn't work when body has overflow-x:hidden  I don't know why but when you have the CSS style   so removing it is not a good work-around.    Any ideas on how/where to look?  

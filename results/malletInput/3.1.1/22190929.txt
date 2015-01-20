@@ -1,0 +1,1 @@
+twitter   modal automatically focus on first text field  I'm using the latest version of twitter   (v3.1.1). For some reason I can't get it to focus on the first text field. Here's what I tried so far:    add  . Am I doing something wrong here? Thanks in advance!  

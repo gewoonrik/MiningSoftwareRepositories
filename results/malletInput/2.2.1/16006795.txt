@@ -1,0 +1,1 @@
+Bootstrap Table action weird if between specific window size  I am using Bootstrap version 2.2.1. I created a webpage with a table in it. The table take the full width of the container (100%). However, between different size of the window, the table react differently.     See the attached pictures to understand my problem.         Here's the code of the table       

@@ -1,0 +1,1 @@
+Why is the h4 element not visible in this HTML?  In the following HTML, the    

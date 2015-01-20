@@ -1,0 +1,1 @@
+Bootstrap.js Carousel load specific item  I have a  Bootstrap.js  Carousel based on  this tutorial  , it has 4 view item , each one looks like that  -       to load the 4nd item on the menu .    

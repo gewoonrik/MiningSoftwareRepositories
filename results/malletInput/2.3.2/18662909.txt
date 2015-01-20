@@ -1,0 +1,1 @@
+Carousel is not sliding  I'm having a problem with my carousel. It won't slide. I have tried so much that my head is hurting. The problem is that it's only staying on one pic and the arrows is not working.    Including files:       

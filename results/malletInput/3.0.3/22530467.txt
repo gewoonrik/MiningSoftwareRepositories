@@ -1,0 +1,1 @@
+  v3.0.3 css in ie version 8 or more  I am using  Bootstrap v3.0.3 css in my project . Those styles are  applying in moz,chrome and safari except ie 8 or more. what to do . Any help is appreciated Thanks .  

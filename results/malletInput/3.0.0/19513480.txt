@@ -1,0 +1,1 @@
+Customizing Bootstrap 3.0 Navbar  I'm using Bootstrap 3.0 and I want to customize the navbar links by changing only the  a  tag, and not the whole  li  .    I want to obtain something like this    , but when I change the background color or borders, the whole .li tag gets the same style.     Help?    edit: so far, this is what comes out           

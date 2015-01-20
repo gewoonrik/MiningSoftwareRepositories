@@ -1,0 +1,1 @@
+Panel will not collapse on Bootstrap  Im new to   Im trying this code and the collapse would not work The button DROPXXX is not displayed howcome?    In tutorials I saw, some of the address line will start with file:///.... and some with 127.0.0.0:9000/# How (and what for) do I use the 127 local host adress? It doesnt display anything as I do it       

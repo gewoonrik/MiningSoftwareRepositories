@@ -1,0 +1,1 @@
+Fancybox 2 images does not appear on gallery and twitter    Well I cannot get working the simple example of fancybox gallery example, on click it only goes to image page and the beforeLoad event activates, but not showing image in box.    I am using the jquery version 1.8.3 and twitter 2.3.1    The script itself is added in the end of page:       

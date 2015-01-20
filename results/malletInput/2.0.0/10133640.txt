@@ -1,0 +1,1 @@
+Bootstrap Multilevel Dropdown Menu  I'm using these css rule for multi level dropdown menu as below:         It works perfectly for Chrome and Firefo however 2nd or more levels doesn't appear on IE9 when hovering on the 1st level. What can be the issue ?  

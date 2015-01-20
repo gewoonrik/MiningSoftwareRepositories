@@ -1,0 +1,1 @@
+Bootstrap popovers not working in table  I've included the following in my html file:         The popovers I'm trying to get to display don't turn up when I hover over or click the button.    I have looked at other similar questions, and nothing I've found there has worked for me.    Does anyone know why this could be happening?  

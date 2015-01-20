@@ -1,0 +1,1 @@
+Scrollspy not working with jQuery and Bootstrap  I am trying to do a nice navbar like you could see on the "getstarted" page from Bootstrap.    A lot is working so far, except the scrollspy which would apply the active status on the good element.    I don't know why it's not working and I did fixed an Height:100% on my    

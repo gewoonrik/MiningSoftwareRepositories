@@ -1,0 +1,1 @@
+twitter   2.3.2 'affix' not working on mobile  I am working on a big project that uses jQueryUI 1.10.3,   2.3.2, and jQuery 2.0.3.  please take a look at       - when the user scrolls down, the heading should stick to the top below the menu bar.    Like so:       

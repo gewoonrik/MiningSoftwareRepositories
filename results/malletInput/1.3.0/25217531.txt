@@ -1,0 +1,1 @@
+Bootstrap modal: IE8 shows borders of empty modal window  I try to make a simple form in a   modal window. Everything works fine in modern browsers, but IE8 shows empty container for modal window at the bottom of page. Screenshot:         Code for modal window is placed before closing  tag    Here is the code:       

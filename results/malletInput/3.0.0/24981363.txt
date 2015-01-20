@@ -1,0 +1,1 @@
+Change the order of columns in   3 grid  I have html like below,  This is a jsbin post .    I want the blue and red div swap their location in      Is it possible in   3.0 to change the order of columns in mobile size.  

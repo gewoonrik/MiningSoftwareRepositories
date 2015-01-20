@@ -1,0 +1,1 @@
+Bootstrap Modal is not working for me (Ember JS)  I am trying to use Bootstrap for ember addon    -for-ember  but not every setting is working for me. For example when I try to use simple alert functionality it works for me but when I try to use modal with button click action I get this error:         may be this will help to somebody else.  

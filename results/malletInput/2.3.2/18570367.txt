@@ -1,0 +1,1 @@
+cannot make html elements appear in one line  I have some text, a dropdown box and a button. I can't get this to appear in one line while using twitter   2.3.2         If you want to know about other variations I've tried out please try the following fiddle:           Any ideas to get this in one straight line and make it look aesthetic (more or less)?  

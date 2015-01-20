@@ -1,0 +1,1 @@
+Bootstrap drowpdown not working when placed in .net masterpage  I have placed a   navbar in a .net masterpage. This code runs perfectly when on another page without the masterpage, but if on the masterpage, it does not work.              Anyone? About to throw my computer out the window.    /Bob  

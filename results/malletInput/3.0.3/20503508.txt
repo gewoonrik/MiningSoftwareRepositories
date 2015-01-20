@@ -1,0 +1,1 @@
+Dropdown menu inside Bootstrap panel group not completely visible  I am trying to get a dropdown menu to work with a collapsible panel group.  The dropdown works fine if I take it out of the   div.  I am using Bootstrap 3.0.3    Non-working js fiddle:        and this is how it should look:      

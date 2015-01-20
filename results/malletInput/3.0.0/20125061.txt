@@ -1,0 +1,1 @@
+Tagsinput is not a function, using   3 and tags-input plugin  I'm using   3 with jquery 1.10 and I'm tring to using tags-input plugin (   -tagsinput/examples/ 3/ ) but it doesn't works. This is my error:         Please, Any suggestions?  

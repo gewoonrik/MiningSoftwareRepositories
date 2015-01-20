@@ -1,0 +1,1 @@
+Solution Bootstrap form validation  I am using   validation for validating jsp page .    my folder structure is as follow,       

@@ -1,0 +1,1 @@
+How can I have two Bootstrap navbars on the same page of different heights?  Using Bootstrap 3.0 with two navbars on the same page. The height variable will adjust both .navbar blocks. I've tried adding another class to override the height of the first navbar, but its left unaffected.     Bootply example     HTML:       

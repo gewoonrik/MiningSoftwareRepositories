@@ -1,0 +1,1 @@
+How to get the selected Table cell value in datatable  I am using  jquery-2.0.3.min.js,  .min.js, jquery-ui-1.10.3.min.js,           DataTables-1.9.4 with tabletools, datatables.net/blog/Twitter_Bootstrap_2    My View       returns the departmentName    Thanks   

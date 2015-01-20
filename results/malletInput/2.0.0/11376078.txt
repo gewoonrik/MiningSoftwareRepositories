@@ -1,0 +1,1 @@
+What is the ideal padding-top value for modern, responsive HTML5 layouts?  Twitter Bootstrap 2.0 comes with a      What are the ideal padding values for each?     Update:  How about 20px? It seems fine at 320x480 and not too shabby at 1920x1080 either.  

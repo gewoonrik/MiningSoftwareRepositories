@@ -1,0 +1,1 @@
+Form control dynamic addition  Experts, I have a form with 3 controls and I need a "Add" and "Remove" button or link to clone the controls dynamically. I use   controls, so have to wrap inside a div tag . When I click on "Add" button, the cloned element alignment is distorted and gives nasty results.Can you please help.       

@@ -1,0 +1,1 @@
+Failing to generate   accordion with jQuery on mobile  I generate boostrap 2.3.2 accordion on jsfiddle and it works fine (confirmed on desktop), but checking on mobile devices it fails.    Here's the code, anyone has an advice how to debug?                 On mobile, clicking on "add another address" button does nothing.     Many thanks!  

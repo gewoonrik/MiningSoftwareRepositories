@@ -1,0 +1,1 @@
+Bootstrap Tooltip hides selector/toggle element  I'm using Bootstrap 2.3.2.  My tooltips show up as expected, but when hovering off of the triggering element, the tooltip AND the triggering element are both hidden.  There is an inline style of   to the triggering element.  

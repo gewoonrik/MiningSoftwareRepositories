@@ -1,0 +1,1 @@
+Twitter Bootstrap: Getting Form Inputs and Buttons to be same the height in Chrome and Firefox  Using  Twitter Bootstrap 2.3.2  I have a  . This cannot be done since it messes up the Firefox form. How can I get them to have the same alignment in both browsers?  

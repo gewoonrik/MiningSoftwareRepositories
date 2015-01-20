@@ -1,0 +1,1 @@
+Bootstrap Drop Down - Use Caret As A Button  I am currently using the Bootstrap 3.0 dropdown menu and it works fine. At present when I hover over the text or the caret next to it, it displays the menu. However I wish to alter it so that only when I hover over the caret does it displays the dropdown.     My code is as follows:       

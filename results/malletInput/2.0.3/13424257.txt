@@ -1,0 +1,1 @@
+client side validations is not working on simple form for devise  Client side validations are working perfectly on my other simple_forms. Code I am using in other forms is:         Any suggestions?  

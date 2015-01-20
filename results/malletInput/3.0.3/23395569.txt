@@ -1,0 +1,1 @@
+Hosting Bootstrap/Jquery/HTML5Shiv locally breaks site in IE8  I have a site that I built using   and it worked just fine in  IE8 .  Then I decided that in order to make my site load a little faster, i was going to stop bulling the various    

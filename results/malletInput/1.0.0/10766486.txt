@@ -1,0 +1,1 @@
+Why doesn't this   dropdown example work?  I'm just trying out the example in Bootstrap documentation, but it doesn't seem to work. I just get plain HTML. This is my code:         Does anyone see the problem? Thanks.  

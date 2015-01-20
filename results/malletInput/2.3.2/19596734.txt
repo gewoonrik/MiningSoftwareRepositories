@@ -1,0 +1,1 @@
+Close Bootstrap's modal with AJAX  I use the modal of  Twitter's Bootstrap.  You can close the modal, by clicking on a button or something different with the tag  . I would like to process my form in the modal with AJAX (by clicking on a submit button) and then close the modal. So how do close this modal in AJAX? Or is that not possible?    (sorry for my bad English...)  

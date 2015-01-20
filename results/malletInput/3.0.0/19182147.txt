@@ -1,0 +1,1 @@
+Remote modal works on Bootstrap 3.0.0rc1 but doesn't in 3.0.0 final  I found this example working on 3.0.0 rc1           But when I change it to point to 3.0.0 final it stop working. Why? Thanks  

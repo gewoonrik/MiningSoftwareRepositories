@@ -1,0 +1,1 @@
+Bootstrap 3 layout: form collapsing too soon  I would like to get the following layout of my form using  :         Any help and suggestions much appreciated!  

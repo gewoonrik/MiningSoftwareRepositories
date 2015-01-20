@@ -1,0 +1,1 @@
+Why do only some Bootstrap glyph icons work  In the following code         The first two icons display perfectly but there is some error with the wrench. Based on the documentation here:       .com/components/     'wrench' should be a valid icon. How can I get the wrench to display?  

@@ -1,0 +1,1 @@
+How I use the modals   automatically  Hei, I want know how put in my application the    modals , but I need it launch them automatically, the objective is show a error message... I throw them on the catch block in ASP .NET(this I can do) ;D  Thanks  

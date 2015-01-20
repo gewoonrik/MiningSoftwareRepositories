@@ -1,0 +1,1 @@
+whats a good combination of versions for  , rails, and gems to get the Bootstrap layout  I've been trying to make Bootstrap work with rails and have tried most combinations of the following:         What is the version combinations that seems to work for anyone?  

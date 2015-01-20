@@ -1,0 +1,1 @@
+Data-binding using KO into a text box  So, I'm trying to place a knockout data-binding attribute to my text box- which is using  s 3.0.0 class with no luck.    Any suggestions?         Thank you in advance for an suggestions!     note  I know the data-bind works because I can see the correct data displayed when the data-binding attribute is removed from the input tag.  

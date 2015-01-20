@@ -1,0 +1,1 @@
+Load content with ajax in   modal  I am trying to have my   modal retrieve data using ajax:         When I click on the link, the modal is shown but the body is empty. Besides, I don't see any ajax request being made. I am using Bootstrap 2.1.1    What am I doing wrong?  

@@ -1,0 +1,1 @@
+Bootstrap 3 Scrollspy not working with Affix and Panel  I'm trying to apply the   ScrollSpy to my affix navbar. There's something I'm missing because I think I've done everything right.    Here's my code:         My links and my affix are working properly but I can't see the scrollspy.    See the adapted  jsfiddle here .    

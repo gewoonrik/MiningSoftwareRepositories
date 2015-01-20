@@ -1,0 +1,1 @@
+Display parsley errors in   tooltip  I'm using parsley 2.0.0-rc5 and want display the error messages in a   tooltip. I'm using "parsley:field:error" but the event fires before the error is displayed in error-container and I can't pick up the error. Someone an idea how I get the error message for each field?       

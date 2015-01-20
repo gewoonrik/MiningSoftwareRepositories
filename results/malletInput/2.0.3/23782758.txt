@@ -1,0 +1,1 @@
+horizontal form using    Hi all Im trying to implement a horizontal form using twitters  , but for some reason the labels keep displaying as block level items and not floating left next to the text box. My code is below can anyone help.       

@@ -1,0 +1,1 @@
+Remove hover state from the menu icon on   nav dropdown menu  I've created nav menu with Bootstrap v3.0.0 and I want to make it collapse when display resolution less than some value. Everuthing is ok, except for one thing - after click on collapsed menu button, button remains in the      How can I reset hover state for this button?  

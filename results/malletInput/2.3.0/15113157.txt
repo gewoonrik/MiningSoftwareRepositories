@@ -1,0 +1,1 @@
+reloading current active tab in twitter    I was following  this recommendation  about how to be able to reload current active tab by using:         The idea is when clicking on the "project" button on the second tab it should reload that tab, but it reloads the "welcome" tab.    Any advice appreciated!   

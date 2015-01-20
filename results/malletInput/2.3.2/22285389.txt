@@ -1,0 +1,1 @@
+Why isn't this Bootstrap 2.3.2 dropdown menu working?  I have a navigation bar on my website with 4 elements. The first 3 are links, and I want the fourth to be a dropdown menu of links. I've been reading  the Bootstrap docs , and can't seem to figure it out. Here is a  screenshot  of what's happening.    This is my code:     application.html.erb        

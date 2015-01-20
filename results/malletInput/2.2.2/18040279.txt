@@ -1,0 +1,1 @@
+jQuery illuminate in use with   2.2.2 won't work together: e.css(...) is undefined illuminate.js  I've downloaded and set up jQuery illuminate(     )  I made sure both jQuery and illuminate plugin are loaded in page.    Then I coded like this     Javascript part        Why? how can I fix this?  

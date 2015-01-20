@@ -1,0 +1,1 @@
+uninitialized constant V8::JSError (NameError)  I got this error when I try to run my RoR application. After      Does anyone know how to fix it?  

@@ -1,0 +1,1 @@
+FontAwesome & Bootstrap Icons are conflicting and displaying 2 icons on top of each other?  My entire head:      versions of each. Any ideas?  

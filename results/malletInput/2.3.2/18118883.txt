@@ -1,0 +1,1 @@
+  2.3.2 elements not aligned right  I have the below html to display in my view. Its rendering fine in chrome and firefox. the images are rendered in next line for internet explorer * version         Attached screenshot below.      Can anyone suggest how to align label and images to right in ie7 and 8 version.  

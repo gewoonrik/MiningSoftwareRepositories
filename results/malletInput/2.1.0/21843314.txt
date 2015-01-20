@@ -1,0 +1,1 @@
+how can i remove the angle's box of dropdown?  how to disable this angle ?         i am using boostrap where i get it from  getboostrap      this is my code..       

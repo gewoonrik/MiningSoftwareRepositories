@@ -1,0 +1,1 @@
+jquery conflicts with    any can help me ??? i am trying to run some jquery in my website using   that is carousel slide and lightbox for gallery album but both of them do not work...    i have tried to apply    

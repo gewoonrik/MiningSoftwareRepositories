@@ -1,0 +1,1 @@
+What modal's style not working in   v 3.1.0  This is my modal:         when I downgrade  .css from 3.1.0 to 2.32 modal style is very good and fix.And other styles notworking... what V3.1 not support modals??  

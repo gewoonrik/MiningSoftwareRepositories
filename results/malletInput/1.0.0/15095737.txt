@@ -1,0 +1,1 @@
+Bootstrap is not working, but included both js and css  Bootstrap is not working at all, modals don't close, transitions don't work etc. Firebug says is no function called .modal, so I tried using different versions of Jquery,   etc. Nothing worked Here's the code I used (not polished up :( so don't mind it being a bit messy).         Thanks, Sam  

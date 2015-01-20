@@ -1,0 +1,1 @@
+malformedXML: Index or size is negative or greater than the allowed amount  I use JSF 2.0 and Twitter Bootstrap.    I am trying to change a value in field after an ajax request. However, I get a malformedXML error when I change value and inputText lost focus. The xhtml file looks like :       

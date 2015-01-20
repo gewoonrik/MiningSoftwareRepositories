@@ -1,0 +1,1 @@
+Bootstrap 2.0.4 $('.carousel').carousel('pause') not working  I'm working on a site that uses Bootstrap 2.0.4 and I'm trying to create my own pagination for the built in carousel. The pagination works just fine, but for some reason I cannot get the carousel to pause when I click on a pagination link. Can someone please help me work out what I'm doing wrong?        

@@ -1,0 +1,1 @@
+Bootstrap Carousel-fade in FF  Though the Carousel-fade option works fine in all browsers,it is problematique in FF. I am using   3.0 and i use the carousel-fade class to cycle through 4 images. I have tried adding " visibility 0.55 " within all the prefixes but it did not work.    Example Code:       

@@ -1,0 +1,1 @@
+Using Bootstrap, but Text not Responsive  I am working on a school project :        and I am using the framework Bootstrap 3.0 - and almost everything is responsive, but the text.     I've tried using percentages and ems for font sizes..but nothing is working. I know I'm missing something, but can't figure it out.     Any help is appreciated.     Thanks.  

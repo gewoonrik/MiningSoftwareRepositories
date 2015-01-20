@@ -1,0 +1,1 @@
+Bootstrap responsive fix on small tablet & phones  I use   2.2.2 and have the following html markup.         This markup works fine on desktop, when I resize the viewport (e.g. iphone) boxes are smaller as expected, but right margin becomes removed. There is only left margin. I want the left and right margin to be aligned.    How to solve this issue?  

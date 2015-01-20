@@ -1,0 +1,1 @@
+Bootbox dialog is not shown  I'm using Bootstrap 2.3.1 and Bootbox version 3.3.0. When I write the following code:         empty modal window appears. If I use 'alert' method of bootbox everything works fine. I tested it in Safari(6.0.3) and Firefox (24.0).    Has anybody faced with this problem?    Tamara.  

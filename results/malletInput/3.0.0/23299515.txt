@@ -1,0 +1,1 @@
+Focusing a Bootstrap button for keyboard enter  I have a Bootstrap 3.0 button on a web page.  The button is not part of a form.  When this page renders, I would like for the button to be clicked if the user hits return on the keyboard.  I have a Marionette event listener set up to handle the click event.    Here is my button:     .  This does not work.  

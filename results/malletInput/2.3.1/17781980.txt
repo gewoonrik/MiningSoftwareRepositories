@@ -1,0 +1,1 @@
+each() does not work on IE8, and gave me a "apply array or arguments object expected". how to solve it?  I am using   v2.3.1 on my website, but when I test it on IE8, I got an error         "apply array or arguments object expected".       here is   part:         does not work on IE8 and "apply array or arguments object expected" happend.     could any help me to solve that ?  

@@ -1,0 +1,1 @@
+RefineryCMS: apply   styles to navigation menu  I have upgraded Refinery CMS to the newest version (2.1.0), where there is a new approach in rendering the navigation menu :    (in partial  ?   

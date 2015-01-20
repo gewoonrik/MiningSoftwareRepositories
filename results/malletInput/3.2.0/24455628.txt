@@ -1,0 +1,1 @@
+Updated to Bootstrap 3.2.0 - nav header alignment became misaligned afterwards  What the header looks like after the update:        Here is my jsFiddle:        The fiddle includes external resources to CSS   JS.    Not sure how to fix. Any ideas?     HTML for my nav is:       

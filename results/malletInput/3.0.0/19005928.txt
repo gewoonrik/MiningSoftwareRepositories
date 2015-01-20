@@ -1,0 +1,1 @@
+Code to set/unset checkbox buttons in Bootstrap 3.0  I've been trying to use a button group (as per the instructions at  at    .com/javascript/#buttons ) and then to parse their values into a shifted array:      Code for the btn-group      . Does anyone have a solution?  

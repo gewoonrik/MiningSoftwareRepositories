@@ -1,0 +1,1 @@
+Twitter Bootstrap 3: How to get vertical navbar?  Seems like it was supported in  v2.3.2  in form of class  ?  

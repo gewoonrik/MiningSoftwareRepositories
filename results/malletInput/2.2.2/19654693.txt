@@ -1,0 +1,1 @@
+  accordion not working properly  i am trying to develop   accordion and it works fine in  jsfiddle  But when i tried in my web app its not working.I have attached the screenshot how it looks.As you can see in the screenshot there are no errors in the console.i am including following in my jsp page       

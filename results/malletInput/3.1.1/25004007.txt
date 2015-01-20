@@ -1,0 +1,1 @@
+Howto call .getContent and .parseContent from  -markdown.js  I'm a newbie when it comes to using Bootstrap plugins (just learned about it via  codecademy )... I really would like to use this awesome    markdown plugin  but fail to properly install it so I can call the getContent and parseContent from the    

@@ -1,0 +1,1 @@
+Jquery marquee is not working with   frame work  I'm using   frame work to make my web site. and I need to make a auto scrolling (marquee) area in my site.  I followed this guide to do that.      URL:              but this is not working as I expect.      no errors are showing on fire bug console.     header.php:          can any one help me on this?    Thank you.  

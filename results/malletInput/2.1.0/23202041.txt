@@ -1,0 +1,1 @@
+Bootstrap's dropdown menu doesn't work  I've already included  -dropdown.js but don't know why it doesn't work.    Here is my code, everything is the same as the code in document page.               PS. I've search in docs. It told me that I've to download dropdown.js but don't see any download button.  

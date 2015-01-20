@@ -1,0 +1,1 @@
+Bootstrap 3.0 carousel wordpress gallery post format  I'm trying to use   3.0 carousel to show gallery posts-formats in index.php. I'm trying to build a function with this outpout for each foto from gallery post:         The problem is this funcition print de url of image but I don't know how add html code for each one.    any ideas? Thanks in advance  

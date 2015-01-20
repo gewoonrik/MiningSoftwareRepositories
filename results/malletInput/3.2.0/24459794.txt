@@ -1,0 +1,1 @@
+Making Twitter Bootstrap Tabs & Forms Play Well Together  I’m using Twitter Bootstrap V3.2.0. I have a collapsed menu where in I filter/sort various search results. These are contained in a    

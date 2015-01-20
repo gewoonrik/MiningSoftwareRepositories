@@ -1,0 +1,1 @@
+Bootstrap buttons not taking effect in phonegap  I'm using Twitter  's  .min.css for styling my phonegap app. But I do not see the desired UI of DOM elements affected by  . For example, in  Base CSS  it is shown that    

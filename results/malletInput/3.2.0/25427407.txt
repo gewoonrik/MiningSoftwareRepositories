@@ -1,0 +1,1 @@
+Bootstrap 3 .container-fluid with grid adding unwanted padding  I'd like my content to be fluid, but when using      Solution I've got:    Override  .css, linke 1427   1428 (v3.2.0)      padding-right: 15px;   padding-left: 15px;    to    padding-right: 0px;   padding-left: 0px;  

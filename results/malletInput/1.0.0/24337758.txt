@@ -1,0 +1,1 @@
+Gap between nav and jumbotron in    For the life of me I can't determine where the white space between my nav and jumbotron is coming from, I have played with so many variables, but cant get it to go away. I made a cssdeck here     and my code is below (Bootstrap code omitted).    HTML:       

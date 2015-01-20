@@ -1,0 +1,1 @@
+Twitter   3 navbar navbar-right outside navbar-collapse  In Twitter   2.3.2 I can have something like:              in mobile responsive view, I get 2 lines...  I tried to wrap in a "navbar-header" node     or in the first "navbar-header" without success.    What did I miss?    Thanks,    Alexandre  

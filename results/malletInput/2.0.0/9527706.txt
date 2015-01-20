@@ -1,0 +1,1 @@
+Bootstrap tooltip not working  My JavaScript:         This doesn't show the Bootstrap 2.0 tooltip but shows some default one.  

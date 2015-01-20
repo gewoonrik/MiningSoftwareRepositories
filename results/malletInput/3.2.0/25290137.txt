@@ -1,0 +1,1 @@
+Anchor links in   don't work  I am using   3.2.0. I have some content in the tabs and I want to creat  a anchor links to this content in tabs from different websites. Here is my code:         But it's not work. Have you idea how to fixed this?  

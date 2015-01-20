@@ -1,0 +1,1 @@
+  v. 3.0 with octopress or jekyll  I am experimenting with octopress and jekyll and want to implement twitters   in version 3.0. I found some themes for octopress that are based on   version 2.3. Now I am wondering how to use version 3.0 with octopress.    Is there a script to implement  sass    or from the  original sources ?  

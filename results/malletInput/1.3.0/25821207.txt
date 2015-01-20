@@ -1,0 +1,1 @@
+Bootstrap login window validation fire  I'm very new to Bootstrap and I wrote code to login window. It just load the popup window. But validation fails to fire. Please correct me where it goes wrong. Console shows error message says Uncaught TypeError: undefined is not a function.        

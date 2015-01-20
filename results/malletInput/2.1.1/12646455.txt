@@ -1,0 +1,1 @@
+Accordion doesn't collapse  The following accordion code is not working properly for me.         It displays and the items expand properly, but the items won't collapse.  When I click an open item, it collapses briefly, and then expands again.  I've seen this behavior on   versions 2.1.0 and 2.1.1.  Also, I'm using JQuery 1.7.2 and 1.8.2 and viewing in Chrome 22.  

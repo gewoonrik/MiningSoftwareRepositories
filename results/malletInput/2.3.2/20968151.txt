@@ -1,0 +1,1 @@
+Rails 4 + Bootstrap 2.3.2 Thumbnails: displaying text below them? (CSS)  My HTML:     , and it's putting each thumbnail on a different line.  

@@ -1,0 +1,1 @@
+Yii Framework: Error when using a multidimensional array  I'm having some problems getting this to work, I am sure there's an easy explanation, but I am not able to connect the dots at the moment.    I'm using Yii Framework 1.1.13 with the Twitter Bootstrap.    My controller looks like this:         Anyone have any idea what I'm doing wrong?  

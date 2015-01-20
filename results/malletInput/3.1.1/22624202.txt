@@ -1,0 +1,1 @@
+Component placement and alignment in Bootstrap 3  I have the following two questions regarding the below web-page:       In order to achieve different placement of the Title  1.  element I implemented it  twice  with different visibility.  Was there a way to achieve the same layout without this duplication?     On medium and large screens the title  1.  (implemented as    

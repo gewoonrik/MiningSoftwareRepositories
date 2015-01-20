@@ -1,0 +1,1 @@
+Why do my   glyphicons get rendered to Chinese characters?  I'm using   with a customized version of      and renders to:    

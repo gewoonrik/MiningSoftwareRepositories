@@ -1,0 +1,1 @@
+Checked state for buttons Bootstrap  I want to have a checked state for group chexboxes in Bootstrap 3.0.2.  docs     html:      doesnt works.  jsfiddle      How to fix it? Thanks.  

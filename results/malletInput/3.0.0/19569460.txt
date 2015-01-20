@@ -1,0 +1,1 @@
+  3 remote modal appears to do nothing  I found I can include my modal markup in the body of my    

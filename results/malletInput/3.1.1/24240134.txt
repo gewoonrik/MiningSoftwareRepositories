@@ -1,0 +1,1 @@
+Less inheritance fails with "undefined class"  I'm using Bootstrap 3.1.1 and adding my own LESS styles with semantic names.    Using   is ok), but I can't really understand what I'm doing wrong. Can anybody illuminate me?  

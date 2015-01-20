@@ -1,0 +1,1 @@
+Bootstrap Icon is not visible  I am trying to animate the refresh icon but my problem is icon is not visible in my jsp page . Here is my markup ,         Please can anyone help me in this.  

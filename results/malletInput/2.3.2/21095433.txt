@@ -1,0 +1,1 @@
+Bootstrap modal sifting background page on open  I have a   modal (v 2.3.2) that opens with the following link:      to the click handler and manually toggling the modal.    

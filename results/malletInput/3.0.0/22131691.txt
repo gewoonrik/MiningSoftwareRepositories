@@ -1,0 +1,1 @@
+Bootstrap ViewPort  im using   3.0 rtl Version . i make it 12 column , it was so great when i was test the responsive layout in the Firefox ( Resize the screen ). the probelm show when i test it from the phone . the website is show like desktop version ?? why its not change to responsive look , i think the problem with   or something like that ? try it  Mysite          

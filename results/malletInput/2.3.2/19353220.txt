@@ -1,0 +1,1 @@
+CSS (Font Awesome) - changing icon color on different button state without Javascript  As per the title, I want to know how to change  Font Awesome  icon color with different  .    Is there a way to do it with CSS?    This is  JS Fiddle .  

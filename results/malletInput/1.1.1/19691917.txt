@@ -1,0 +1,1 @@
+How do display a collapsible tree in AngularJS + Bootstrap  I am building a web app where I need to display a tree using lists.  My basic structure looks like this:       

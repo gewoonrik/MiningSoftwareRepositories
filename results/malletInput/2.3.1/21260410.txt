@@ -1,0 +1,1 @@
+Why rails select generates extra div block?  I am using rails 3.2.13 and   2.3.1.0, have the following form           

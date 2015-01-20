@@ -1,0 +1,1 @@
+ -combobox.js v1.0.0 change value with js  I am using this combobox. but cant change the value with js.          None of the above have any effect when if I include it in my js file. If I run the same command the chrome developer tool console the value is changed. So what can be the reason?    

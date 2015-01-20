@@ -1,0 +1,1 @@
+My button is not showing up the list after clicking?  I've created a webpage using php as "everyone.php".    Now i have    

@@ -1,0 +1,1 @@
+horizontal radio buttons using    I'm trying to align radio buttons horizontally in a form, using  . Without adding the   library, this code works:         But after adding the  .js to the header, the radio buttons aren't aligned horizontally anymore, but vertically. I'm using the last version of   (3.1.1)  

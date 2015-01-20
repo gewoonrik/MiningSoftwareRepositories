@@ -1,0 +1,1 @@
+Bootstrap 3 column layout with minimal additional div/row markup  I would like to have a 3 column layout, and semantically my markup makes sense from a content point of view:       

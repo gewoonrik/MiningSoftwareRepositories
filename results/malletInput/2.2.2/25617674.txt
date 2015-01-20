@@ -1,0 +1,1 @@
+TypeError: c is undefined while saving a new entry using New Entry Form in DataTable  I have this table that displays a   modal with a form inside, when i fill this form and save my data or clicking to close modal, i want to refresh the data table but this caught and error:         Somebody help me pls.For helpers reference I have put my javascript files in here      

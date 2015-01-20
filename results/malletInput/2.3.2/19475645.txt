@@ -1,0 +1,1 @@
+Assign a glyphicon to a class in bootstap 2.3.2  In   using jquery, and I;ll get another icon there. That's the whole idea.  

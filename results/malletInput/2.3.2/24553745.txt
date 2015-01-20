@@ -1,0 +1,1 @@
+Bootstrap tooltips internalization - translate title attribute  I use some   tooltips (    .com/2.3.2/javascript.html#tooltips  ) in my .pt file in a pyramid / python project. How to translate title attribute text using i18n:translate?  

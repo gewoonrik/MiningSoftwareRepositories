@@ -1,0 +1,1 @@
+how to create media query in   responsive  I have started  implementing boostrap 3.0 responsive design    how to create media query in    responsive, I am new in   3, how to add responsive media query.  

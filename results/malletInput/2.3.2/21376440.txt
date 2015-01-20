@@ -1,0 +1,1 @@
+Bower: Installing legacy   (2.3.2) with bower  I have an open source webapp using   2.3.2 and which Currently I can't move to   3 (completely different grid system) - I'm trying to move the webapp to use bower to handle dependencies but   but multiple different plugins (not concatenated) etc..    Is this fixable? should I install differently?   

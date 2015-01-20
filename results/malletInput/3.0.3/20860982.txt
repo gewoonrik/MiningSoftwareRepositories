@@ -1,0 +1,1 @@
+Bootstrap Jumbotron not becoming full width of Body  Hi I am trying to fix my Jumbotron to be full width of the screen but somehow it need a       Edit:  Firefox + Chrome + IE10 results  ===|================|===    Any Ideas on how to fix the layout? I haven't touch the Bootstrap CSS which I updated using Nuget.  

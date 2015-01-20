@@ -1,0 +1,1 @@
+Using Bootstrap 3.1.1 Glyphicons - Firefox is only displaying a weird icon that looks like forks?  Using Bootstrap 3.1.1 Glyphicons - Firefox is only displaying a weird icon that looks like forks?     I'm simply giving a span the class of:    class="glyphicon glyphicon-chevron-down"         So, heck if I know what to do :( Looks great in Chrome!  

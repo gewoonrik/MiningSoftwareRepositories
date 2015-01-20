@@ -1,0 +1,1 @@
+Changing Bootstrap column float disables responsive images  Due to my project constrains, I have to change the float for columns in Bootstrap 3.2.0 from left to right - after doing so, images are no longer responsive.     I am using   instead of changing the float but it will make things more complicated.     thanks  

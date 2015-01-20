@@ -1,0 +1,1 @@
+What is the proper file path for Bootstrap 2.3.2 Glyphicons?  I've beens searching around, and I see a ton of different proposed file paths, none of which work for me.    What do I change   to?  

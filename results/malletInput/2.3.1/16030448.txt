@@ -1,0 +1,1 @@
+Convert a Twitter Bootstrap Uncloseable Modal into a Closeable One  I'm using Twitter Bootstrap to create a modal that can't be closed. This is on purpose. However, after ten seconds, I want the user to be able to close the modal either by pressing the escape key or clicking outside of it. Can this be done? Here is sample code:       

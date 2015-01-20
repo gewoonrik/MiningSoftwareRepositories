@@ -1,0 +1,1 @@
+Bootstrap glyphicons in play framework  I want to use  Bootstraps glyphicons  in play framework    so when i use      But doing so, I get an Compilation error "not enough arguments for method at: (path: String, file: String)play.api.mvc.Call. Unspecified value parameter file. " on every other public asset I'm calling.    What am I doing wrong?  

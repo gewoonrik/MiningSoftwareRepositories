@@ -1,0 +1,1 @@
+Bootstrap modal with background fading in  I'm using   1.4.0 and jquery 1.7.2. I'm trying to create a modal window with fading background. The modal window should be loaded using javascript function.    Here's the code I have:         The modal is showing but the background is not fading in. The CSS file is the default one 1.4.0/ .css  

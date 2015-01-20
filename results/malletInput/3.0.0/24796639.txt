@@ -1,0 +1,1 @@
+Getting rid of white space below footer  I'm using the   3.0 framework and no matter what I do I cannot get the little white space after the footer to disappear.It only shows in Chrome though, in IE it's fine.    I've used   still nothing.           I'm sure there is some simple fix that eludes me.However it is driving me mad.    Can anyone offer a solution to this?  

@@ -1,0 +1,1 @@
+floatThead using Bootstrap 3 not working (ASP.NET MVC5)  Ok so I am trying to use mkoryak's floatThead plugin with Bootstrap 3.1.1. My table is inside of a tabs pane. I've tried different scripts and naming my classes different things but I cannot get it to work to save my life. Could you please help me figure this out? Thanks a ton, in advance.       

@@ -1,0 +1,1 @@
+Horizontal scroll bar displays on website even after CSS Reset  I have superfluous/erroneous width on my website even after a CSS Reset that displays the horizontal scroll bar. I am using Boostrap 3.0 and can't seem to find any broken HTML, notice too it is on every page of the website. I tried a "heavy" CSS reset and that didn't even fix the issue.     This is the website .  

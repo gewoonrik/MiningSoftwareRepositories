@@ -1,0 +1,1 @@
+  with multiple tabbable and scroll spy not working  I have a page with two   tabbable. In every tabbable one tab is set to active    Here is my markup:       from the body tag it works.     How to get scrollspy and multiple tabs working?  

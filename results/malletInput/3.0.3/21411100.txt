@@ -1,0 +1,1 @@
+Side by Side Form Field Bootstrap  I'm using Bootstrap 3.0.3 and following the CSS documentation (   .com/css/#forms ) to implement a inline form-field.    My HTML is:         However my result is:    

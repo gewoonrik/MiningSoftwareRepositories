@@ -1,0 +1,1 @@
+vertical align middle content with   3  I want to set vertical middle content in div block with latest    v3.2.0 .    I have Read the answer to  vertical-align with   3 , but it uses    

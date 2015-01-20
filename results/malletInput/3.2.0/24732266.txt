@@ -1,0 +1,1 @@
+Bootstrap sprite image css  Does anyone know how to use   icon image 'glyphicons-halflings.png'    I tried this and couldnt make it to work. Any ideas?         Thanks!  

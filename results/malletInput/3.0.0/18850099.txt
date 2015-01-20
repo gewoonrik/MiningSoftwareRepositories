@@ -1,0 +1,1 @@
+Carousel with Thumbnails in Bootstrap 3.0  I need to make Bootstrap 3.0 Carousel to display a slide of thumbnails. How can I do this? This is an image of what I´m looking for:         This is a working example for Bootstrap 2, but I need this for Bootstrap 3.0.:  Bootstrap Thumbnail Slider   

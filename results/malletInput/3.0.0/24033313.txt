@@ -1,0 +1,1 @@
+CodeIgniter Bootstrap form-horizontal in modal in not working  My web application uses CodeIgniter framework and Bootstrap 3.0 and I am trying to display a form in my modal. I would like the    

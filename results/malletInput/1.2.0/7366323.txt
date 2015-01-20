@@ -1,0 +1,1 @@
+What does the selector [class^="span"] do?  I can't work out what this is:    Line 33 of    /assets/css/ -1.2.0.min.css        

@@ -1,0 +1,1 @@
+Twitter Bootstrap 3.0.3 Navbar Aligning Navbar Header  I'm having difficulty to centering my navbar brand logo.    currently, my logo will align far to the left.    what I want actually to align it center from the first link. Kindly find below for the sample :      Please find below my code at JSFiddle                Really need your kind answer.  

@@ -1,0 +1,1 @@
+Using twitter   3 with rails using  -sass gem  Right now my   css version is v2.3.2 with following gem         So does anyone have any idea how to implement   v3 into my rails project ??  

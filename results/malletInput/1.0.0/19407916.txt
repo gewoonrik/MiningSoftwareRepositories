@@ -1,0 +1,1 @@
+Background image doesn't display properly  I have a proyect in JSF, using Twitter Bootstrap for the design. This is my code on the main page:         Any help will be greatly appreciated and any other info regarding to solve this problem I'll be more than happy to provide.  

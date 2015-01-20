@@ -1,0 +1,1 @@
+How to hide element using twitter   3 and show it using jQuery?   With  Twitter Bootstrap 3 and jQuery 2.0.3     HTML:               .min.js, line 9       Question:     What is the simplest way to hide element using Bootstrap3 and show it using jQuery?  

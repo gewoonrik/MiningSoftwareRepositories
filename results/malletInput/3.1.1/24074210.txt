@@ -1,0 +1,1 @@
+Bootstrap button being clicked when it shouldn't be  So I have a minor problem; when I click on my textbox, it appears that the button to it's left is also being clicked.  I'm using Bootstrap 3.1.1 using the default syntax.  How can I make it so when the textbox is clicked on, the button is not also clicked?    jsfiddle:        And the code in question:        

@@ -1,0 +1,1 @@
+Bootstrap popover after shuffle  I have divs with content:         After shuffle popover doesn't work.   UPDATE:  Ok, I'm updated   tooltips and popover code for version 2.3.1 and set data-container=".mydivs". Now my popover window in left top corner, how I can fix it?  

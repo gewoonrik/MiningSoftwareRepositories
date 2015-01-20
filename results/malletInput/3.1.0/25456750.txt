@@ -1,0 +1,1 @@
+Bootstrap validation with MVC?  I have been looking at the following site -  http:// validator.com/getting-started/#release     and I like the validation.  I am developing an MVC 5 application and I am using  .  I am currently using Decorators on my models to fire Validation.     e.e         Do I need to add tootip to my markup here as well?  

@@ -1,0 +1,1 @@
+Twitter Bootstrap .popover() function not working in Rails  I am trying to start using Twitter Bootstrap for Rails. The      What am I missing? Any ideas?  

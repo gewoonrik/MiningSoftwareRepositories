@@ -1,0 +1,1 @@
+BootStrap css Stacked to horizontal not working  I am practicing Bootstrap from this  link  by seeing examples.I tried to get the same output as per the example given but I get only simple lines.This is piece of code         What things did i miss? here is the screenshot of the output    

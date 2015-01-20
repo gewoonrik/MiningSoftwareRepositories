@@ -1,0 +1,1 @@
+Bootstrap 2.3.2 buttons in IE10  I have this simple code:         OK, in Chrome I could see well but in IE10 button is show as flat. I know I'm doing something bad, because I can see buttons OK with IE10 at:       .com/2.3.2/base-css.html#buttons   

@@ -1,0 +1,1 @@
+How to horizontally centre form in span with   2.3.2?  I have the following code...         ...but the search form doesn't align with the h2 tag. Do I need to have the form custom styled via css or am I missing out on some default Bootstrap class to fix this?    Thanks so much for taking time to read/answer this query.    [edit]           Added jsfiddle  

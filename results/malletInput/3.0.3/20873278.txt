@@ -1,0 +1,1 @@
+Bootstrap carousel ignoring data-interval attribute  Here's my markup:      attribute, all to no avail. The carousel automatically starts scrolling after page is loaded. I have seen other questions about this but they were all referring to older version and implied it has been fixed by now.    Any ideas please?  

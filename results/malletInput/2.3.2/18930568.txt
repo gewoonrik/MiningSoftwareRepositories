@@ -1,0 +1,1 @@
+Bootstrap Responsive Nav Open by default  I'm working on a website (   ) where I have used Twitter Bootstrap's v 2.3.2. My issue is that the responsive nav won't close by default on a mobile device.    Can someone help me please?    Thanks  

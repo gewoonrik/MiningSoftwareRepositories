@@ -1,0 +1,1 @@
+Bootstrap submenu is not working properly  Submenu is not working properly in below code. Can you please provide the solution?    Here is code,        Same fiddle copy-pasted here,       

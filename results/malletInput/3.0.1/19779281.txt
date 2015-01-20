@@ -1,0 +1,1 @@
+Bootstrap multiple checkbox required  im using  s 3.0.1 and im trying to validate a multiple checkbox, I need to validate one at least. Is there no any way to do this  s? Its hard to believe, but I couldn't find the way.    Here is my html,          Thanks.  

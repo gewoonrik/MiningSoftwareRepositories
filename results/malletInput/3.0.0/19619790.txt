@@ -1,0 +1,1 @@
+Documented modal not displaying in Bootstrap  The  Javascript documentation  from Twitter Bootstrap presents the following example:         What could be causing this collapse?  

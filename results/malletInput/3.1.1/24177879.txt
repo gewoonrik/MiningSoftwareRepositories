@@ -1,0 +1,1 @@
+grid dont work with    supposed to divide a row of two, but showing two rows, this is the code... im using the   v3.1.1 and the tutorial that i see use   V3 be diferent?       

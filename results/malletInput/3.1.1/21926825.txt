@@ -1,0 +1,1 @@
+How to make a   input field "transparent"  I'm trying to remove the border from a   input        v3.1.1     EDIT :      None of the solution below is working.  see this  Fiddle    

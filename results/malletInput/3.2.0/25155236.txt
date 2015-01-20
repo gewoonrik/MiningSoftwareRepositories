@@ -1,0 +1,1 @@
+How can I show entered password using tooltip on input type=password in  ?  How can I display the "Password entered by the user" on the tooltip placed on the input element               so far its only working if I select and reselect the checkbox but not as I type the password.  

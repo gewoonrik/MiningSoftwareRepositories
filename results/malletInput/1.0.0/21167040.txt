@@ -1,0 +1,1 @@
+Bootstrap Modal not working.(Asp.net, C#)  I try to make simple example from this site:    .html  (I deleted some fields..only want to see if that's work.) When I run that and click on 'Detail'I get only black background like that:        here is my asp code:         what is wrong?  Thanks!  

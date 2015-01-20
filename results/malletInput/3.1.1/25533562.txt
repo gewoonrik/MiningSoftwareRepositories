@@ -1,0 +1,1 @@
+How to Add/remove 'prev' and 'next' classes to carousel slides in Bootstrap?  I'm trying to position the prev and next slides in a Bootstrap Carousel with CSS but the Bootstrap.js (version 3.1.1) seems to be only very briefly adding      Any thoughts?  

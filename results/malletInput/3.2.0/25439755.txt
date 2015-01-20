@@ -1,0 +1,1 @@
+How to enable entire HTML to work within Popover Bootstrap?  I am not able to get some of this Bootstrap v3.2.0 code to work.    The problem lies within the popover (i.e. within    

@@ -1,0 +1,1 @@
+How to only apply certain rules to its text content and not its children  In short, I have something like this:         I don't think this code can be easily maintainable in the future thus I am not considering this one.    Is there any other way that only applies those rules only to the text content but not the button? Thanks.  

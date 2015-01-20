@@ -1,0 +1,1 @@
+Centering the image in   3.0  I m using   3.0 to creating a website. I am new to  . what i want, i want image in center of div when browser size is extra small i have this code.       

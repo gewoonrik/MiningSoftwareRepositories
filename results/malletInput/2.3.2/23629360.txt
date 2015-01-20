@@ -1,0 +1,1 @@
+ -sass 2.3.2 with rails 4.0.0: issue @extend .control-group; & @extend .error;  I'm following the rails 4.0.0 tutorial from    .    I checked everything to match the tutorial but seem not to be able to locate the issue.    My GemFile:                 

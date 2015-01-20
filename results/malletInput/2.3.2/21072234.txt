@@ -1,0 +1,1 @@
+How to change the bootstap dropdown-submenu icon?  I am using   2.3.2 and I make its submenus to open from left site and I put the submenu arrow icon in the left side but I don't know how to change the right arrow icon to a left one.     Update     This is the   and for putting the arrow icon in the left side I did the same and now I just need to change the icon itself.  

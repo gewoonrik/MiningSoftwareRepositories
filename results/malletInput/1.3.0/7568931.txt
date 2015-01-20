@@ -1,0 +1,1 @@
+Full body background with twitter    I am trying to work on a new project using Twitter's Bootstrap framework, but I am having an issue. I want a full body background, yet the background seems to be limited to the height of the container div. here is the HTML/CSS code:         How can I get the body to take up the entire screen?  

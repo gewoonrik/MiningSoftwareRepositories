@@ -1,0 +1,1 @@
+Bootstrap 3 support for smaller tablets  I am unable to find any reasons why   3.0 lumps phones and smaller tablets (with  768 resolution) together in their grid system.       .com/css/#grid     A group between phones(xs) and tablets(sm) could provide a better UX on even more devices.    Are there any good reasons to not add a 5th group?  

@@ -1,0 +1,1 @@
+Bootstrap form does not align with h1 in with search form  The search form is not centrally (vertical) aligned in the jumbotron like the heading Sellr Buyr. Here is the code. Although I know padding or adding a margin will help.     I need the "class" to insert that aligns it perfectly well in large and medium screens.    Here is my Code :         How can i do this ?  

@@ -1,0 +1,1 @@
+@RequestMapping not working in spring mvc  I am relatively new to spring mvc. i am not able to get the page navigation to work. i looked through the documentation and other forums for help, but I am not able to figure out where I am going wrong. can someone please help..    I get 404 when I try to access appointments.jsp    Controller       

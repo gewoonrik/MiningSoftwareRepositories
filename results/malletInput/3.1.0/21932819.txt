@@ -1,0 +1,1 @@
+Google CSE with Twitter Bootstrap not displaying the search box correctly  The Google Custom Search (CSE) not displaying the search box and the button correctly.  I am using Twitter Bootstrap v3.1.0.         Can anyone please help?            screenshot of the abnormal searchbox   

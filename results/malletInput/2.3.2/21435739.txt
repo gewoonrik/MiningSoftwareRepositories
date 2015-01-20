@@ -1,0 +1,1 @@
+Bootstrap 2.3.2 Not Working in IE9  Has anyone run into issues w/Bootstrap not working/freezing the page in IE9?  I have the following test page:       / /browser_test_2.html     It works in FF no problem.  In IE9, nothing.    Has anyone run into similar issues?  If I comment out  .css, the page works fine.      Any suggestions would be appreciated.    Thank you.  

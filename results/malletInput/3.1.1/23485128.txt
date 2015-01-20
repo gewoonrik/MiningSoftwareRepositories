@@ -1,0 +1,1 @@
+How do I have Multiple Tooltips for one image  I would like to have three different tooltips appear when I hover over an image without nesting div's.    This code does work:         Reference:  Bootstrap control with multiple  data-toggle      Does anyone have any ideas? I'm using Bootstrap 3.1.1 and my javascript is very limited.  

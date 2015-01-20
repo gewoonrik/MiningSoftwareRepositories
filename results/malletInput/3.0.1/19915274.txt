@@ -1,0 +1,1 @@
+Fix twitter   collapse icons, glyphicons  I changed twitter  's behaviour so the whole panel-heading would trigger the accordion. This results in the 'up' icon not changing in the 'down' icon anymore.    I am trying to fix this, but to no avail. How can I restore the correct behaviour of these icons?         PS: I'm using Bootstrap 3.0.1  

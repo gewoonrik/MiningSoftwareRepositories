@@ -1,0 +1,1 @@
+Bootstrap not rendering dark background to text  I am new to using Bootstrap and was trying out some basic functionalities which did not seem to render. I was attempting to create text with a dark and darker background and the text renders, however it does so without the dark background. does not                                    

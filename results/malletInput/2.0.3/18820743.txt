@@ -1,0 +1,1 @@
+Trouble modifying a Bootstrap setting in Rails 3.2 application.css.scss file  I am using  Bootstrap-Sass  2.2.1 and Simple Form 2.1.0 in a Rails 3.2 app.     In my Gemfile:         Do you see anything wrong with the order? What else could it be?  

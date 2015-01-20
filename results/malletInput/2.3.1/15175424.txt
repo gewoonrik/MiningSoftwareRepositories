@@ -1,0 +1,1 @@
+Installing twitter   with Rails  I am trying to install on an existing project Twitter Bootstrap    I tried to do that, following  this  :          But no   css seems to be called on my layouts. Could someone help ? Is this the right way to install Bootstrap ?    update : I have just noticed that in the gem file I have : gem "rails", "2.3.14"  

@@ -1,0 +1,1 @@
+When navigating to #id, element is hidden under fixed position header  I have a Bootstrap 3.0 navbar with that is always visible at the top of the page, but this could represent anything for which the   then the top of the section is cut off.     jsFiddle      Q:  Is there a way to adding padding so that the full item will come into view when navigated to?  

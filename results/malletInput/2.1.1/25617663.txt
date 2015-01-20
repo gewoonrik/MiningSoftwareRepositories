@@ -1,0 +1,1 @@
+Event issues with   in iOS  im using    3.2  with  jQuery 2.1.1  and  jQuery mobile custom v1.4.3  (only events) with  Cordova 3.4  for creating an app.    I bind a taphold event on a div and show a   modal. When i release my finger the modal closes instant. Its working in  Android  and  windows phone 8  but not  iOS 5,6,7  ...    function when taphold event fires:       

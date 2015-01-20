@@ -1,0 +1,1 @@
+Datepicker not showing - Bootstrap  So this is the markup of the datepicker:         I have changed some of the CSS JS code because of the Bootstrap 3 updated code, source:    -with-twitter- -3-0/     So, I want to have a table-look-a-like datepicker when I click the calendar button. Any help? Thanks.  

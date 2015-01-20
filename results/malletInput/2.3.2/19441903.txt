@@ -1,0 +1,1 @@
+Bootstrap 2.3.2 navbar selected item  I'm using the latest bootsrap to display a navbar with the following items.         Any ideas?  

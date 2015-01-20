@@ -1,0 +1,1 @@
+Bootstrap Switch Event Handler not working  I asked a question similar to this one  here  but now I'm stuck on using Bootstrap Switch's  event handler .  I want to just print out the state when the switch gets toggled. Currently it only switches the state when clicked and does not trigger the new event.    Below is some of my setup:    some.js       

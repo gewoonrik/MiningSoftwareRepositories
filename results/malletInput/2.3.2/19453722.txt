@@ -1,0 +1,1 @@
+typeahead.js not displaying correct results or CSS within    I have the following input         On screen only 1 item is displayed in the drop down, and there is no CSS formatting like in the examples. This is using   2.3.2 and typeahead 0.9.3. I have included the file typeahead.js- .css within my code.    Can anyone point out what is wrong?  

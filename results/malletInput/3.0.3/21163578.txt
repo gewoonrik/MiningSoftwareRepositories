@@ -1,0 +1,1 @@
+How to style this select element?  This is my first attempt to convert PSD to HTML.    Below is screenshot of the the select element that I need to convert.         I tried using Bootstrap 3.0.3 and below is the result :         Anyone can help me?    Below is my HTML       

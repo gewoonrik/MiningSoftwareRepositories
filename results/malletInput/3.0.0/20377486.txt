@@ -1,0 +1,1 @@
+mvc bundling adds text to  .js  I have an MVC project that includes   3.0.0. On my dev machine everything works fine. But on the test server something goes amiss. I think this has to do with bundling.    Dev machine:      is a url and adjusts it for the "new" relative url.    Can I tell the bundling not to adjust this JavaScript file? Or do you see another way around this?  

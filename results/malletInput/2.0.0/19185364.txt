@@ -1,0 +1,1 @@
+Install Nodejs for V8 Rails to use Less  I tried to install Bootstrap for Rails, but i always got this error:         So when i restart my webrich server i see on public indey that the javascript runtime now is nodejs. Then i reapeted the installation of twitter   but get the same error. I use Rails 4.0 and hope that somebody has an advice for me? Thanks  

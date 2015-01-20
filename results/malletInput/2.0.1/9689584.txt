@@ -1,0 +1,1 @@
+Buttons run together in Bootstrap 2.0.1  I'm using Bootstrap 2.0.1, and in my pages I often have a couple of buttons next to each other:      somewhere that provides the gap?    I've gotten the same results in Chrome and FireFox.  

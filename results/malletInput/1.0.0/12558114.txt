@@ -1,0 +1,1 @@
+Bootstrap for sass not resizing icons  I'm using compass and   for sass on a project. Everything works well. The only thing I can't figure out is how to resize the icon glyphs.     For example, when   is running on its default less configuration I can simply increase the icon size by adding a      Using  this    for sass gem. I'm not using any mixins for the icons.   

@@ -1,0 +1,1 @@
+Bootstrap and Supersized js incompatibility on mobile devices  I'm using Bootstrap v2.3.2, Bootstrap Responsive v2.3.2 and Supersized 3.2.7 on my site. Desktop version is good but on mobile devices and tablets I've got a left margin/padding, see screenshot below. I tried to remove lines 804 and 805 of  -responsive.css:        

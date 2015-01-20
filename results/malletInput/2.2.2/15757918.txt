@@ -1,0 +1,1 @@
+disable past dates on datepicker  How to disable past dates from the current date on a datetimepicker? I tried few posts for similar question but was unable to achieve it, Below is what I tried       

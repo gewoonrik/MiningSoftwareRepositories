@@ -1,0 +1,1 @@
+Bootstrap popover on injected html button  I have injected a button like this:         but nothing. Any ideas?  

@@ -1,0 +1,1 @@
+Using Image with Brand  I'm trying to add a Image with my GWT Bootstrap application. I replaced the  widget with  widget however the    

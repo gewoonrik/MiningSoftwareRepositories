@@ -1,0 +1,1 @@
+How to animate height change on Bootstrap 3 Carousel  I know there is  this  question. The proposed solution  doesn't work  for Bootstrap 3 unfortunately (although it  does  for bs 2.3.1). So how would I do it there?  

@@ -1,0 +1,1 @@
+Bootstrap(3.1.1) Glyphicons not working in firefox  I stumbled across an issue with Bootstrap Glyphicons not working with Firefox but working with other browsers faultlessly.      Q:    

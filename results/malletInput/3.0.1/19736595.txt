@@ -1,0 +1,1 @@
+Nuget External packages cannot depend on packages that target projects  When I attempt to Install-Package Twitter.Bootstrap in an empty mvc4 web project I get this         What can I do to fix this ?  

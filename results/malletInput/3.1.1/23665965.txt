@@ -1,0 +1,1 @@
+Javascript in    I have some problem with the JavaScript in  . It working fine for css,but when i use javascript like modal or tooltips, it won't show. I don't know what went wrong, i've downloaded all the source code from    .com/  and put         So, what should i add/configure more?  

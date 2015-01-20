@@ -1,0 +1,1 @@
+Updated rails 3 to 4 wont look through gems assets  I step on strange issue. I have  -sass gem(and some other js aswell). When im trying to access any page im getting        

@@ -1,0 +1,1 @@
+Keeping a Bootstrap Button-Dropdown Open when making a selection  Consider the  Bootstrap Button-Dropdown  (using the code from the example). How would I keep the dropdown open when I'm selecting items (so that I can pick more than one)?    Please note that I'm using 2.3.2 at the moment (hence the link).  

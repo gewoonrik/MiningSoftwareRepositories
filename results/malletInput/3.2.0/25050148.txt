@@ -1,0 +1,1 @@
+Bootstrap 3.2.0 alert javascript confusion     .com/javascript/#alerts-examples  Under the usage section, it has several js snippets of code. However, merely using markup like      ) do? Is it for outdated browsers? Is the documentation outdated?  

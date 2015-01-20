@@ -1,0 +1,1 @@
+  table display differently between chrome and firefox  I have a table built on   2.3.2:         I tried to change the display to display:table-row for the head but nothing changed, the header row in chrome displays correctly:         In Firefox:         Any help,  

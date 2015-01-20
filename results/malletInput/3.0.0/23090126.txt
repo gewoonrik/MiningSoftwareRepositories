@@ -1,0 +1,1 @@
+Iconpicker for Bootstrap 3.0 - use custom font set  Iconpicker for Bootstrap 3.0 only uses the default icon sets fontawesome and glyphicon. How do I use Iconpicker with my custom icon font?       -iconpicker/   

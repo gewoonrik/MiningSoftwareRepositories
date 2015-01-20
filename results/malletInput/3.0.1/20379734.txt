@@ -1,0 +1,1 @@
+  3 built in image replacement?  While digging through mixins.less file of   3 I found the following:         Has anyone been using this? Where do I specify the image that I want to replace the text? Am I right to assume that all this does is to hide text and not replacing it with an image?    

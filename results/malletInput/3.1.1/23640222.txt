@@ -1,0 +1,1 @@
+Html   list-group item error  I have a simple   html page as follows:         When we look at the page in the browser, the list overlaps with the text and is not displayed right. What is going wrong here?  

@@ -1,0 +1,1 @@
+rails 4: unable to import   theme into rails  Trying to import a bootsrap theme called landon into my rails app but cannot get the CSS files to work. Installed a   gem ( -sass 3.1.1.1) Created a css.scss    added the line    

@@ -1,0 +1,1 @@
+Why are my glyphicons disappearing when I resize my page?  I'm currently using Bootstrap v3.2.0. When I shrink my page down my glyphicons disappear. I tried downloading new fonts from this site and setting them to a percentage, but no luck. Little help anyone?  

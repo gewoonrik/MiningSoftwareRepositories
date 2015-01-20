@@ -1,0 +1,1 @@
+Advanced search link in second line of   3.0 navbar  I use Bootstrap 3.0, and I need to place second line (link to advanced search) under text input.    Now I have:      I want:       What is the best way to do this ?  

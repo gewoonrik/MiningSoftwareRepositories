@@ -1,0 +1,1 @@
+How to trigger Bootstrap in our javascript     .com/javascript/#buttons ?    Here they given an demo for radio button toggling in bootsrtap..    I am trying to use that in my code...but the active is not switching what is the problem...    my cdns    enter code here       

@@ -1,0 +1,1 @@
+Bootstrap images in carousel not sliding  I am using twitters   carousel, sometimes images slide , sometimes they dont..  and when they do not       

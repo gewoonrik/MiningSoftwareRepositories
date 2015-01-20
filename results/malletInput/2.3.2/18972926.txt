@@ -1,0 +1,1 @@
+Why does Bootstrap float their span12 class  Was answering another question about centering a div that had the  's span12 class applied to it, and part of the solution was to reset the float as the span12, as well as the other span* classes, are floated.    Since   as the selector for setting styles so span12 gets selected by accident  

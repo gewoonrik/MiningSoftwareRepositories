@@ -1,0 +1,1 @@
+Using Affix in Bootstrap 2.3.2  I'm trying to create a sidebar like   this  my sidebar overlaps footer.I need the sidebar move up when scroll reaches the end.( exactly like the link)  here is my code: Css:         what is wrong with my code?  

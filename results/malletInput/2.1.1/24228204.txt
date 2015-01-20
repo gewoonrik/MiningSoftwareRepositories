@@ -1,0 +1,1 @@
+DatePicker not displaying properly in Bootstrap ASP.NET MVC 5  I have a date picker in my form and it is not displaying properly in any browser         And this is how it is displaying in UI:       

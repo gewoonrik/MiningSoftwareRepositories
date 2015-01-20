@@ -1,0 +1,1 @@
+Left nav menu using BS3 overlapping footer  Essentially, my side menu is overlapping the footer and I can't seem to clear the footer to fix it.    Here is my test file:              

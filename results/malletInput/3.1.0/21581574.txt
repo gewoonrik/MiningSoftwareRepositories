@@ -1,0 +1,1 @@
+Angular Tabs Break When using ng-bind-html  I am using angular ui with   and angular-text module to build tabs builder   I am using the ng-bind-html to allow html in the tab content from angular-text module   the problem is I got broken layout after doing that   how I can solve this problem ?   here is the code       

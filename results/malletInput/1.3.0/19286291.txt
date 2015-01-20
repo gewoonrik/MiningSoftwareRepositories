@@ -1,0 +1,1 @@
+Rails-link delete isn't working property after customize confirmation delete dialog  I want to customize confirmation dialog. Before I customize confirmation dialog, everything perfect. When I click on delete link          Could anyone help me?Thanks in advance  

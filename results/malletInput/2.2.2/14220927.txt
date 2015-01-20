@@ -1,0 +1,1 @@
+How to reduce the margin between two rows/containers in Twitter Bootstrap?  I have two rows in two containers, but I can't figure out how to reduce  the bottom and top margin/padding to bring the content closer.    The    

@@ -1,0 +1,1 @@
+simple_form +  , premature validation  My  , which solved the problem. It was validating the not-yet-saved user object.  

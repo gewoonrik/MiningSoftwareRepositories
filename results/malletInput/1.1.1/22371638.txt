@@ -1,0 +1,1 @@
+Bootstrap 3 dropdown refuses to work in rails 4  Am using the  -sass 3.1.1 gem in a rails 4 application. The css works fine but I cant get the dropdown to appear at all. My application.js file is like so.              I cant figure out what's wrong? any clues?  

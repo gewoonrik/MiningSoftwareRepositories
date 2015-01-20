@@ -1,0 +1,1 @@
+  3.0 multiple textbox in horizontal form issue  I am trying to display three small text box elements within horizontal form group class. using code          Correct Result:        

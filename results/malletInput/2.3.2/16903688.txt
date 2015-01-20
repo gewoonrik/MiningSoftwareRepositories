@@ -1,0 +1,1 @@
+Why does the CDN's have 2 // instead of http or https in front of the URL  I don't understand that why I look at the following website for a CDN, the URL's start with a double "//".  I have seen this on JQuery and Bootstrap.  Is it up to the person to put http:// or         cdn.com/        

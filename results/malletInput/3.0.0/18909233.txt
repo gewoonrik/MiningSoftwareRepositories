@@ -1,0 +1,1 @@
+Bootstrap 3.0 and IE 8 conflict  I have a local design which is running on Bootstrap 3 and working well in all browsers except IE 8 and below.    I have tried including respond.js and html5shiv.js, though I couldn't succeed.  

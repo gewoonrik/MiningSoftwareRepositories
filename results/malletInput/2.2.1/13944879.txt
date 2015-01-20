@@ -1,0 +1,1 @@
+  affix floats all the way to the left when scroll  I have a div within a container that I would like to stay fixed on the right side of the screen. But when the user start to scrolls it just shifts all the way to the left. Thanks for any help.                ​  

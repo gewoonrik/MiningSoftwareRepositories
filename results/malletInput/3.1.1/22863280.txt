@@ -1,0 +1,1 @@
+Form with icon on Bootstrap v3.1.1  I cannot show double icon   v3.1.1. when I using old version   with class "icon-user" its work but not for glyphicon icon   v3.1.1         code on jsfiddle      

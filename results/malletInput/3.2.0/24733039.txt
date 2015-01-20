@@ -1,0 +1,1 @@
+How to set Push/pull columns for Only smaller screen sizes in Bootstrap  I have the following layout on a page(with Bootstrap 3.2.0):         So, How to set Push/pull columns only smaller screen?    What is wrong Here?  How can i fix it?    Would appreciate the help.  

@@ -1,0 +1,1 @@
+Unable to call   modal  I followed a YouTube tutorial (on modals) exactly but nothing appears in my browser. Isit due to my script/link? Some help please.       Here are my codes.        

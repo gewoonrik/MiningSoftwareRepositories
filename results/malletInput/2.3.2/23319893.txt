@@ -1,0 +1,1 @@
+jquery unable to show and hide an element  I have    

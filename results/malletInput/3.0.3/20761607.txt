@@ -1,0 +1,1 @@
+BootStrap V3 carousel does not work  this is my carousel in a a webform with master page:         but the first photo is fixed and there is no sliding and even changing of the photos. I'm using visual studio 2012 and asp.net with C# and BootStrap V3.0.3.    what is the problem??    thank you very much.  

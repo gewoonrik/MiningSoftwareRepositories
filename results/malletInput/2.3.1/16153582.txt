@@ -1,0 +1,1 @@
+Twitter Bootstrap Tooltip isn't working  I have this HTML:         How can avoid this?  

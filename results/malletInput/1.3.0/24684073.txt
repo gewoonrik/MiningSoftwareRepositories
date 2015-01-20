@@ -1,0 +1,1 @@
+In Angularjs / Bootstrap why does my cancel button invoke the submit event  I have an Angular / Bootstrap form with a button type=submit and a plain button to cancel - and hide the form.  When I click on the cancel, it calls the cancel event handler and then it calls the submit handler. ??  Here's the code as if have it in Plunker:           

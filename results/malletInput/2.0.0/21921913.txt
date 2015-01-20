@@ -1,0 +1,1 @@
+updated rails gem  , heroku application error  Recently updated by  _and_customization style sheet and the changes took effect locally, but when pushed to Heroku they did not work. So I updated my gemfile to an updated  gem ' -sass', and pushed to Heroku, but still didn't work. Now I'm getting a heroku application error screen.        

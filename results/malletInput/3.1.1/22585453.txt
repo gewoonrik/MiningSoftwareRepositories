@@ -1,0 +1,1 @@
+can i make different forms appear dependent on what the screen size is?  so on my registration .php screen, i have a form in that phone a table, in the table there is 2 columns and about 5 rows the table basically set out like this ...         but im guessing it wont be as easy as that, does anyone have any suggestions that could help with this??  

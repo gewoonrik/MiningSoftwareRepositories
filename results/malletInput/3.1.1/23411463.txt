@@ -1,0 +1,1 @@
+Laravel/blade caching css files  I am working on Nginx server, with PHP-FPM. I installed  . I deleted the css file and renamed it and add new styles, I configured chrome not to cache pages. But Still the same value. I'm convinced now, that Laravel has kept a cache of the first style declaration.     Is there any way to disable this at all?   

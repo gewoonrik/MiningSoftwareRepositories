@@ -1,0 +1,1 @@
+How do I use tooltip plugin in twitter  's modal dialog?  all.  i am using   v2.1.1 (the newest version currently). i need a tooltip in my modal dialog.         This is could not be z-index issue, i think.     anyone can help ? thx a lot.  

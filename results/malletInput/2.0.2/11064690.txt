@@ -1,0 +1,1 @@
+Meteor margin-bottom with    I'm using meteor with the   package. (here is a chunk of code where my problem is)      tag anyway so It shouldn't be this. I can fix this by forcing an override of the style but I don't get why the margin-bottom is added into the css file itself. Is there functionality to it?     EDIT  Its fixed in newer  . I uppdated    manually from 2.0.2  

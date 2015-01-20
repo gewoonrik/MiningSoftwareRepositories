@@ -1,0 +1,1 @@
+Bootstrap 3 Datetimepicker 3.0.0 - week starts at Monday  There are few reasons I use Bootstrap 3 Datetimepicker 3.0.0     in my MVC 5 project.    Any idea how to offset week start so it starts from monday. Language tag also not working.         This is not working because it is not the same  -datapicker.js  

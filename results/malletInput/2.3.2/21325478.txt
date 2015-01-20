@@ -1,0 +1,1 @@
+Version of twitter   used in twitter- -rails gem  I am using twitter- -rails gem for my rails 3.2 and ruby 1.9.3 web app. How do I know which version of twitter   the gem is using? Is it the   3 or the legacy   2.3.2?    I tried looking at the readme on their github page but did not find much information       -rails   

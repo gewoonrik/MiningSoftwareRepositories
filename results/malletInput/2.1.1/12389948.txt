@@ -1,0 +1,1 @@
+Twitter Bootstrap Typeahead - Id & Label  I'm using   2.1.1 and jquery 1.8.1 and trying to use typeahead's functionality.    I try to display a  label  and use an  id  like a standard   to display my labels and store the selected id in another hidden field ?  

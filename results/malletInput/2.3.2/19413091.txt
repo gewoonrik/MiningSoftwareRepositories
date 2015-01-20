@@ -1,0 +1,1 @@
+Remove textarea's box shadow on bottom only  This is what I currently have:         What I'm trying to do is remove the bottom box-shadow of the textarea (the one just above the B, I, and U) so that it ends up looking like this:         Here's the JSFiddle:        HTML:         Please help.  

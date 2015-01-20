@@ -1,0 +1,1 @@
+Fix image overlapping frame/border issue  I have some html code, that for some reason doesn't seem to look like the original, the image overlaps the outer frame/border in   2.3.2, it was originally written for   2.0.4.   The CSS is:         This is what it originally looked like, it's the one named BMN LOGO IMPROVED I...:          Thanks alot.  

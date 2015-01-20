@@ -1,0 +1,1 @@
+Bootstrap Responsive Site Ingores Viewport Setting  Why does our responsive site, in a 320px wide window, scale differently on a phone, than it does on a desktop browser    The  problem  turned out to be this update in Bootstrap's v2.3.2 responsive-utilities.less file.         A follow up question: what is that @-ms-viewport line for anyway?  

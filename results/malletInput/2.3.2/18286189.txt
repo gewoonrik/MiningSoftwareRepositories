@@ -1,0 +1,1 @@
+Should I use normalize.css in my Bootstrap project?  I can't figure out if I need to add the  normalize.css  stylesheet in my   project. I'm using the latest version of  , v2.3.2.  

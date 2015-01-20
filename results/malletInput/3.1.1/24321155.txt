@@ -1,0 +1,1 @@
+How many   links do I need to use at the top of my index.html file to use a template  I am trying to use a bootswatch Bootstrap template that you can find here:    cdn.com/#bootswatch_tab  (The template is Amelia).     Do I only add this to my index.html document:         I figured I just needed the first piece of code but I need it to connect to my style.css document.  

@@ -1,0 +1,1 @@
+Using  -sass gem with javascript from Twitter  I am trying to implement the tooltip functionality as shown here:    /javascript.html#tooltips  using the Bootstrap-sass gem for Ruby on Rails 3. I have done the following below but it doesn't work (text doesn't appear when I hover over text):    In gem file:       

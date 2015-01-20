@@ -1,0 +1,1 @@
+Bootstrap renewal  Is   2.1.1 too early a version? Should I update to latest version 2.3.2?    I just found a wordpress theme that has   applied to it. I am unsure as to if it is imperative to update it.    I will be using the theme to do a small microsite with a maximum of 2 templates.  

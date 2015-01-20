@@ -1,0 +1,1 @@
+Simple Navigation not shown nested items using   on Rails 3  I tried to nested my menu items by it can not show.    Gist        it should show the two net.item in my menu. but it didn't.    I guess the problem is due to the I have to do some css in the output html, but how to?       

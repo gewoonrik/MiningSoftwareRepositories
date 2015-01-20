@@ -1,0 +1,1 @@
+Bootstrap/Laravel won't load javascripts  I try to load my javascripts like this:       

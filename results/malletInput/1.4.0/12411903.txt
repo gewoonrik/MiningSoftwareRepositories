@@ -1,0 +1,1 @@
+What is needed ONLY for Twitter Bootstrap's Popover?  I understand I can go to    /customize.html#components  and select the only the components I need to make the popovers work.    I updated the    

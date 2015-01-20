@@ -1,0 +1,1 @@
+Table sorting in twitter   3.1.1       The code above is the way i populate data into my table    How can i make this table sort enabled for twitter   3.1.1 version. I referred one of the question on stackoverflow and tried using it by it didnt work  How can I make table being capable of sorting with twitter       Any suggestions please?  

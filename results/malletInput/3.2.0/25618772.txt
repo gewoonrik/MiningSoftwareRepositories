@@ -1,0 +1,1 @@
+assign background color in twitter   3  I'm trying to understand  , I read document on Scaffolding section of    .com/css/#less-variables .    Here is my simplified code, and it can NOT work.       

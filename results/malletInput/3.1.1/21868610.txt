@@ -1,0 +1,1 @@
+Make column fixed position in    Using Bootstrap, I have a grid column class="col-lg-3" that I want to place it in position:fixed while the other .col-lg-9 is normal position (scroll-able through the page).         Just the same way like the left column in  LifeHacker.com  You will see that the left part is fixed however I scroll though the page.    I use   v3.1.1  

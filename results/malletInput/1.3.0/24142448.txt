@@ -1,0 +1,1 @@
+ -wysihtml5 doesn't work inside jquery steps  When I put my textarea which I want to be the wysihtml5-editor i get the following error message:         I already watched at the iframe at that point and it's null. I just don't know why and I am just not capable to understand the whole 10000 lines of code ;)  

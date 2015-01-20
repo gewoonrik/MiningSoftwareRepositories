@@ -1,0 +1,1 @@
+p tags text overlay on responsive  ?  I have problem with   when I want to apply responsive the first box will overly when I hit breakpoint 970px I don't know why it doing that I apply the 3 horizontal box   like this template but the p tag text on the first box will overlay with text on the second box     .com/2.3.2/examples/justified-nav.html        

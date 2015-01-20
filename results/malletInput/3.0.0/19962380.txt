@@ -1,0 +1,1 @@
+How to create an over lay in   3.0 carousel?  Hi I want to create a overlay with some links on a   carousel and want it to be placed on the right top as shown in the picture.      here is my current code    **                                                                                  

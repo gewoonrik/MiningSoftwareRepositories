@@ -1,0 +1,1 @@
+Bootstrap table table-condensed table-hover, Top Border not showing  I am using custom css with   for outer border. but the top border isnt visible unless i make its size to 2 px.    how can i solve this?    HTML                I would like a Outer Table Border of 1px #4C7ED1 Its visible on all sides except top , how can i fix it ?    Thanks  

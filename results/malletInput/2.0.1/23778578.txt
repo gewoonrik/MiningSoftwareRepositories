@@ -1,0 +1,1 @@
+Ajax call issue in CakePHP  I am using CakePHP 2.3.6. In my view file, I have :         But, same result.    Please help me.    Thanks.  

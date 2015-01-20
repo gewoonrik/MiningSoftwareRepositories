@@ -1,0 +1,1 @@
+Adding depth/dimension to an icon font?  I would like to put a border, i.e., give some depth or dimension, around an icon but it doesn't look like CSS's    

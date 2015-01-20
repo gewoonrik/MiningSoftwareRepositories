@@ -1,0 +1,1 @@
+Bootstrap image changes size  I am using twitter   2.2.2 and it seems that my image in the "hero" div resizes perfectly on page load, then reacts for some reason and expands to be larger than the div and gets cut off.      See page here:        Please note I am using a jquery plugin for tooltips over each state.    

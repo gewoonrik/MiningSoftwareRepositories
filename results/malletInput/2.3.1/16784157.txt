@@ -1,0 +1,1 @@
+Gemfile syntax error after Bootstrap-sass install  After numerous "git push heroku master" rejections due to "no Cedar-support app detected" I found I should run bundle install.          Any help would be appreciated as I am new to the community.  

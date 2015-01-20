@@ -1,0 +1,1 @@
+Bootstrap navbar collapse button unclickable in rails 4,   3  I'm using rails 4,   3 ( -sass 3.1.1.1). When I resize my window down the button appears but is not clickable.  My cursor doesn't change when hovering and the button does not change appearance.  When I click nothing happens.    Here's the relevant HTML:       

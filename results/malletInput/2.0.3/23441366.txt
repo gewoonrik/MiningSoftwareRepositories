@@ -1,0 +1,1 @@
+Bootstrap Scrollspy IE 9 Issue  I couldn't get scrollspy to work in IE 9. I reduced the code to the very basic but the issue remains.          JsFiddle Link     What am I doing wrong?  

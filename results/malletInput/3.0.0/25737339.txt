@@ -1,0 +1,1 @@
+div height:100% and display:flex not working in Chrome  Bootstrap 3.0 is also used. I want boxes to be of same height   more link on right box is at right position but box is ending before more link.     Here is a fiddle.     HTML       

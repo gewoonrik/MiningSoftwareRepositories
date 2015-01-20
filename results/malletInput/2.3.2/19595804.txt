@@ -1,0 +1,1 @@
+  find and close open modals  am using   2.3.2 to display modals with information, in some scenarios it will show error messages. As am trying to create a loosely-coupled functions, the error displaying function am trying somehow to make it find and close any open modals and then toggle the error modal.          any idea how i can do such a thing?     Thanks,   

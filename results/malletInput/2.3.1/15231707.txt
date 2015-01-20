@@ -1,0 +1,1 @@
+modify collapse plugin to work with select = selected  I am trying to use a           

@@ -1,0 +1,1 @@
+How does Bootstrap manage to use fixed positioning for navbar on iOS?  I noticed that even on iOS, Bootstrap's           

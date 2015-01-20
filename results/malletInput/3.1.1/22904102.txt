@@ -1,0 +1,1 @@
+How to change the background-color of jumbrotron?  I want to know how to change the background-color of 'jumbotron' class, it has a default    

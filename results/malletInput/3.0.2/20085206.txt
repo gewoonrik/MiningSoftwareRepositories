@@ -1,0 +1,1 @@
+Why is my   carousel item disappearing before completing the slide animation?  I have a carousel within a modal that every time you navigate to the next item the previous one begins to slide off the screen and just disappears before completing the animation. I'm using Bootstrap 3.0.2.  Any Ideas?  

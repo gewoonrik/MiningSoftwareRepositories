@@ -1,0 +1,1 @@
+Bootstrap Datepicker 2.0 To select multiple dates  I am using a datepicker from   2.0, I want to be able to select multiple dates from the UI.     Is there any way I can do this?       

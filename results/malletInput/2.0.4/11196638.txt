@@ -1,0 +1,1 @@
+Change navbar color in twitter   2.0.4  Was wondering if anyone knew how to change the navbar color in   v2.0.4    I tried this solution it does not seem to work:  navbar color in Twitter Bootstrap     Any other solutions? I have tried the customized   packages, but I am so far into development I can make a switch like that.      Code:        

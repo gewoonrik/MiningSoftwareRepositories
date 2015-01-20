@@ -1,0 +1,1 @@
+Webpage strange behaviour on iphones  I made a  -sass 3.1.1 page. Html structure looks like this  body>fixed top-nav+ background container>content  -container . On the other devices everything looks fine include ipad's, but on iphones it looks like this screen below.  Does someone know how to fix this?            

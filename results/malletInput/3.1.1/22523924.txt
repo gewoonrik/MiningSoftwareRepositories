@@ -1,0 +1,1 @@
+Overriding WebJar assets in Play 2.x  Just wonder, if there is a way to override some assets, precisely JS and LESS files, in a  WebJars  asset with the ones located in the   folder would not work.     For LESS, maybe it's possible to import them from within my assets, but what about the others?  

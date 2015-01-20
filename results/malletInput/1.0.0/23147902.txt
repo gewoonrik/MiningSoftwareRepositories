@@ -1,0 +1,1 @@
+Asp.net Bootstrap  I am trying to use   in asp.net project. The page looks fine but if you resize the page to mobile phone size its navigation panel is not staying in dropdown position. My code is as follows:       
