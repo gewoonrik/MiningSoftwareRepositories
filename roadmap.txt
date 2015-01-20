@@ -1,0 +1,11 @@
+
+
+Methodology:
+- retrieving data from SO
+	- all data used
+	- koppeltabel (link to code)
+- matching post with version
+	- reference paper: Android SDK
+	- TODO: improve
+	- TODO: test, precision of matching
+- Attempts
