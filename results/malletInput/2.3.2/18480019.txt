@@ -1,0 +1,1 @@
+Twitter   and rails  Im trying to put the   folders in "public" the same thing? If not then where do I put the source files? I am using ruby version 1.9.2-p290, rails version 3.0.19, and   version 2.3.2. Not sure if that makes a difference or not.  

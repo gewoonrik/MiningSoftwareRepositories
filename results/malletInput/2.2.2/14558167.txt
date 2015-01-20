@@ -1,0 +1,1 @@
+Delete space between the menu and the carousel Twitter   2.2.2  I just add navbar and then at the bottom of this add carousel like this in the screen:         In twitter   css I nothing changed. How I can delete this space? this is my index.html code        

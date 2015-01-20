@@ -1,0 +1,1 @@
+Rails 3 Asset Pipeline: JQuery Datepicker is working, but Timepicker will not work at all  The javascript console is giving me this error for any of the timepickers I've tried to integrate,  though it does work fine for datepicker . Also datetimepicker doesn't work.       

@@ -1,0 +1,1 @@
+Customize   column arrangement on desktop  Using Bootstrap v3.1.1       When the browser window is  992px, the divs arrange:     [ left ]    [ main ]    [ right ]       How could I make them arrange like this instead?    [ main ]    [ left ][ right ]    *main centered and left   right centered below it          

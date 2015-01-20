@@ -1,0 +1,1 @@
+How to load local copy of   css when the cdn server is down?  As of now i'm using like this for javascript         Can someone tell me how to load local copy if the cdn server is down.?   

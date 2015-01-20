@@ -1,0 +1,1 @@
+How to create tabs on the left in  .js v3.0.0?  I am trying to create tabs on left using  .js v3.0.0  which is available in   2.3.2.    But it is not showing tabs on left.    Please refer  this fiddle  for more details.           

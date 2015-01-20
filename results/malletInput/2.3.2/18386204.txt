@@ -1,0 +1,1 @@
+Issues with twitter   2.3.2 typeahead not working  I have a php/mysql backend and a  /jQ frontend. And a 4-hour headache.    The form element looks like this:         Can anyone point out the clearly obvious (I assume) syntax issue that's stopping it?  

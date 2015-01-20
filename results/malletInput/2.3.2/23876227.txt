@@ -1,0 +1,1 @@
+Images won't resize below certain browser's width  Website is available  here . Full CSS can be accessed  here .    Problem is that images in tiles resize only for browser's width > 512px. For 2 images per row images won't shrink below 240px and for 1 image per row images keep their default width - 480px. It happens despite setting:       

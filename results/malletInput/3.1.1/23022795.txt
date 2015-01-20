@@ -1,0 +1,1 @@
+Bootstrap 3.1.1 Page: Hide the URL of links  I have a Bootstrap 3.1.1 page, that I would like to hide the URL of links when doing a print / print preview. How can I do this?    I want to show the links themselves like "Cart", "My Account", etc etc., but do not want to show the links.    Screenshot of what's occurring:      

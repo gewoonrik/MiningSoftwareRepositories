@@ -1,0 +1,1 @@
+Trouble with my responsive navbar  I have created navbar in Bootstrap 3.0 but when I collapse the page and press the pancake button, my menu items  don't appear.     What am I doing wrong?       

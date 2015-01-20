@@ -1,0 +1,1 @@
+Assistance needed with the new Bootstrap Carousel  I have the following code and I have linked to jQuery etc. However when I click to move the carousel it does the same thing as:       

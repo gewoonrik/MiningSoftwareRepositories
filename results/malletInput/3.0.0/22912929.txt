@@ -1,0 +1,1 @@
+Bootstrap glyphicon not showing  I am new to the ASP environment and I am building an application using Visual Studio 2013 with Bootstrap V.3.0.0.    I have this for the  . What do I change to get it to show?  

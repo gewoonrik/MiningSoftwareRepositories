@@ -1,0 +1,1 @@
+Getting an error when using dataTables, TableTools,   and AMD  I get an '$.fn.dataTable.TableTools is not a constructor' error when running my code. I've setup DataTables 1.10.0 and TableTools 2.2.1 in my main.js file:       

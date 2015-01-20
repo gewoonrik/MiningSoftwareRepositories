@@ -1,0 +1,1 @@
+Unable to use   date picker  I was trying to add  Bootstrap date picker  on an input area but I am unable to configure it:    I used their  demo page  to generate code and tried it but it seems I am missing something Please help me fixing this.         I also tried using this links for  css  and  js :  

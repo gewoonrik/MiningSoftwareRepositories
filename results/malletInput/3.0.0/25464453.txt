@@ -1,0 +1,1 @@
+Multiple HTML tables have different column widths when using identical colgroups  I have several HTML tables on a page using the following layout:       

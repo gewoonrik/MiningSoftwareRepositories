@@ -1,0 +1,1 @@
+Bootstrap dropdown wont work. Tried everything... (  2.3.2)  I tried setup a dropdown in my navbar but I can't make it work. When I click on the account button, it just adds a # to the title. I tried linking the  -dropdown into the file, I added a javascript but nothing works. I had the same problems with modals. Heres my code:       

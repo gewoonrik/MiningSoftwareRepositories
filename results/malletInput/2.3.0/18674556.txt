@@ -1,0 +1,1 @@
+data-bind returns function instead of text  I´m using twitter   v3.0 and knockout.js v2.3.0.    When i click the addAnswer button and read the value from answerOption1  it returns a method like this:        

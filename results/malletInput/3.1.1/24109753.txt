@@ -1,0 +1,1 @@
+Bootstrap doesn't work properly even with jQuery file linked  I'm working with Bootstrap to make a web. I'm just using a      What am I doing wrong?  

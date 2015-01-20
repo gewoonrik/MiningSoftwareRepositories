@@ -1,0 +1,1 @@
+Why is Bootrstrap not putting the divs next to each other?  I the a MVC4 project with the following index.cshtml:             Does someone has a clue what's going on here?  

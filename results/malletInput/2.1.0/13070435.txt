@@ -1,0 +1,1 @@
+Twitter Bootstrap typeahead and jQuery Validate  I would like to have validation on a text input field with Twitter Bootstrap typeahead. So I tried implementing it as follows. The validation on the name field works correctly. If you start typing in it and clear the field again, validation kicks in. On the location field however, which has    

@@ -1,0 +1,1 @@
+Combining twitter typeahead with JSF inputText  Snippet of HTML:         The autocompletion is  not  working. Does anyone know why, exactly? I got the typeahead example  here , if anyone is interested.  

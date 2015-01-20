@@ -1,0 +1,1 @@
+Bootstrap's selectpicker() title contains HTML  We are using Bootstrap's selectpicker() with data-icon defined. Here is our HTML code:     ".    We are using Bootstrap version 2.3.2, but I think this feature is created by  -select version 1.4.2. Has it been fixed in future versions?  

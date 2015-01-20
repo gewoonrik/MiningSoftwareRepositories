@@ -1,0 +1,1 @@
+Bootstrap 3 only works on " " Not on the other pages  I've implementet a   3.0 theme in my MVC-aplication. But the theme only works on my    

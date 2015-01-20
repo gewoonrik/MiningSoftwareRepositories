@@ -1,0 +1,1 @@
+Bootstrap v2.1.1 Modal Not getting fit correctly on mobile screen  Below is the CSS part of the code:         It works fine on my desktop, but when I try to shrink the size of the browser, the modal window doesnt seem to introduce scroll bars correctly, and I don't have any option to move vertically or horizontally.  

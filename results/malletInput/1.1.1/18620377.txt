@@ -1,0 +1,1 @@
+Twitter   sass not working on some pages  I've installed the  -sass gem and I am finding the css works on some pages and not others, which I am not sure why this is.Below I've included the views in which it's not working, the Gemfile and the stylesheets.    gemfile:-     source '   '       

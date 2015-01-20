@@ -1,0 +1,1 @@
+How to use twitter   3.1.1 modals  I've seen a lot of examples of modals. But they work perfectly only with   2 ( css files) When I use it with   3.1.1 css files . It doesn't works.       

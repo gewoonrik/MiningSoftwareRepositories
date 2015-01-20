@@ -1,0 +1,1 @@
+Make adapting div by    I'm a   and ruby on rails amateur. I want a adapting "div". My code looks like:     . How can I do that?       My environment:      Ruby: ruby 1.9.3p448 (2013-06-27 revision 41675) [x86_64-linux]   Rails: gem 'rails', '3.2.13'    Bootstrap: gem " -sass", "~> 2.3.2.2"      Thanks in advanced!  

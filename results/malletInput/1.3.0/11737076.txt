@@ -1,0 +1,1 @@
+Semantic Markup and Twitter Bootstrap  I have following HTML:         Is there any better way to achieve this, without much copy and paste? Note: I can not change the HTML file.  

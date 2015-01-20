@@ -1,0 +1,1 @@
+Where To get Tbjeditablecolumn of  ? where is the method 'registerPackage'?  I wanna do the editable grid, going thru this  tutorial . yet, as i downloaded the    

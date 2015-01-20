@@ -1,0 +1,1 @@
+Changing size of  s navbar  So I am using this navbar class :   Which I use to display a bar at the bottom of the page.    Is it possible to somehow make it smaller in height than 40px?  Saw a lot of posts about similar thing like this for exaple:  Decreasing height of   3.0 navbar     But none of them worked for my navbar after modifiyng the names.  

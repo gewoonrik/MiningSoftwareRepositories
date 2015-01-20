@@ -1,0 +1,1 @@
+Bootstrap PopConfirm popovers don't show above a   where overflow:hidden  I'm using Bootstrap 3.1.1 and the  PopConfirm plug-in  to provide confirmations before submitting a form.    When a regular Bootstrap popover is called from a button inside a  ?    See also:      

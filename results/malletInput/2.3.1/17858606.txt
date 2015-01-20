@@ -1,0 +1,1 @@
+Symfony2 MopaBootstrap - exception in BootstrapSandbox CSS  I'm trying to get the      To be honest I'm quite new to Symfony 2 so any help would be appreciated.    Thanks  

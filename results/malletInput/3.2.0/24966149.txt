@@ -1,0 +1,1 @@
+nav-pills won't work for me  I've try to use nav-pills (from   3.2.0) and it seems that this won't work for me. Here is my HTML code:         Can someone check this please and give me some hint?    BR, Bartek  

@@ -1,0 +1,1 @@
+How to use Bootstrap CDN?  I'm trying to use a CDN on Bootstrap to increase performance to my website. However when referencing the CSS directly it works whereas using the CDN doesn't.     How would I go about resolving this- my code is attached bolow. ?           

@@ -1,0 +1,1 @@
+NoMethodError in Pages#welcome after installing the   gem  After I installed the    

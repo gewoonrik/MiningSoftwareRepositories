@@ -1,0 +1,1 @@
+How to edit twitter   files in rails?  I'm trying to find the twitter-  files in my rails app (' -sass', '2.0.0'), as I need to make a change directly to the  -responsive.css file, however, I can't find it.    I have   up and running, but can't seem to find the   files.  How do I locate the  -responsive.css file?    Thank you!  

@@ -1,0 +1,1 @@
+Accordion inside other accordion does not resize height of body content with Internet Explorer  I have done with Bootstrap 2.0 an accordion which has other accordion in its body:      but it doesn't do anything...    Thanks.  

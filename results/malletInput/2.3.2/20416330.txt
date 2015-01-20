@@ -1,0 +1,1 @@
+Why Carousel is not setting as background?  I am trying to set a carousel as a background. But the image is not loading.    I don't know what I am doing wrong.    This is my html code and css:         Could someone please check my code to see what I am missing and what I need to do get my desired result.  

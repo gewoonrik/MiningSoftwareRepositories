@@ -1,0 +1,1 @@
+Bootstrap 3 Togglable Tabs not working  I'm writing a mobile app using phonegap and   using the main navbar to switch between  my view or tab however the togglable list (example  here ) doesn't seem to work.  Does anyone know how to fix this?          

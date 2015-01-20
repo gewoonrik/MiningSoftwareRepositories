@@ -1,0 +1,1 @@
+Bootstrap template appears full length  Any   Login or registration template that i copy the codes into a JSP file and try to run, the form is wide screen. I can't seem to figure out why. I use the same code in the template. This is how it looks like :         Code :       

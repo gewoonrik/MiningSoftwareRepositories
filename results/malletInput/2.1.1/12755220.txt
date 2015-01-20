@@ -1,0 +1,1 @@
+Slider cannot be dragged (Cannot call method 'addClass' of undefined ) (jQuery UI Bootstrap + Twitter Bootstrap)  When I create a simple slider      Any idea what went wrong?   

@@ -1,0 +1,1 @@
+How to set the size of a column in a Bootstrap responsive table  How do you set the size of a column in a Bootstrap responsive table? I don't want the table to loose its reponsive features. I need it to work in IE8 as well. I have included HTML5SHIV and Respond.    I'm using Bootstrap 3 (3.2.0)       

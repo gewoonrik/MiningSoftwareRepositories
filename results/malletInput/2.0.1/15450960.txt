@@ -1,0 +1,1 @@
+Adding popover data-content inside HTML page, Twitter Bootstrap  I use Twitter Bootstrap 2.0.1. I have such a button:         Another alternative is putting "data-content" into page but writing it with font 1 point. But I don't think that's a good idea.  

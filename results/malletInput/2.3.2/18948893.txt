@@ -1,0 +1,1 @@
+Bootstrap works in development but not heroku  I am working through Michael Hartl's Rails tutorial, and after including a   gem I cannot get the formatting to work when I push to Heroku.  Everything looks great on localhost:3000.     Here's my gemfile:         Not sure if the issue is in either of these places, so here is my git repository       

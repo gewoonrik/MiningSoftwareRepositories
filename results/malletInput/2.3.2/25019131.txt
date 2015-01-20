@@ -1,0 +1,1 @@
+Use BootStrap PopOver in Joomla-Backend  I would like to use the Bootstrap PopOver (   .com/2.3.2/javascript.html#popovers ) in the backend of my component.    Well, the Tooltips already work by using:         But the popovers do not work this way. Could somebody help me out?  

@@ -1,0 +1,1 @@
+Bootstrap CSS not displaying with Heroku  I followed  this  tutorial from Heroku on how to create a static site with Heroku. I followed the instructions exactly, but added      Any help would be appreciated.  

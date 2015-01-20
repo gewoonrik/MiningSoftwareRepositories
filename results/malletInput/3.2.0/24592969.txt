@@ -1,0 +1,1 @@
+Boostrap 3.1.1 Nav Bar Maximized Input No Longer Maximized in 3.2.0  Question: How can I get a maximized search input in a Bootstrap 3.2.0 nav bar?    In Bootstrap 3.1.1 I used the following code for a fixed bottom nav bar to display a maximized search input.         And it looked like this:      My nav bar looks like this, after upgrading to Bootstrap 3.2.0:    

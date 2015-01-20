@@ -1,0 +1,1 @@
+Twitter Bootstrap carousel - move indicators  I am trying to move my carousel indicators beneath the carousel. I've tried a few tips on the web to no avail.    I tried bottom with a negative value, but no good. Any suggestions?       

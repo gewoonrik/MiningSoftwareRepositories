@@ -1,0 +1,1 @@
+Error: Failed to build native gem extension  I've tried following some of the advice to uninstall libv8 and reinstall it, then run bundle, but it doesn't seem to work. I'm trying to install twitter- -rails with less.         I'm not sure what else to do at this point. Should I try uninstalling the gems and reinstalling them?  

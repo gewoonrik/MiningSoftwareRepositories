@@ -1,0 +1,1 @@
+ -for-ember always got cannot read property 'fn' of undefined  I tried to implement this:    -for-ember  into my ember project. And I tried follow this tutorial:    -for-ember/wiki/Hello-world  But it always give me Uncaught TypeError: Cannot read property 'fn' of undefined. This is the index.html file:         If you need the app.js just tell me. Thanks a lot before :)  

@@ -1,0 +1,1 @@
+Aligning   next and prev buttons  I searched over internet that we cannot put the      I am using   so I don't need to mension the CSS in here :)    Please tell me how can I solve this issue?  

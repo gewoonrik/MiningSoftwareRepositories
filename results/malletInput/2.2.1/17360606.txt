@@ -1,0 +1,1 @@
+Grails Spring Security Core Ajax Authentication  Using Grails 2.2.1, Spring Security Core plugin and TWitter Bootstrap plugin.    I'm attempting to follow   these instructions   using Grails' built in    

@@ -1,0 +1,1 @@
+Tables inside Twitter   tabs  I cant seem to get my tables displayed inside Bootstrap tab's, here is a fiddle I think I am making a small error anyone so kind as to point it out?                  I have tried to use the prescribed layout, however i have noticed If i remove the table the tabs seem to work fine, using jquery-1.8.3 and Bootstrap v2.2.2   

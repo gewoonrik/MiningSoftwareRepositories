@@ -1,0 +1,1 @@
+Rails twitter   generator trying to use couch_rest model instead of normal active record  I generated a scaffold as usual:         ~but I get the same error, seems to ignore it.  

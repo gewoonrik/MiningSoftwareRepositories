@@ -1,0 +1,1 @@
+Bootbox in Rails 2  Doesn't  .  

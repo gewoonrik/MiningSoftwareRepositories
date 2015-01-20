@@ -1,0 +1,1 @@
+Bootstrap modal passing data  I am using Bootstrap2.3.2,      ,modal will be open and close this modal "one" is coming first alert and "two" is coming second alert. the problem is both alert will coming in the function2.I need to remove the first alert in second function call.  

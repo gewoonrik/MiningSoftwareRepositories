@@ -1,0 +1,1 @@
+Bootstrap sass gem conflicts between versions 2&3  I'm using  Here's what it looks like on localhost:         Here's what it looks like on Heroku:       

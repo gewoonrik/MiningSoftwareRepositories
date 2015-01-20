@@ -1,0 +1,1 @@
+Images on Bootstrap site in unordered list won't display in Firefox but will in Safari & Chrome  I have an unordered list of thumbnails that display in Safari 5.1.7   Chrome 33.0.1750.152 but not Firefox 27. My site is   . I'm using the latest version of Bootstrap 2. Here's the HTML         Why aren't the thumbnails   images showing up in Firefox 27? Thanks!  

@@ -1,0 +1,1 @@
+How can I use Twitter Bootstrap Dropdowns to include the first item as a toggle?   Twitter Bootstrap Dropdowns Docs  show the following syntax for a dropdown:         My actual use case is a little more complex and is the reason I can't simply use an HTML select input.  

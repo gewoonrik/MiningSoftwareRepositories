@@ -1,0 +1,1 @@
+Bootstrap 2.3.2: Using CSS to wrap featurettes in another container?  So I have the following code, taken from the source code in  this example.       tag. However, this is the result:         The content is leaking out of the right side of the box. It seems like the padding on the right isn't being detected or I'm not coding it correctly; what is the correct way to do this?  

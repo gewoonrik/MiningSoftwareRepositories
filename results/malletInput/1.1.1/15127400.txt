@@ -1,0 +1,1 @@
+Yii Bootstrap not loading JS files  I'm using  Yii-Bootstrap  in my brand new Yii project.  I followed the install instructions exactly.    On the front page I am using the JS Carousel plugin.         Any suggestions?  

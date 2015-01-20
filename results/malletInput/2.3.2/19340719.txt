@@ -1,0 +1,1 @@
+Bootstrap form text and input aligning in 2 columns  I'm tryind to understand   v2.3.2. I want to make form like this using divs...         I done this code with divs         Tried this way but the code is huge, and i can't find the way to make this input move left... noway.       How to solve this issue correctly?  Thank you!  

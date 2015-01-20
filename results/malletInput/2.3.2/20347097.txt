@@ -1,0 +1,1 @@
+popover-append-to-body attribute for a popover element doesn't seem to work in angular-ui  I am using angular UI. ( docs ,  github )    I would like to make a popover that is appended on body.       In pure  , you have to use    

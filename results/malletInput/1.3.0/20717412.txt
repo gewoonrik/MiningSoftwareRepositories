@@ -1,0 +1,1 @@
+Bootstrap .container not centered in IE8  For some reason, the .container element doesn't get centered in IE8. Here is the minimal code to demonstrate the problem I am encountering :         Online demo:      

@@ -1,0 +1,1 @@
+Bootstrap V2 vs V3  I am looking to use   for a responsive design.  I would like to know if it's better to go with Bootstrap 3 RC2 or stay with v2.3.2.  Here is a sample page with Bootstrap 3 RC2 :    .  I want the page to look great on a smart phone, a tablet, laptop and desktop.   

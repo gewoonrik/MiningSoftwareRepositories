@@ -1,0 +1,1 @@
+Bootstrap not working with MVC4  I´ve downloaded tweeter   (not the bootststrap for MVC) to a brand new MVC4 project, but I can´t make it work.     No errors in browser´s F12 window.    Here is my _layout code:         When the screen pops up, I get a normal Hello, world! body (no   fonts). My system has the following files:         What may I be doing wrong?  

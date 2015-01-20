@@ -1,0 +1,1 @@
+Installing   sass with compass  I'm trying to install  -sass and getting the error below. I've tried an older version of sass but bundler keeps installing 3.3.0.       

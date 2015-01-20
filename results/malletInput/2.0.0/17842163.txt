@@ -1,0 +1,1 @@
+Bootstrap dropdowns in Durandal 2.0  I am trying to wire up some   dropdown navigation in a durandal 2.0 app:       

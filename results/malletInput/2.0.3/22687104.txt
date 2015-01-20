@@ -1,0 +1,1 @@
+Hide on  -collapse is not working  I am using  -collapse.js v2.0.3. I have 2 queries on show/hiding accordian. 1. Need to collapse the first accordian body expanded by default.    To show the first accordian, I am calling        

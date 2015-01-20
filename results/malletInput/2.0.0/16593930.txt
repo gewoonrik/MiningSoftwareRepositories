@@ -1,0 +1,1 @@
+Bootstrap modal. Catch Uncaught TypeError: Object [object Object] has no method 'modalmanager'  I get a:         Tell me, please, how to fix this problem. Thanks.  

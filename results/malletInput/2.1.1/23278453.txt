@@ -1,0 +1,1 @@
+Bootstrap 2 Glyphicons not working with Rails 4  I have  -sass 2.0 installed, and recently updated from Rails 3.2 to Rails 4.1. Now the glyphicons don't work in production.     For example, no icon shows up for this:       

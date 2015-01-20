@@ -1,0 +1,1 @@
+  & javascript: sequence of commands  The following javascript code executes in the following order:   1. shows label,   2. shows alert,   3. shows modal;    but the sequence of the commands in the code is different(see code).    In debug mode execution goes in normal order.      What is happening here?    How to get normal order in runtime?       

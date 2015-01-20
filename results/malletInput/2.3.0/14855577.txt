@@ -1,0 +1,1 @@
+Twitter Bootstrap Typeahead doesn't load ajax data  I have the following code in place to initialize typeahead using version 2.3.0:         However, Bootstrap refuses to load the response into typeahead. What am I missing? I admit that I'm having trouble finding detailed documentation of Bootstrap Typeahead via ajax other than here on SO.    Thanks in advance.   

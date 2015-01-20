@@ -1,0 +1,1 @@
+compass install   -> NoMethodError on line ["32"] ... sass-rails-3.2.6/lib/sass/rails/helpers.rb: undefined method `[]' for nil:NilClass  After running this command        

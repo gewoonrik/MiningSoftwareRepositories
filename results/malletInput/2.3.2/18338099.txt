@@ -1,0 +1,1 @@
+Bootstrap issue with float/container classes  I am experiencing an issue with   in IE. It relates to the      Thanks for your help in advance.       JS FIDDLE :      

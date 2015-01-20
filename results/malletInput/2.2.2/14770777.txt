@@ -1,0 +1,1 @@
+What is the tag @-ms-viewport in twitter- ?  In my Twitter Bootstrap (Responsive) file, version 2.2.2, there is a tag      . Is it related to Microsoft or IE? Why is it the first style declaration?  

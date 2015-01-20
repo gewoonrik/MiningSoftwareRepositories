@@ -1,0 +1,1 @@
+Bootstrap 3.0 long list text and badge  Consider a list with badge in   3.     If a list text is very long, the badge will remain in first line. Please see           

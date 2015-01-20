@@ -1,0 +1,1 @@
+Bootstrap 2.3.2 interfering to Google maps controls v.3  I am new in   twitter my version is 2.3.2 and after including google maps into my site, google maps controls went to invisible, i made a search for this issue and everything I found it didnt work for me: this code fixed the layout of controls but they still are untouchable            

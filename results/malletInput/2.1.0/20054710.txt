@@ -1,0 +1,1 @@
+cant seem to include Twitter Bootstrap in Yii  I just started using Yii today, and i'm trying to get   to work.    i tried following these instructions    /setup.html#setup  but it still doesn't work. my  /protected/config/main.php  looks like this.       

@@ -1,0 +1,1 @@
+  3 dropbox can not work when assign href to   item  In following example, dropdown menu works. It will fail when we rename the bug2 to bug(same as href in  a ), check it in  jsbin         

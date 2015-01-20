@@ -1,0 +1,1 @@
+twitter  : every button closes modal  I'm using    2.3.0  to show a modal. In this modal, i show sometimes an alert, when an error occurs. But when the user clicks on the alert close button, the modal closes too. I'm not sure why? Both, the alert and the modal, have the css class    

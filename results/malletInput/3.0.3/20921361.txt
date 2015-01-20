@@ -1,0 +1,1 @@
+Pills in version 3.0.3 won't work       It works on 3.0.0 but on 3.0.3 won't work and I have no idea what's wrong. Well, I was trying to find changes in documentation but there's nothing at all.  

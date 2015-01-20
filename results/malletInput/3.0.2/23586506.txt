@@ -1,0 +1,1 @@
+Bootstrap optgroup selection  I am using    select plugin  with   3.0.2, which fulfils most of my requirements.  The only additional functionality I want is to be able to select an   by clicking it.    For example I would like to select Picnic (picture below) just like any other option,      Bootsrap select page   

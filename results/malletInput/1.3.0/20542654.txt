@@ -1,0 +1,1 @@
+Twitter Bootstrap not working with php  Hey guys I'm using php with Mamp.    Hey Guys, apparently   isn't appearing in my basic php application. I have on index.php file.    This is my code:         And I have  .js,  .css, and index.php (containing the code above) in my htdocs folder which appears to be the default directory for using mamp.  

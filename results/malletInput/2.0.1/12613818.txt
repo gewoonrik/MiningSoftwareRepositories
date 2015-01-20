@@ -1,0 +1,1 @@
+Javascript animation behaves differently in updated Chrome  Okay, this one is  really  wierd.    Currently I'm maintaining   (OS X 10.6.8)    Found a guy with similar problem but without answer —     (In case you doubt my sanity)  

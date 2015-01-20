@@ -1,0 +1,1 @@
+Bootstrap 3 modal not loading YouTube videos  Using Bootstrap 3 and it's modal, I'm trying to load YouTube videos via the rel attribute and jQuery. I've got it to work previously on Bootstrap 2.3.2 modals, however with BS3 I'm unable too. I get the modal window to show, but nothing loads.       

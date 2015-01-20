@@ -1,0 +1,1 @@
+How to remove the hover background color from a specific anchor tag with   3  I'm trying to remove the hover that's applied to all anchor tags in   3.0.3. Here is my basic structure       

@@ -1,0 +1,1 @@
+Bootstrap remove left margin when filtering  I have got a view like this using  2.3.1:       

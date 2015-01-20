@@ -1,0 +1,1 @@
+Create a span size between span3 and span2 in    I have 4 rows with growing columns... az picture below. how can I create third row with  ? ( I use   2.3.2 and jquery.min-v1.8.2)    

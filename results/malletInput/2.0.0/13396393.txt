@@ -1,0 +1,1 @@
+Twitter   modal popup displayed for about a second, then dissappears  I am using TB 2.0 on a signup page. I have added links at the bottom of the signup page, to allow users to refer to our terms etc.    This is a snippet of the markup I am using:      function.    Any help appreciated.  

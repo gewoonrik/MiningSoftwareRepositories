@@ -1,0 +1,1 @@
+  3 modal in Durandal 2.0.1  I am using Durandal 2.0.1 and Bootstrap 3. the problem: Modal dialog doesn't render properly. It loses css-es. I think I need to rewrite dialog.js in durandal plugins folder. But if someone has already done it, or knows easier way to achieve this it would be nice.   

@@ -1,0 +1,1 @@
+Center figures in Bootstrap 3.1.1  Hi I am having trouble centering these figures.      Here is jsfiddle:           BTW - you might not be able to see the 3 figures inline because of your resolution so zoom out until you see the 3 figures under leadership. I want them inline but centered right under leadership. Thanks!  

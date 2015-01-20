@@ -1,0 +1,1 @@
+Strange Behavior: Why is container height changed by   columns?  See this plnkr:          

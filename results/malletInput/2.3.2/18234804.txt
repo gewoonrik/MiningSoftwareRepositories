@@ -1,0 +1,1 @@
+Bootstrap v2.3.3 Navbar gets overlapped by Collapse content  I am having an issue on my site where I have a   (version 2.3.2)   content; however, it doesn't seem to be working.    Below are the jsfiddle links. The offending overlapping content is at the end of the page. Thanks!   My code:       Full Screen Result:      

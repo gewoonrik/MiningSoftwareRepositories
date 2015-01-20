@@ -1,0 +1,1 @@
+Grunt watch -  .less compile error  I'm using Grunt to compile css on a Bootstrap 3.1.1 project. While watching for changes, I get the following error each time I save a .less file         I've updated to the newest version of less and I've tried with multiple versions of node.js.  

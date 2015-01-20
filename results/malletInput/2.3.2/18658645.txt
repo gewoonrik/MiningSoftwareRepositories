@@ -1,0 +1,1 @@
+Issues using FuelUX with Foundation  I have a project built on top of Zurb Foundation, now I need to use some FuelUX components such as "wizard" and "tree". For that I include Twitter Bootstrap library (2.3.2 version downloaded from Bootstrap site) and also include "all.min.js" from FuelUX, when I use the same HTML markup as come in    

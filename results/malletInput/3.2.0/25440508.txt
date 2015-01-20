@@ -1,0 +1,1 @@
+typeahead is not working in Angularjs  i write a small html code          but typeahead is not showing its autocomplete behaviour can anyone please tell why its not showing suggestions ??  

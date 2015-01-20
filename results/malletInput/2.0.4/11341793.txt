@@ -1,0 +1,1 @@
+Twitter Bootstrap Typeahead With Static Data  I need to use typeahead for very large data. Generation of data consumes 4-5 seconds. So I cannot make Ajax calls each time. I download and cache the data upon user request. My code is the following:       

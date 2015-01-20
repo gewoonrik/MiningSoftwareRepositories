@@ -1,0 +1,1 @@
+Bootstrap 3 tables don't work properly with Meteor  Bootstrap tables don't display like they are supposed to when I use them with Meteor.     

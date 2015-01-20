@@ -1,0 +1,1 @@
+Breadcrumb into a navbar in   3.0.2  I'm new on Bootstrap, and i want to create a navbar with some stuff (links, dropdown...) and a breadcrumb. But i have a problem with the display: block (i think...) when i put a breadcrumb into a navbar, this is my example code:                 How can i put inline the breadcrumb and the other stuff in the same line?  

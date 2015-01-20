@@ -1,0 +1,1 @@
+Twitter Bootstrap Align Center.  I am having a difficult time figuring out how to put the entire thing in center. I am using Twitter Bootstrap 2.     Here is my code and I made sure that I have the .container in the right place. But still, they are not aligning.     Help guys?!            

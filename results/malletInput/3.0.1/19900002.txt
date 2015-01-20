@@ -1,0 +1,1 @@
+Why aren't the Bootstrap 3.0.1.1 glyphicons displaying in IE8  I download the latest version of   then it is there.  I don't understand why?    Can anyone please share some light?  

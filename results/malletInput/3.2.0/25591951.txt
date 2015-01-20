@@ -1,0 +1,1 @@
+Grid issue with Bootstrap  I'm trying to build a simple page using Bootstrap. The problem I have now is related to the grid system.    I needed a main div contain two divs. So I created a main div with class of    

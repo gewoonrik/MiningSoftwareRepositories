@@ -1,0 +1,1 @@
+Bootstrap 3.0 navbar toogles  i am using Bootstrap 3.0. In this i have to use 2 navbar toogle i have applied one condition though its working fine but it is a long procedure as i have to make another css for both navbar my code is below.     For navbar 1 i have take this code         Any one know the short method for this. I will be very Thankful  

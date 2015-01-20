@@ -1,0 +1,1 @@
+bootswatch-rails theme doesn't work all  I try to use bootswatch-rails, but it doesn't work well, for example, button doesn't appear right, not like on the bootwatch site, that show.  I put  -sass and bootswatch in my gemfile and bundle install         I really don't know what I do wrong.  

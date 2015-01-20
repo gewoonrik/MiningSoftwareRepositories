@@ -1,0 +1,1 @@
+Dynamic content loading on clicking menu items using Jquery?  html code:         In the above code i have menu items on left side as you can see and whenever i clicked on any menu item.i want to load its particular div content on right side using   jQuery.i tried but its not working.any help would be appreciated?  

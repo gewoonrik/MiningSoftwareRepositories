@@ -1,0 +1,1 @@
+Bootstrap Datepicker - dropdown not... dropping  I'm a complete newbie and have been struggling to successfully implement the  Bootstrap Datepicker .     All I get is the input field with the "12-02-2013" value; there is no dropdown once I click on the field. I have looked at other examples here on stackoverflow and elsewhere but I haven't found an answer yet.       

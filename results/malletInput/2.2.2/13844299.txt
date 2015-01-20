@@ -1,0 +1,1 @@
+Why menu item's text is not visible?  Bootstrap menu item 's text is not visible in below fiddle. Can you please provide the reason?           Same fiddle code copy-pasted here,       

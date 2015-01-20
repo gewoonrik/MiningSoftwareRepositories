@@ -1,0 +1,1 @@
+Bootstrap 3 thumbnail slider  hi i'm trying to get this demo to load from     ... copied everything correctly (I think) but no luck. Any idea what is causing this?       

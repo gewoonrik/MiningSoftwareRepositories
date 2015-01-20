@@ -1,0 +1,1 @@
+navbar-right not working in form_tag using   3  I'm having problems getting      The only thing I can notice is form_tag adds the input for the authenticity token for my session management but I'm not sure why that would break the styling for the form itself.  I've been looking at this for too long to no avail.    Any help would be greatly appreciated!    Thanks    

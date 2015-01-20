@@ -1,0 +1,1 @@
+Make columns the same height  With two columns in the same row, I would like the shorter column to expand its height to match the taller one.           HTML       

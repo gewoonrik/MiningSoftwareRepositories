@@ -1,0 +1,1 @@
+Rails &   template Less Parse Error  Have a problem with adding a   less template to rails app. getting a Less::ParseError .transition is undefined after i drop a less folder in  app/assets/stylesheets  Any idea how resolve this issue?     Rails 4.1      Gemfile        

@@ -1,0 +1,1 @@
+Do I need to use jQuery Map?  I'm including jQuery via this Google CDN:     . which returns a 304 GET and takes over 50ms to load. I understand Javascript maps are to debug obfuscated/minified code? Not sure why I'd need this in a production application.     Thanks!  

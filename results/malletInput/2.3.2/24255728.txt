@@ -1,0 +1,1 @@
+Wait until popover is destroyed?  I'm using     and I was wondering how I can wait until a popover is destroyed before showing another element?    Here's the popover destroy call:       

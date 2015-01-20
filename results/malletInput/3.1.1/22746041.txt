@@ -1,0 +1,1 @@
+Bootstrap dropdown menu not working in Rails  I'm trying to implement a dropdown menu within my Rails application. I've copied the correct code to show a dropdown menu, but when I try to click on the menu it does not show the correct options.     Using   cdn:        

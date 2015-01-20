@@ -1,0 +1,1 @@
+Issue in popup using    Saw an example in   and try to execute it . I did the same what it is in get .com but what i get is hidden form of below code.I think modal hide works well but it didnt show up that link is clicked.Please some one help me with this.    .com/2.3.2/javascript.html#modals          See  fiddler          

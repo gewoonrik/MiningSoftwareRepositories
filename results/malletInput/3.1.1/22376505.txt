@@ -1,0 +1,1 @@
+Links inside accordion don't work  I'm using Bootstrap for make an accordion panel, and when I put a link inside the panel to go to other page it doesnt work. ¿What can I do to make this link work? THANK YOU VERY MUCH!    Here is my HTML         Thank you for helping me!!  

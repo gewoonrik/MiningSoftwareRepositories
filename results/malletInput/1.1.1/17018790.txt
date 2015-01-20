@@ -1,0 +1,1 @@
+how to hide only one search box of  .widgets.TbGridView from Yii?  I create a GridView with four columns by  .widgets.TbGridView under Yii, It's like        

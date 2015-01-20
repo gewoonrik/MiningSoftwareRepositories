@@ -1,0 +1,1 @@
+Bootstrap-sass supports colored table row markup from Bootstrap 2.1.0?  I am creating a new site and using it as an excuse to play with sass- . During the course of creating the main layout of the site, I found that I cannot do any table markup with regards to coloring the rows using  the examples  listed under "Optional Row Classes" on. Specifically    

@@ -1,0 +1,1 @@
+Visual Glitch Using dynamic-data in Chosen with   tabs  Using   Version 2.1.1 Using last chosen    I'm experimenting a visual glitch when the chosen is redered inside a tab's content, creating a blank space inside the tab content div and a scroll bar.    Jquery Code      is called and this is how it looks:         the question is: any ideas how to solve it?  

@@ -1,0 +1,1 @@
+How do I move an element to the middle of a   row?  With my current code, the "test" paragraph is spanning the entire page. I would like the width to wrap the text,      So how do I get the width to set to auto, so that this button doesn't span the entire page?  

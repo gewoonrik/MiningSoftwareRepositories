@@ -1,0 +1,1 @@
+Bootstrap 3.1.1 Thumbnail Slider  I use this code, but it makes a vertical image scroller on my web site. How might I change this to make it horizontal? I took this code from    .       

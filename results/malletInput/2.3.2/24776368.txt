@@ -1,0 +1,1 @@
+Bootstrap Button with Edit text and icon  I am using Bootstrap 2.3.2    Can I use the same to have a button with Edit text and icon inside it ?    Please guide me.  

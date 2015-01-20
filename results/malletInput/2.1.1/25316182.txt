@@ -1,0 +1,1 @@
+How can I use two   modal using mvc 5, second   document ready not firing  I'm using mvc 5. I have a view witch calls a modal   "delete confimation"      Like this:           Without passing thru the first boostrap modal to confirm delete, it works fine.  Thanks in advance for your help.    

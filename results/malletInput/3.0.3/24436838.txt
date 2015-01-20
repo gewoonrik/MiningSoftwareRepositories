@@ -1,0 +1,1 @@
+Rails form helper number_field_tag size option not working in Rails 4?  I'm using Rails 4.1.1, Ruby 2.1.2, Twitter Bootstrap (  sass gem) 3.0.3.    

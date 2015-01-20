@@ -1,0 +1,1 @@
+Boostrap nav float on top of google map  How can I have the   nav bar float on top of the google map?       

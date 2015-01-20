@@ -1,0 +1,1 @@
+Bootstrap delegated pop over content callback triggered twice  I'm using Twitter Bootstrap 2.3.2 and I'm registering a popover to open whenever a td with a selector is hovered over. However I have noticed within the console that the content callback is being trigger twice. Is there a way to prevent this from happening?       

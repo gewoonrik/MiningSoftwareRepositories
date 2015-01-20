@@ -1,0 +1,1 @@
+Want to blur the background on twitter-  modal load. The javascript code is not working    Site.Master        it does get blurred but i want it to get blurred on modal show and hide event. Any help will be greatly appreciated. I am new to programming. please help.  

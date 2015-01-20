@@ -1,0 +1,1 @@
+  carousel pause not working  I'm unable to invoke the 'pause' function on the Bootstrap (3.0.2) carousel. I've tried every way I can think of to refer to the carousel instance, but - no errors, no pause.       

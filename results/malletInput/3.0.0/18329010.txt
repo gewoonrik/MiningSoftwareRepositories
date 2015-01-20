@@ -1,0 +1,1 @@
+What happened to nav-header class?  With Bootstrap 2.3.2 you could use the   class seems to have been removed, though I can't find any mention of it being removed in the docs. I also can't find a replacement.    Is this kind of functionality still present?  If so, what's the new way?  

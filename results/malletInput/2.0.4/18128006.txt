@@ -1,0 +1,1 @@
+Bootstrap: Buttons not working [solved]  jQuery UI  Checkbox buttons  don't work (no reaction on click), but radio buttons do.         Is there something missing?  

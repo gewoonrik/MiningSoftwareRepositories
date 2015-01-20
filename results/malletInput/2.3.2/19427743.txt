@@ -1,0 +1,1 @@
+How to make label and input type text box in a single line using span classes for phone mode with twitter   2.3.2  I have done like this..         Kindly suggest any ideas to do this. Thanks in advance..   

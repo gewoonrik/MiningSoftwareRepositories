@@ -1,0 +1,1 @@
+Margin left for form using Bootstrap 2.3  I am failing to see how can I align a form with the beginning of an image using Bootstrap 2.3.2.    Here is my code:         And here is live:  Bootstrap left margin in form     I would like the form to avoid having that left margin and be aligned with the beginning of the picture.  How can I do that?  

@@ -1,0 +1,1 @@
+JQuery bounce effect broken by Bootstrap  I'm trying to bounce a popup on hover. I want the popup to be a Bootstrap (v3.0.0) panel. The problem is, the panel changes it's width after the bounce effect.    Example:        Anyone knows how to fix this?  

@@ -1,0 +1,1 @@
+Something Weird in my markup. Twitter bootsrap tab not working  I designed a markup and i'm trying to make a tab on bootsrap with jquery. I wrote markup code as below. Please examine why the tabs are not working? What wrong with my code.  in javascript console it showing   ReferenceError: $ is not defined        

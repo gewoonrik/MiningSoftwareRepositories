@@ -1,0 +1,1 @@
+Bootstrap compatibility issue on IE10  I have a   pop up login page wghich works fine on google chrome but not in IE10 .  I mean the issue is  when you click close button , it should get invsible by moving top of the page . It works in google chrome but IE10 , no luck     Here is the source html and scripts         Any help appreciate.    Thanks ..  

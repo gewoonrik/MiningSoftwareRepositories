@@ -1,0 +1,1 @@
+jQuery Twitter Bootstrap still have Error  So I am doing a tutorial right now trying to clear up this error "Uncaught Error: Bootstrap's JavaScript requires jQuery ".  I've been able to use   but it always says this even if I change to the highest jQuery version. Is it cause it's not local and I'm using a CDN perhaps? I just would like the error gone.        

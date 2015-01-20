@@ -1,0 +1,1 @@
+wp_enqueue_script won't let load script file  I have jQuery loaded to my WordPress site through google CDN using wp_enqueue_script():         By the way, I am using Thesis 1.8.5 theme.    Did I do something wrong here?  

@@ -1,0 +1,1 @@
+Twitter 2.0   navbar center  I would like to center the navbar similar to how twitter.com or facebook does this.  Right now it looks like the navbar is stuck on left alignment.    Anyone have this issue?    Thanks!  

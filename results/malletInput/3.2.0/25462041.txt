@@ -1,0 +1,1 @@
+HTML Form is not getting POST in php form  I am trying to create simple form and post. I have created simple form. but after submitting nothing is actually received. I have created single form.php file.     form.php:         Environment: linux mint 16 php5    apache2 is running and "echo 'Hello World';" provided in form.php is working well.  

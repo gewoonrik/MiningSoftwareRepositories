@@ -1,0 +1,1 @@
+Bootstrap collapse data-parent not working  I'm using   2.2.1 and for whatever reason the data-parent attribute is not doing what is intended. It does not close a previous opened target when i click another target. Here's a  fiddle  with the code below, any ideas on how to fix this ?       

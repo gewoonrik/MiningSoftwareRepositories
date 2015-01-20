@@ -1,0 +1,1 @@
+Bootstrap 3 grid layout dynamically generated columns don't clear right  I'm trying to generate a   (v3.0.3) grid layout. Data is dynamically generated with following code:         But I can't really do it when content is dynamically generated.    Are there any solutions for such problems, or maybe my approach is wrong as I'm new to  .  

@@ -1,0 +1,1 @@
+display image on hover using jquery  I am having some links, and i want to display an image when I hover on the links. I want to achieve something similar to this:    -lightbox     But instead of click, I want it to happen on hover of the hyperlink. Below is my code that i have tried. Can someone help me get it correct.    Code:       

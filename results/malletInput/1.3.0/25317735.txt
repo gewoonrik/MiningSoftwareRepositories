@@ -1,0 +1,1 @@
+git commit creates assets and temporary files for some reason  Whenever I run      Anyone have any idea what is happening here?  

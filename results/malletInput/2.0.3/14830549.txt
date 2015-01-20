@@ -1,0 +1,1 @@
+yii   (v2.0.3) extension invalid path alias  I followed the Yii-Bootstrap installation instructions on    /setup.html  but the path alias set in config/main.php doesn't work for me:         it says "Alias " .components.Bootstrap" is invalid. Make sure it points to an existing directory or file. "    I tried lots of stuff but can't get it to work. Any ideas?  

@@ -1,0 +1,1 @@
+Bootstrap Grid not working in IE8  I am currently designing a site that works fine on Chrome, FF,   IE 9,10 but when I view the site in IE8 thru browserstack it renders terribly.    Code of the section:       

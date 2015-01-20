@@ -1,0 +1,1 @@
+undefined error in less file put under assets  I bought a theme from  here , after I integrated it to my project. Server raised the error       

@@ -1,0 +1,1 @@
+Twitter Bootstrap 2: Navbar submenu links do not work  After updating to Twitter Bootstrap 2.0 (which is awesome), the navigation links  inside  submenus do not work.    jQuery is at 1.7.1. The Dropdowns actually work, and the markup is correct (according to the docs):         I don't know what else to do or check. Any hints?  

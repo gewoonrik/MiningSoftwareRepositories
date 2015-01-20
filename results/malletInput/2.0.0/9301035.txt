@@ -1,0 +1,1 @@
+how do I set up a dynamic tab with  -sass?  I am adding   to an existing project (Rails 3.1).    Here what I did:    Added boostrap-sass to my gemfile:         I thought it would work out of the box.      [5] - What am I missing to make the dynamic table work with local content?     Hope you can help,     Joel  

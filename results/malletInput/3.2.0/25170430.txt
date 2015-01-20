@@ -1,0 +1,1 @@
+Jquey ajax error when data fetching  I am using   3.2.0 and jquery. I can't get fetch data via Jquery and PhP         But still not working.  

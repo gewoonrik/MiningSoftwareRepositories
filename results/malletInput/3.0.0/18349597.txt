@@ -1,0 +1,1 @@
+How to have focused Input form with Bootstrap  I'm using Bootstrap 3.0.0 and I want to use the focused input form:  See here, under Form States.. input focus     I have used    

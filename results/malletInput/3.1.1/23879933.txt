@@ -1,0 +1,1 @@
+Font-awesome icon not appearing in Bootstrap navbar  I am trying to place a Font-awesome icon in the    

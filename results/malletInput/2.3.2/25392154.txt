@@ -1,0 +1,1 @@
+How can I switch the default opening   if the default is empty?  I have the following Bootstrap (2.3.2) code on a PHP page:         If the first two accordions are empty and do not display, how can I use jQuery so that the last accordion defaults to open/expanded with the relevant 'in' class applied?  

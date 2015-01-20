@@ -1,0 +1,1 @@
+Apply style just a few elements  I am working on a MVC project where I need a particular view to apply the   css style on two elements: a table and a multiselect, the css files in question are:         Thank you very much, if you need more information let me know.  

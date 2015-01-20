@@ -1,0 +1,1 @@
+How to upload a "wrap  " theme for Rails 3.2 to Heroku  I bought a theme from    .com .    The theme says, "Uses LESS: No" Made with Bootstrap 2.2.1, HTML5/CSS3    I can't get the theme to work/upload to Heroku. Does anyone know what I'm doing wrong? The theme runs fine on localhost. When I try to precompile the assets before upload to Heroku I get:       

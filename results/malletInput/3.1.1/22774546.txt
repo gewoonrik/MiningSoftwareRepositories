@@ -1,0 +1,1 @@
+Bootstrap 3.1.1: Append/Toggle Mobile Menu with Same Page Links  I have a navbar that has same page links. When viewed on mobile menu dropdown, and a link is clicked, the nav button does not go away. How would I go about making the nav button toggling when a link is clicked?       

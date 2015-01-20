@@ -1,0 +1,1 @@
+Bootstrap 3.0 @navbarCollapseWidth       This is   3.0, my nav is too big for 767 and i want it to collapse earlier.  

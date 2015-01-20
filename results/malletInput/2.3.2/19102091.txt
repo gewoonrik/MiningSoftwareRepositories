@@ -1,0 +1,1 @@
+can't make   modal + codeigniter work together  I have a   (2.3.2) modal defined as this:         without accepting any data, so how am I going to pass the csrf token name and hash????  

@@ -1,0 +1,1 @@
+how to set nav-button to right with   twitter?  i want to set the button of "MID" at middle Page and "Right" at Right ..         this is my coding..i try to do with "style="float:right" but itsnot working..         and how make a vertical line beside the button  

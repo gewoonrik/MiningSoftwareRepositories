@@ -1,0 +1,1 @@
+Bootstrap tooltip doesn't appear, jquery scope?  After reading the Bootstrap 3 documentation, I also saw this post:  Bootstrap 3 Tooltips or Popovers doesn&#39;t work     I am using the javascript like this:      Thank you  

@@ -1,0 +1,1 @@
+twitter   typeahead 2.0.4 ajax error  I have the following code which definitely returns a proper data result if I use the 2.0.0 version, but for some reason  's typeahead plugin is giving me an error. I pasted it below the code sample:       

@@ -1,0 +1,1 @@
+Showing popover on more than one list  I can successfully show the popover on the first list, but I'm having a problem showing it on second list.       

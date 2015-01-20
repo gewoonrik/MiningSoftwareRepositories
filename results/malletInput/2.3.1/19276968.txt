@@ -1,0 +1,1 @@
+Not getting OpenNTF project: Bootstrap for XPages to work  Running on IBM Domino R9.0 Social Edition    Installed in the client, verified that the files exists at the proper location. Installed on the server, same here.    If I do:      What am I missing?    Thanks!    /J  

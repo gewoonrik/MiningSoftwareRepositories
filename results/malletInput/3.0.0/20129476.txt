@@ -1,0 +1,1 @@
+Combine data-toogle with data-role in twitter   3  I'm using   3.0.0 and I'm tring to use tagsinput plugin (   -tagsinput/examples/ 3/ ) combine with popover for a text input, but the popover doesn't works. Any idea to how is it possible to combine the two plugin?    if i remove the tagsinput, the popover works fine.       

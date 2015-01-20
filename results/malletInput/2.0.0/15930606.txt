@@ -1,0 +1,1 @@
+Twitter Bootstrap + Jsf - Duplicate component ID j_idt12: textinput found in view  I am using JSF 2.0 + Primefaces 3 + Twitter Bootstrap.         How can I fix this exception? I really appreciate your answer.  

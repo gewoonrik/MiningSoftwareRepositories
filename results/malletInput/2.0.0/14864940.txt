@@ -1,0 +1,1 @@
+nav-pills is not working  The below code is not working in IE 8.0 It works fine in firefox and chrome browsers . In IE the list items instead of coming on a single row they are coming in multiple lines. How to address this.    I am using Bootstrap v2.0.0 and jQuery v1.7.1       

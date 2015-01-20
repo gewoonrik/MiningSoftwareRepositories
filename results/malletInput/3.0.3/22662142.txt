@@ -1,0 +1,1 @@
+How do I get layout with 2 rows and 2 column with out overlap using   css  I am trying to create a layout with navgation bar on top and two rows (second row again divides into two columns ...etc)    I have tried with following code which is dividing the page but overlapping with navigation bar.         Can some one please help me why the navigation bar is overlapped?  

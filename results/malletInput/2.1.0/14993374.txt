@@ -1,0 +1,1 @@
+ :themed error - not generating the proper views  Rails: 3.2.6 twitter- -rails (2.2.3, 2.1.0)    I did the following:         and no changes were made to the certifications views. Any ideas?  

@@ -1,0 +1,1 @@
+Bootstrap responsive table not scrolling vertically on iOS devices  This is what I have:     , but it still didn't work.    What do I need to add in order to enable scrolling on mobile devices (Apple devices, specifically)?  

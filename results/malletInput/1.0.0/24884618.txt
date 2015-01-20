@@ -1,0 +1,1 @@
+Horizontal and vertical   navbars not working correctly  I tried including two   menus, one vertical and one horizontal in my webpage, but the layout was destroyed. Is there any solution for this?  This is my horizontal menu code:         Is it possible to include both files without destroying the layout?  

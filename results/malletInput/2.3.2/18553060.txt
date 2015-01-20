@@ -1,0 +1,1 @@
+Skype button conflict with   modals popup  i have added a Skype button within a popup   2.3.2. when i click on call or chat then close the popup, Skype keeps asking to connect every time i open the modal popup.  

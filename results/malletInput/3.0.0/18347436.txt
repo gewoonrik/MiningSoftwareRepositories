@@ -1,0 +1,1 @@
+Anyone found a Fix for   3.0 modal move the NAV  I download like many the new Bootstrap 3.0 Awesome new release. I encounter a problem with the Modal that was not there in the RC2.    When you trigger a modal the NAV move left 20px or so. When it close everything go back.    Any clue of the problem or a fix.     Bootstrap Javascript section Try the modal.   

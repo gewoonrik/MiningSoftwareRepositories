@@ -1,0 +1,1 @@
+Thumbnails are not coming to center in twitter   2.3.2  I am having section in which i am having thumbnails but I am having issue in that I created thumbnails very well.But it is aligning to left I want them in center and i don't want much spacing between them.       I don't know what to do.I tried but I failed.I am new to this.    Here is my code:         Thanks.  

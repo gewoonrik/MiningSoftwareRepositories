@@ -1,0 +1,1 @@
+Bootstrap custom layout  I am using Bootstrap 2.3.2 and want to implement a layout as below;         How do I update the code below to achieve the same (basically right align the Edit button with the label Notes);       

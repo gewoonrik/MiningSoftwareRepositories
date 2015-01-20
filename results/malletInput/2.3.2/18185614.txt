@@ -1,0 +1,1 @@
+Does using Tables in Twitter Bootstrap 3 prevents UI from being responsive?  I'm switching from   2.3.2 to   3. Is using tables tr, td tags make design it difficult to make design responsive?  

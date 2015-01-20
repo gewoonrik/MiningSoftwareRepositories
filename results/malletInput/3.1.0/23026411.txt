@@ -1,0 +1,1 @@
+ownerDocument.defaultView is null ie8    I am using several components of   in my project, two of the components "accordion" and "modal" however, are not working in IE8 at all. According to  's documentation it supports IE8 and I am assuming that accordion and modal should work too.      Bootstrap version - 3.1.0    jQuery version - 1.11.0       Accordion Code -         

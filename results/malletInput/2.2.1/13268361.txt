@@ -1,0 +1,1 @@
+  "tooltip" and "popover" add extra size in table  When I activate tooltips (hover over the cell) or popovers in this code, size of table is increasing. How can I avoid this?    Here emptyRow - function to generate tr with 100         thank in advice!  

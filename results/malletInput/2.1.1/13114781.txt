@@ -1,0 +1,1 @@
+bower registering local git package  How can I register a local git package in bower?    My current component.json is as follows         What am I doing wrong?  

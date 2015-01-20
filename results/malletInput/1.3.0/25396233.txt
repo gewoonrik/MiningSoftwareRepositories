@@ -1,0 +1,1 @@
+Bootstrap is not styling anything with Ruby on Rails  I am using Bootstrap for the first time and it is not styling anything. I have already applied the answers from  Bootstrap is not styling anything  and still no luck.     I have    

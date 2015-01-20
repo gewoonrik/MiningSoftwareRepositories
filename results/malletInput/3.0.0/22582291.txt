@@ -1,0 +1,1 @@
+How to make bootsrap 3.0 navbar brand a dropdown?  Ok, im making a website and i really want to have a navbar with a drop down.    So it will be like | BRAND - Link Link Link.    When you click BRAND it will drop a dropdown that will have links, similar to just a link dropdown.           

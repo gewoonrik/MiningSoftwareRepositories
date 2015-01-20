@@ -1,0 +1,1 @@
+Bootstrap typeahead AJAX call fail  I am trying to use the type-ahead feature from   to populate a search bar dropdown using an AJAX call.    I saw some posts about it, but the best answer didn't solve my issue.    I get a      I don't understand how this function can crash my jQuery lib.  

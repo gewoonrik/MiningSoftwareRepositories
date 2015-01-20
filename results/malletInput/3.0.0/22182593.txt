@@ -1,0 +1,1 @@
+Overriding   with a custom.css.scss?  I am creating a Ruby on Rails application and I am doing a bit of styling for my project.    I am using the Bootstrap gem v3.0.0, but I dont know where to add my custom CSS file in my Rails project and where to call it.    I have a landing page:       

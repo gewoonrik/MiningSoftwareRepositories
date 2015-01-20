@@ -1,0 +1,1 @@
+twitter   2.2.2 typeahead simple builtin function data source not working  I'm trying to work with   2.2.2 typeahead which as per the documentation can be configured to some function for its Source option.        

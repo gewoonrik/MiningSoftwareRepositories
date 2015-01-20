@@ -1,0 +1,1 @@
+How to keep divs side by side in   2.2.2  I this  fiddle  at first the form fields are coming and after that image is coming.But I want as per the image attached. I have made a separate div class of span6 inside                

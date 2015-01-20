@@ -1,0 +1,1 @@
+Bootstrap 3.2.0 and accounts management in Meteor.js 0.9.1: not working at all  I'm using   it works, but the in this case   version is 1.0.0 (too old fro my needs). Any ideas?  

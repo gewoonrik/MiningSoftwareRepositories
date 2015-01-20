@@ -1,0 +1,1 @@
+Bootstrap carousel 3.0 in gallery posts WordPress working code refine it?  I have a working code to show in index.php and content-gallery.php of wordpress with   carousel 3.0 But I know is not clean code. anybody could help me to clean it? This is the code we need generate to   carousel works:          anybody could help me to clean/improve it? Thanks in advance  

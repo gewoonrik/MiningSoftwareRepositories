@@ -1,0 +1,1 @@
+Bootstrap 3.0 columns  With the code below is as close as I can get, I just can't get the right hand side bar to be alignment with the top edge of the left hand top box. Being new to Bootstrap I just can't get it to work.       

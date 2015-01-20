@@ -1,0 +1,1 @@
+How to avoid overflow of Bootstrap thumbnail image?  I am using    2.3.2     I added a thumbnail with lightbox addon. However, thumbnails overflow from the frame and it looks weird.   When I delete the class 'thumbnail' looks okay. But at this time, the lightbox doesn't work.    My code is        

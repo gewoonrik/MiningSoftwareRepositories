@@ -1,0 +1,1 @@
+Tab JavaScript for BootStrap 2.0 not working  I am trying to get the new Bootstrap 2.0 CSS files and JavaScript files up and working and I cannot seem to get the tab script to work.  It just displays as though nothing is happening and I can't seem to figure out what I have done wrong. My HTML is as follows       

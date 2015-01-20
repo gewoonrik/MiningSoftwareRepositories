@@ -1,0 +1,1 @@
+Double dropout menu in Bootstrap  Below code opens two dropout memu at a time, Can you please provide the solution and reason behind it?    JSFiddle Link:        Same code copy-pasted here:       

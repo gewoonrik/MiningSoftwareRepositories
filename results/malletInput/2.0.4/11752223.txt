@@ -1,0 +1,1 @@
+twitter   date picker not working  I have been extensively searching for the answer but i cant seem to find one that works. I am using Django 1.4, with twitter boostrap 2.0.4 and i am trying to use date picker (eyecon) with no success. When i click on the input box no date box shows up.       

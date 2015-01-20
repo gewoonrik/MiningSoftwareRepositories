@@ -1,0 +1,1 @@
+How to use Polymer   tag in dart?  I try to use the content-tag in dart polymer. The Polymer-Element is displayed properly, but the content is not displayed at all.     This is my code:            I am using:    Dart Editor version 1.2.0.release (STABLE)  Dart SDK version 1.2.0  OS X 10.8.5     Thank you for any hints :)  

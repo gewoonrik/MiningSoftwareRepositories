@@ -1,0 +1,1 @@
+Responsive boostrap rails nav-bar drop down stays down when i collapse page  When i try to run the sample Starter template from the Twitter Bootstrap 2.3.2 get started page and i try to collapse the page to smaller size the navbar items don't collapse into the corner like they should in the demo but stay as pulled down pulldown.  i am using Rails with        

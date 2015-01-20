@@ -1,0 +1,1 @@
+Why does Ember.js lose the valueBinding when I use   datepicker?  I am noticing that in my application when I use the below code I am given a formatted date in my date picker widget but when I click search the console shows empty strings.  However if I remove the    

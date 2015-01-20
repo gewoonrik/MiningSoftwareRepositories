@@ -1,0 +1,1 @@
+jQuery isotope is not working with   3  I am working on a project where I used   v3.1.1. Now I want use isotope filtering system for portfolio section. But unfortunately is not working with   default jquery latest version.     here the   version:        

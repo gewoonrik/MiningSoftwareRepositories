@@ -1,0 +1,1 @@
+Bootstrap input-append overflows in small containers  It appears that it's awkward if you need a fluid-width text field with an      Does anyone have a solution to this?    Here's a fiddle:      

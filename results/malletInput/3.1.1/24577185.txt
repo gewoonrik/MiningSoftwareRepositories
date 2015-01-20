@@ -1,0 +1,1 @@
+Bootstrap full width row within a container  I want to know if I can create a full width row within a container div using Bootstrap 3.1.1.    As you can see from this example:     The content is being centered. How can I make it full width?    Please take note that it HAS to be within the container wrapper.  

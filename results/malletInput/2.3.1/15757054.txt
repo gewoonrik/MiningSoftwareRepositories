@@ -1,0 +1,1 @@
+vertically aligning images to the bottom inside a   "row"?  In the following example :        I have 3 images inside a  ?    Thanks  

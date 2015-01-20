@@ -1,0 +1,1 @@
+How can I set  's @baseFontSize if using a CDN?  I was using v2.0.4 of  Bootstrap via a public CDN .    Recently (August 20, 2012) version 2.1.0 was released and one of the things among the changes was a  new base font-size and line-height , which are in fact just a little bit bigger.    I understand this is set in    

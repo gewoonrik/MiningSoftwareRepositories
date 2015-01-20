@@ -1,0 +1,1 @@
+Bootstrap 3 navbar  I have the following code for my navbar - it displays properly on desktop view, but as the screen gets smaller the menu items do not display correctly. What I see is the links stay up on the line where the brand is supposed to be. I haven't altered the   css file in anyway.    For a demo go  here        

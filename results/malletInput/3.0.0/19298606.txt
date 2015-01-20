@@ -1,0 +1,1 @@
+Label not positioned correctly in box-toolbar (Bootstrap 3.0 Theme)  I am working with a Bootstrap Theme in order to show a Box with a Header and a Title. In the box-header, I add a label to the box-toolbar, but it is not displayed correctly. Somehow it is moving above the box-header.    Relevant HTML Code:       

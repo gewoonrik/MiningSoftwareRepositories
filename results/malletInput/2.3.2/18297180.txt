@@ -1,0 +1,1 @@
+Create Panels like newer twitter bootstarp version  I am using Twitter Bootstarp v2.3.2.    I like the new  panels  which are provided in Twitter Bootstarp 3RC2 and would like to use them.    How can I get the CSS for Panels only from new version?    Any help would be appreciated.  

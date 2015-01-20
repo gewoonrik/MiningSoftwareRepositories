@@ -1,0 +1,1 @@
+jQuery attr() not working on Bootstrap button after reset  I have a very simple code that doesn't work and I don't understand what I'm missing.    External resources      but I can't disable the button anymore.    Why is this not working and how can I fix it?     jsFiddle   

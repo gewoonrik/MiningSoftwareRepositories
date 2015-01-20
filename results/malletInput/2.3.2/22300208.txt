@@ -1,0 +1,1 @@
+Website text appearing only on hover  I'm facing a strange issue on the text rendering of a website I have developed. When loading the page, some of the text doesn't appear until I hover over it; some not even then.     I am using font-face. If I reload the page, it works fine. If I empty the cache, the problem comes back. Frontend design is developed using   2.3.2.  

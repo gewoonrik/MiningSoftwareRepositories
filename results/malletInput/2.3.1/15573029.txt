@@ -1,0 +1,1 @@
+What version of twitter   is supported by the twitter-  gem     -rails     The current version of twitter-  gem is 2.2.6, how would I find the twitter   version which is supported by this gem. The twitter   version which is available for download from    /  is v2.3.1.    Is there a correlation between these two?  

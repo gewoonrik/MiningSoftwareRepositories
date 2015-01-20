@@ -1,0 +1,1 @@
+  dropdown menu and error with $_GET  I'm creating a single page site with twitter   scrolling, taken from this example:    . It works but I have a strange problem. From a dropdown menu should pass variables via GET but does not work,   in the address bar does not appear any var (for example index.php?id = 1).... It only works when I disable the code at bottom of the page       

@@ -1,0 +1,1 @@
+Tooltip not showing on hover  The   tooltip is only showing on focus, not hover. The tooltip does correctly show on the right side. Using Bootstrap 2.3.1. Using    

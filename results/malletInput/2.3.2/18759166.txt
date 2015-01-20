@@ -1,0 +1,1 @@
+Twitter Bootstrap 2.3.2 Model not staying on screen  These are all my linked Javascript files:         The problem that I am having is that when I click on the button to launch the Model it only pops up on my screen for 1 second then it disappears. For some reason it's not staying on the screen.  

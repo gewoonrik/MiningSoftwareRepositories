@@ -1,0 +1,1 @@
+CodeIgniter with Twitter Bootstrap is not working in IE-8  Am using Twitter  2.3.2 with CodeIgniter. Its working fine in all browsers except IE-8 and below. I have tried repond.js and css3-mediaqueries.js. But no result. Can any one guide me how to call that js files.So that it may be helpful for us.    Thank you.  

@@ -1,0 +1,1 @@
+Rails + Bootstrap + IE8 : .col doesn't work  I have a little probelm with Bootstrap.    When i'm on Chrome, my website is absolutely gorgeous, with perfect colonne (.col-md-6) In IE9 : the website is good. But in IE8: it's crap, all my .col-md- is 100% width !    I put this on header :         But doesn't fix the problem !    Thanks for your help !  

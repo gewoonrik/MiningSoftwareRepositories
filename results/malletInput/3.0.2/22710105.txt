@@ -1,0 +1,1 @@
+Bootstrap Scrolling in Mobile  I try to implement following template        .    Its is the working in pc but when i open in mobile it will stoped working in nokia lumia 520. In this link scrolling is not working.    In mobile navigation bar is goes to hidden but when i click for show it, it's show but not scroll out.    this is the code       

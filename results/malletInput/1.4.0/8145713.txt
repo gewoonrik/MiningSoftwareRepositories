@@ -1,0 +1,1 @@
+  tabs doesn't work with different class name  Bootstrap works fine in my js if I have        

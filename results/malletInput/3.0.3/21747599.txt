@@ -1,0 +1,1 @@
+Bootstrap col-sm-offset not getting applied in small devices  I am using Bootstrap v 3.0.3. Bootstrap's offsets aren't working for me.    Here is a relevant example :     .    Anybody knows why this is happening?  

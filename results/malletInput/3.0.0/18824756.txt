@@ -1,0 +1,1 @@
+Javascript not working with Bootstrap 3  Below i have listed my links for the head and my links at the bottom of the page. The modal is not loading and i am not sure why, i believe this is an issue with my linking of the files.     Head links:       

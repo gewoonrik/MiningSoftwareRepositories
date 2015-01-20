@@ -1,0 +1,1 @@
+Twitter Bootstrap carousel is not pausing on hover/mouse-over  Code:             If I hover over the slideshow, it won't stop the slideshow. Why?  

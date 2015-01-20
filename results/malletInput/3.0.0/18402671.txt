@@ -1,0 +1,1 @@
+Bootstrap twitter 3.0 and knockoutjs validation  With Twitter Bootstrap the validation classes, e.g.  ?  

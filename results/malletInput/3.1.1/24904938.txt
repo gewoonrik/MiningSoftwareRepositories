@@ -1,0 +1,1 @@
+Bootstrap 'fade in' on modal makes modal content iframe and jsp invisible on firefox  I am having some issues with  .     This surely sounds like a bug in  , my questions are:    Can I easily bypass this animation without changing the   specific code?    Has anybody else experienced similar issues?  

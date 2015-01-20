@@ -1,0 +1,1 @@
+Twitter Bootstrap and Jsf - How to integrate the Fuel UX wizard.js  I want to include the fuelUx  wizard  into my jsf/java project. However, I am struggeling to convert the component into jsf:         However, I think thats not possible in jsf. Therefore, how to implement the component in jsf? I appreciate your answer!!!  

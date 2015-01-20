@@ -1,0 +1,1 @@
+how to make   icon text and button vertical center in div  I am trying to make the icon, text and button sit in the center of the div vertically.      So, tried to use   class well, but still not working.  Could someone help me on that?     Here is the image to reference:        Css part:         

@@ -1,0 +1,1 @@
+Ruby Bootstrap DateTimePicker  I have to include Bootstrap DateTimePicker to my university project but I've tried and nothing happened. I used this  documentation  and did:      added    

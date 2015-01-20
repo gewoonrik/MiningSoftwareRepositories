@@ -1,0 +1,1 @@
+How to expand Bootstrap2 mobile navbar by default  For example:    .com/2.3.2/examples/hero.html     I would like to have all the dropdown sub menu auto expanded when I view using a mobile device, so I don't need to click on them to expand, is it possible?  

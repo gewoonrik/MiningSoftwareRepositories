@@ -1,0 +1,1 @@
+Convert Bootstrap 2.3.2 & jQuery-Spinner to work with Bootstrap 3.*  I am trying to convert   xixilive's  jQuery Spinner Plugin  that uses Bootstrap      Expected output         Demo Fiddle:      

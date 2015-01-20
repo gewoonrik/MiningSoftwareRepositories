@@ -1,0 +1,1 @@
+Why is the   navbar not working?  im starting study   and im doing a basic example with a nav bar. I went to   documentation for navbar here -> "   .com/2.3.2/components.html#navbar " and i copy the code to my project, but the menu appears all unformatted. What could be wrong?         what im getting is:    

@@ -1,0 +1,1 @@
+input type=number not possible to insert negative numbers on mobile phone  I'm testing my app on my mobile phone (samsung galaxy note II with chrome) and I have a problem with the numeric input fields.     In my app these fields can accept negative numbers, and on the browser it's all fine as I have the   sign.  any clue?   

@@ -1,0 +1,1 @@
+Centering div box not working  I am trying to center a div element in to a container so that the margin is the same throughout my page but my way of centering does not seem to be working. I am using   and my own custom css page.     Here is the basic html template:          But those did not work for me either.   

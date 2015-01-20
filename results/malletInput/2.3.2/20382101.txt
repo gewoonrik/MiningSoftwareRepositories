@@ -1,0 +1,1 @@
+Bootstrap Buttons "Loading..." When Clicked  I cannot figure out how to get this feature on my buttons.        .com/2.3.2/javascript.html     If you click "buttons" it should take you to the clickable loading button.         I think my issue is that I'm not sure where to put the JS to get this working. Any help would be great.    Thanks!  

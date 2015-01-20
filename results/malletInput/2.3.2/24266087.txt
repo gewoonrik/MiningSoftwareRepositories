@@ -1,0 +1,1 @@
+Placeholder not displaying text for twitter   file upload  I am working on a form using twitter   Version 2.3.2, the form does not have any labels and each input field is using placeholder. All input fields on the form are displaying placeholder text except file upload.    I have tried adding      This is what my form looks like      I will really appreciate any help here.  

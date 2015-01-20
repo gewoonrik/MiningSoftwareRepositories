@@ -1,0 +1,1 @@
+Bootstrap 3.0 Glyphicons not working in IE and FF  I've got this site where I'm using Bootstrap 3.0.2 The issue is that in Chrome, the glyphicons are showing perfectly but Both in IE and FF they don't, in FF the icons are shown as a small box with numbers in, and in the FF console I get this         How do I get the icons to show in IE and FF?  

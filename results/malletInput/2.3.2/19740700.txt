@@ -1,0 +1,1 @@
+GLYPHICONS -   icon font hex value  i want using   website,so how to embed that into project and use it? note: i want using  GLYPHICONS icon-font not png icons          i'm using   2.3.2     

@@ -1,0 +1,1 @@
+"Enter a valid time" on Django TimeField using django- 3-datetime  I'm having issues with time validation when submitting a form using django   datetime picker. When this form is submitted, I get a "Enter a valid time." error     models.py:        

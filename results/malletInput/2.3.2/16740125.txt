@@ -1,0 +1,1 @@
+Twitter   2.3.2 popover stay open while hovering  I have a bottom-oriented popover that I'd like to be a bit more forgiving than the default popover, which vanishes as soon as the mouse leaves the trigger.          The workaround is to hard-wire the mouseover and mouseleave events with jquery, or to replace the overlapping-borders arrow with an image. Better fixes?  

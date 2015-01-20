@@ -1,0 +1,1 @@
+jquery validate with   file upload  Hi Im very new programing and I hope can help me with this problem:    I try to show a popup when submit my form and the input type file is empty, but this doesn't work, i'm using   2.3.1 and jQuery Validation Plugin 1.11.1, works fine with others controls.    my javascript:            

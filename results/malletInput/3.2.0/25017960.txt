@@ -1,0 +1,1 @@
+Why doesn't Bootstrap datepicker work here?  I am trying to use datepicker from    -datepicker/?utm_source=twitterfeed utm_medium=twitter .    Question updated to include complete code:         Is there something wrong in what I am doing here? It seems ok based on the examples at    -datepicker/?utm_source=twitterfeed utm_medium=twitter .  

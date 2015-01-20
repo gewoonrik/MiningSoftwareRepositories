@@ -1,0 +1,1 @@
+How do I dynamically make a field required with ParsleyJS?  I'm using Parsley 2.0.4-rc4 for form validation. I have a select field that is by default hidden (set to    

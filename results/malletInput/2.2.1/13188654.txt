@@ -1,0 +1,1 @@
+ASP.NET button changes page - Ends up out of div  The problem happens on  this  page. When you press Button 1 a table is displayed on the page. Pressing Button 2 does nothing at all (empty function), but for some reason the button ends up out of the div it is in.    I use twitter   CSSs (latest version - 2.2.1)    Here's the markup:       

@@ -1,0 +1,1 @@
+Bootstrap (2.3.1) + SimpleForm (2.1) inline label for radio button group  I'm trying to create inline radio buttons which also has its label inline (at the very left).    As I state in the title, using Bootstrap and SimpleForm.    My code looks like this:         This is what I get:       

@@ -1,0 +1,1 @@
+Rails 3.2  -sass not installing  I'm trying to install the  -sass gem on my Rails 3.2 app, but encounter this error when I call      Anyone have any idea what the problem could be, or encountered the same problem?    Here's the git for  -sass:    -sass.git   

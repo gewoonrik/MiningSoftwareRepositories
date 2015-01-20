@@ -1,0 +1,1 @@
+Modal Popup error in jquery min.js  I'm try to do modal popup   in mvc 4. when first time did that google chrome console showing "Uncaught SyntaxError: Unexpected token "    with following details. Please help me to do this .         thanks,,,  

@@ -1,0 +1,1 @@
+  modal not showing  We are currently stuck using   2.3.2, and are looking to replace our current dialogs with  's modals.    I've located all the views where modals need to be instantiated and attempted 2 ways to call them without success.    With JS:    Html:         Thanks, everyone.  

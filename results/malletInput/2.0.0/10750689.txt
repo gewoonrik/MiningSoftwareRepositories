@@ -1,0 +1,1 @@
+can't install gem 'twitter- -rails'  When trying to bundle install get error. I get the same error with empty project.       

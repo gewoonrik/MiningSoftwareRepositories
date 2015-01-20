@@ -1,0 +1,1 @@
+Bootstrap thumbnails don't work well  I'm new to Bootstrap and I'm trying to create a simple site using it. I want to use thumbnails to create an image gallery with 3 columns. Here is my code:         When rendered on a browser such as Chrome, it's not aligned. Image:    problem1.jpg     Did I miss something?.    P/s: I use Bootstrap v2.3.2  

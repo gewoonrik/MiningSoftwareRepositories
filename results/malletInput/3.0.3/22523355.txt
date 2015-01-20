@@ -1,0 +1,1 @@
+How to make Twitter   table columns closer to each other?  I have a simple table from Twitter Bootstrap v3.0.3. It is just 2 columns. Below is the html code for the table.         I would like the columns of the table to be closer to each other. How can this be done? Thank you.  

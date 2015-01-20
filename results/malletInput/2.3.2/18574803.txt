@@ -1,0 +1,1 @@
+Twitter Bootstrap Legacy: Uniform height on spans  See the following image:         What I need is to enlarge the B column to match the first column height, or if I had several columns they always maintains the same height, adjusting to the largest column height.    I have been playing for a while without any success with    

@@ -1,0 +1,1 @@
+Why doesn't my collapsible menu expand when I click on it?  Don't know what I am missing from my code. When I shrink the size the 3 bars show up but when I click on them they don't toggle the menu.         here is the code on jsfiddle:      

@@ -1,0 +1,1 @@
+Bootstrap Modal not working  I have a simple button that uses  's modal, which is like a popup div.  I can't get it to work.  When i click the button, nothing happens.  Im using firefox. I'm probably forgetting something simple, but i can't find the problem.        

@@ -1,0 +1,1 @@
+Bootstrap navbar won't close  My page, containing a   navbaar, shows a togglebutton for the menulinks when viewed in smal window. Hiiting this buttons shows the dropdown containing the menuitems but after pressing the togglebutton again it won't close...    Anyone know why?       

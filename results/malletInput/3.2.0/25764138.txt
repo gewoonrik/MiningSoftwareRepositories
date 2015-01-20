@@ -1,0 +1,1 @@
+How do I prevent   modal from scrolling back to top when opening a modal?  How do i prevent it from scrolling up with the current version (v. 3.2.0)? I can't seem to find a possible fix and all the Google results that I've seen so far are outdated.  

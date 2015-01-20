@@ -1,0 +1,1 @@
+Icons not showing when optimizations are enabled with Bootstrap 3.0.1 and ASP .NET MVC 4  I'm using Bootstrap 3.0.1 with ASP .NET MVC 4 and I want to display some icons, like with:         When I open the /CSS/ ?v=8eAoW9V58s_Xu995JPPD57vwG8ohFZpa5QzR95hDcow1 file I don't find the .icon-remove class whereas I see it in  .css.    Any help would be appreciated.  

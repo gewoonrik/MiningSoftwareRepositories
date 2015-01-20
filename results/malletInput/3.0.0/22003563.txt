@@ -1,0 +1,1 @@
+Why isn't   device-width using the entire width of my browser?  I'm trying to follow a Bootstrap tutorial but the first div I'm creating, that should be spanning the entire width of my browser/device, seems to be limited at ~1000 pixels. Any ideas as to why this is?    Here's my code:         Thanks in advance for any help.  

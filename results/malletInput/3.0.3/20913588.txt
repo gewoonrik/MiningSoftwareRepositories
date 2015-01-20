@@ -1,0 +1,1 @@
+Bootstrap radio input does not stay selected  This markup I have, using   3.0.3, works like it should in showing or hiding each tab-pane, depending on which radio input is selected. Trouble is, the radio inputs do not stay selected. What do I need to do to have the radio inputs stay selected?       

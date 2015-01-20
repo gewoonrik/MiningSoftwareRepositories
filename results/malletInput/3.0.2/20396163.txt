@@ -1,0 +1,1 @@
+Bootstrap v3.0.2 Tabs not functioning correctly  Using the latest version of   and following the documentation I cannot get the tabbed navigation to function correctly.    This is the code that I've plugged into this bootply:             I followed this question and regressed my jQuery to 1.7 at my localhost but still to no avail.  Twitter Bootstrap tabs not working for me   

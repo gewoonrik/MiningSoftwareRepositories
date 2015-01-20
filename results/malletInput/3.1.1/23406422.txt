@@ -1,0 +1,1 @@
+Bootstrap displays tablet version on IE8       This is the HTML code. Have included the respond.js too. But still the site is displayed as the mobile version in ie8.     Am using Bootstrap version 3.1.1. The strange thing is i have built a site with similar version which doesnt have this problem. Please suggest a solution   

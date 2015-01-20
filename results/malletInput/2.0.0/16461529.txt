@@ -1,0 +1,1 @@
+Twitter   table messed up?  I was fiddling around with Bootstrap but came to a grinding halt with this error of it all being misplaced.    The source code generated was         but as you can probably see, the table is gravely misplaced. Any advice on fixing it is HIGHLY appreciated.       

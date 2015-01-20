@@ -1,0 +1,1 @@
+Bootstrap container boxes   Twitter Bootstrap Scaffolding  section on Fluid layout shows example code which displays as two blue boxes. Using that example, the code below, displays "Sidebar content Body content" but no boxes. What else is needed?       

@@ -1,0 +1,1 @@
+  2.0 Activating tab and data by url within tab-content  I have seen numerous questions generally touching this subject, I know exactly what needs to be done but I'm not "fluent" with jQuery therefore, I cannot successfully do this.      once I've fired the link.    Thank you for your time.    JSFIDDLE EXAMPLE         

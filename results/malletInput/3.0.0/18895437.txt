@@ -1,0 +1,1 @@
+Bootstrap 3.0 and nicescroll plugin showed under the navbar  I'm using   Bootstrap 3.0 with nicescroll plugin  , in my project i use  navbar-fixed-top  and i leave  50px padding top  so everything works good, the problem is nicescroll plugin showed under the navbar like the image below:         instead being like this :       

@@ -1,0 +1,1 @@
+How to keep form at centre using   2.2.2  In this  bootply  the welcome as well as the form is coming on the left hand side.But I want to bring it at the centre.Can any body please tell me how to do?       

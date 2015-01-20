@@ -1,0 +1,1 @@
+formtastic-  intallation  I just installed the formatastic-  gem for Ruby on Rails and Twitter Bootstrap. Per the readme file, I added       What am I doing wrong here? Thank you in advance for the help!  

@@ -1,0 +1,1 @@
+  drop down top level navigation make a clickable link  I'm using the-boostrap wordpress theme to create a menu with drop-downs, however the top-level link only reveals the drop-down on clicking   does not go to a page itself when clicked. So in   when I click 'Flooring' I want to go to the flooring page as well as revealing the dropdown. Code below, thanks in advance       

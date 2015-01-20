@@ -1,0 +1,1 @@
+Why does hover not work on my custom Bootstrap button in IE9?  Here is the CSS for a button I customized.    I'm using the button styles from Twitter Bootstrap v2.0.4. Hover works perfectly in Firefox and Chrome, but not IE9. The standard buttons that come in Boostrap all hover correctly in IE9, but not my custom one.    How can I make hover work in IE9 for this button?        

@@ -1,0 +1,1 @@
+Twitter   typeahead 2.1.1 can't set function in source  I'm trying to set the source into the   typeahead, but I'm getting the following error:         Here's a jsFiddle illustrating the case:        What am I doing improperly?    Notice the version of the plugin is 2.1.1  

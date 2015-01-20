@@ -1,0 +1,1 @@
+Twitter Bootstrap not found via Rails  I´m learning Ruby on Rails and tried to implement Twitter Bootstrap. I know how to use and edit it, as I used it before - just without rails.    Setup was done, as suggested here:     - As I read this book.    The following error occurs:    

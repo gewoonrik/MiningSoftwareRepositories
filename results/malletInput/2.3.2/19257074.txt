@@ -1,0 +1,1 @@
+Bootstrap with collapsable nav - what I get doesn't match the docs  Using the following code:       and  force the links below to form a vertical list?  

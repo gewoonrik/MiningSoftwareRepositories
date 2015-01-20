@@ -1,0 +1,1 @@
+drop down menu   doesn't work in tablet android  So i work with  Boostrap  V3.1.1 my application look fin in my  PC  but when i tried it in  tablet (  android  ) my drop down menu doesn't work " when i click it i got nothing ", this is my code for the drop down menu :       

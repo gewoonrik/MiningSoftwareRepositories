@@ -1,0 +1,1 @@
+Bootstrap navigation bar search field with combobox ( or any drop down)  I am using  Bootstrap v2.0.2 . Below is the navigation bar I am building for my website       The search consists of three fields         Thank You all  

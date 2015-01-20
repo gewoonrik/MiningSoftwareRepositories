@@ -1,0 +1,1 @@
+Twitter   3 tooltip does not work in Yii framework  I'm trying to use twitter   tooltip in Yii app, but it seems does not work. Firebug console return error    

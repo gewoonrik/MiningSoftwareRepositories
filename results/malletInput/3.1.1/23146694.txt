@@ -1,0 +1,1 @@
+Show hidden navbar items on responsive view - Bootstrap 3  I have this   3.1.1 code       working fine like I need for nav bar on desktop     but on responsive view ( Tablet or Phone ) it hides all items on the nav, or appears in disorder as you can see here:         How can I get this other result based on the code?  (Showing search box and app link)      

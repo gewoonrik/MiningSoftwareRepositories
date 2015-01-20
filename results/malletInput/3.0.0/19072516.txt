@@ -1,0 +1,1 @@
+Bootstrap 3.0 - push element to bottom  I chose Twitter Bootstrap for quick app display layer bulding, recently I have faced problem.     I'm trying to push element to bottom of page container, but keeping it centered. Adding class   didn't help.  

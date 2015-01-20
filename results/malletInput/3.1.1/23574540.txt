@@ -1,0 +1,1 @@
+Why is the Bootstrap CSS not loading?       As of right now the list is displaying at the default way HTML displays lists. the second link to a main.css is just a blank file I am not doing anything in it. These files are structured as such:    Documents/Web    There are both in my web folder.  

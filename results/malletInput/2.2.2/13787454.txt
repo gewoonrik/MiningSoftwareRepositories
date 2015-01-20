@@ -1,0 +1,1 @@
+  tooltip shifted right  All was nice, but in one moment tooltips become crazy.        tooltip should be near of text, but it's on right border. if i set small width, it's will be on this width from text.    what i'm doing wrong?       

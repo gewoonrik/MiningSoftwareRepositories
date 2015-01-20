@@ -1,0 +1,1 @@
+Why does Twitter Bootstrap disable gradients for IE right after defining them?  Twitter Bootstrap version 2.2.0 specifies the following CSS rules for      Why does it disable the filter, right after it has been applied? If I look at the Bootstrap homepage in IE7 and IE9 I can see that the buttons don't have gradients on them. Why did they bother defining a gradient at all?  

@@ -1,0 +1,1 @@
+Submenu not showing when scrollbar is added to dropdown menu in   2.3.2           I am making a dropdown menu with  .When the height of dropdown menu got higher than the screen size i tried to add scroll bar to it.Scroll bar is added correctly but problem is that now sub menu are not shown.they are hidden.  

@@ -1,0 +1,1 @@
+My Divs are overlapping in Bootstrap 3  I am new to BootStrap 3 and am having problems with my divs overlapping. I'm probably missing something simple, but can't seem to find the problem. Here is the html.    You can also find a working copy of what I am trying to do in Bootstrap at wibberding.info/SolarTime.    Thanks for any help you can give.       

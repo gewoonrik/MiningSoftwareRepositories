@@ -1,0 +1,1 @@
+jquery   pagination  do you have any suggestions on where can I get a plugin for   pagination? I've search on the internet and found   this   problem is I don't know how to use it 'coz they don't have any documentation. Suggestion guys for jquery   pagination?    I'm using PHP  

@@ -1,0 +1,1 @@
+Make the navbar invisible in first page with   3  In my project, I create a scrollspy like             Now, I want to make the effect like in homepage of mediafire.com.    The effect is the navbar is invisible in first page and only become visible when we scroll to second page.    How can I do it?    Thanks,  

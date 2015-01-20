@@ -1,0 +1,1 @@
+Modal Box not opening  I am trying to open a modal box on clicking a button using twitter   3.0 . However on clicking the button there is no modal box shows up.       

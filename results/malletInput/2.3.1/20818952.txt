@@ -1,0 +1,1 @@
+fixed span sidebar in   2.3.1  i work with   2.3.1! now i have this code:      sidebar when browser scrolled. how to work Bootsrtap for fixed span?!    NOTE: i need to normal and responsive view layout also.  

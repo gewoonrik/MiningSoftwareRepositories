@@ -1,0 +1,1 @@
+Bootstrap dropdown is not working with RequireJs  Here's my code         So when I resize my screen I get the responsive dropdown but its not working properly. I hacked in by inserting the scripts directly to the page.That's how I know why the requirejs is not working.    I tried a bunch of questions on stackoverflow but nothing seems to be working. I'm using Bootstrap 3.0.0  

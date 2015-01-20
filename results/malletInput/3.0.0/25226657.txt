@@ -1,0 +1,1 @@
+Popup need to open when new tab open using angular js       In my code new window open the current page but it reload the page so popup was gone .I am trying to make when my current page open in new tab then also need to open popup. I am using angular js 1.2.17 and  .js v3.0.0 .  

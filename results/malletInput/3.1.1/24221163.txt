@@ -1,0 +1,1 @@
+Is there a simple way to disable a specific modal for small screens?  I am using the modals in Twitter Bootstrap 3.1.1 and my modals are quite useless and borderline intrusive for screens narrower than 700 pixels.    Is there a simple feature or method to disable modals for small screens?    EDIT: Added relevant html:       

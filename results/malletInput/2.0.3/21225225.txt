@@ -1,0 +1,1 @@
+Adding a lightbox using Bootstrap  I'm trying to add a lightbox using  , but when I click on the link to the lightbox nothing happends.     My HTML code is as follows:                

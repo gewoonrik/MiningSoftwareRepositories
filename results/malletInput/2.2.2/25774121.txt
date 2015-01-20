@@ -1,0 +1,1 @@
+Menu items and social icons do not align correctly  I am trying to load a line of social icons and then underneath that a line of menu items.     The alignment is not 100% right-aligned and in IE.  Instead, the menu items get shoved all the way over to the left.     The ideal look on all browsers should be :          Code in a bootply     I'm using   2.2.2       HTML :       

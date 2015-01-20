@@ -1,0 +1,1 @@
+How to remove text shadow of navbar's links  I'm using twitter   v2.3.2 in my Rails 4 app, i want to change my navbar style by overriding styles inside the    

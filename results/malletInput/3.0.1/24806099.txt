@@ -1,0 +1,1 @@
+Hosted Bootstrap 3.2 make Non Responsive  I've tried afew things  so far to try and get this to work,    So far i've tried:         I'm not sure if this is possible at all but I would like to use CDNJS to host the   files but make it non responsive as my design doesn't allow for this.    Any help or direction would be great.    Thanks  

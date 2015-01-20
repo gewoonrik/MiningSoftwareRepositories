@@ -1,0 +1,1 @@
+Form not being validated by parsleyjs  The problem: parsleyjs is not validating my form. I've come to this conclusion because   returns a value.    Any ideas?  

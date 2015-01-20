@@ -1,0 +1,1 @@
+How to use responsive features of   2.0  I'm using   2.0 from twitter and unsure how to make it responsive.      How can I remove elements when in mobile/small screen mode?   How can I replace elements (i.e replace a big picture with a smaller one)?   Change a  ? etc.    

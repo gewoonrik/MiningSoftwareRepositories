@@ -1,0 +1,1 @@
+dynamic id not worked with chrome and safari  I checked  this question  and  this question  about my error but they cant help me...    When i use;         all of them worked with Internet Explorer, Firefox and Opera browsers. My modal boxes appears. But they cant worked with Chrome and Safari browsers.    PS: i used twitter   modal plugin (v2.0.3)  

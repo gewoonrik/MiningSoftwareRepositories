@@ -1,0 +1,1 @@
+Zend Framework 1.12 + Twitter Bootstrap 3.0.2  Is there any workaround to decorate ZF 1.12 forms with   >= 3.0.0 ? I tried  Bootstrap-Zend-Framework  and  EasyBib . None of them work properly. I think they both generate   2 forms.    If there is no ready to use decorator or modules, I would like to modify on of old codes or write my own decorator.    

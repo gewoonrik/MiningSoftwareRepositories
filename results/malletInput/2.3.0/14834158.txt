@@ -1,0 +1,1 @@
+Bootstrap multiple columns folding  Hi guys I need to have two columns layout but i need content to stack up. Here is a fiddle    .         I need  "Test 3" table to be right beneath "Test 1" table. Thnx  

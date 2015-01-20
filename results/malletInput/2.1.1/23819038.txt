@@ -1,0 +1,1 @@
+Cannot get   datepicker to work  I've been trying to get the  Datepicker for Bootstrap  to work but have been unsuccessful. The datapicker box never shows:         Here is the fiddle:        Any idea what is wrong?  

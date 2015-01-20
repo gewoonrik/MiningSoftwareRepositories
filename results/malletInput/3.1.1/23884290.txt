@@ -1,0 +1,1 @@
+Bootstrap custom grid-columns  How i can make custom grid-columns just for one element of      I'm using Bootstrap 3.1.1  

@@ -1,0 +1,1 @@
+Bootstrap 3 modal form not appearing  I have this simple modal form done with Bootstap 3, and I have no clue why it's not appearing when I click on the button.       

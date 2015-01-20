@@ -1,0 +1,1 @@
+  tab, how to set selected tab on page load?  Hello I'm having some trouble trying to save the current selected tab when the page is reloaded,    I have a   3.0 nav nav-tabs setup as my markup, like this:       

@@ -1,0 +1,1 @@
+How to switch an active link?  I'm using symfony2 (MVC framework) and Twitter Bootstrap v3.0.0. I'm trying to switch the      How can I do it?  

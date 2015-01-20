@@ -1,0 +1,1 @@
+  3 navbar collapse -> another menus don't collapse  Here is my html:         i have attached jquery 2.0 and  .js, when i click menu2 (or other) then click menu1 which has .active, menu2 doesn't collapse but menu1 shows well. Another menus work fine except menu1 which has .active. Please anybody help me.    here is my fiddle:  collapse with active menu     Thanks  

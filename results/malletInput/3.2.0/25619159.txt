@@ -1,0 +1,1 @@
+Bootstrap-3.2.0 popover doesn't work  in the BundleConfig.cs, I added  .js and  .css files and in layout page I rendered that files using the below codes :        

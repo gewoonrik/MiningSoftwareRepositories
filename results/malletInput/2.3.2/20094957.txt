@@ -1,0 +1,1 @@
+Bootstrap 2 components is broken in safari browser with Win 7 os  Hi i am using  2, in Single button group the group is broken only in safari browser there is a gap between the button group see the attached image, please check and replay.    Thanks.           .com/2.3.2/components.html      

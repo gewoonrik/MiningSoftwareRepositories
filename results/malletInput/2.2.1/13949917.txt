@@ -1,0 +1,1 @@
+Rails assets: reset   css attributes so they don't conflict with google code's prettifier  I'm trying to use Bootstrap and google code prettyfier together but the end result is rather dissapointing. In the   ?   if not, how do I reset Bootstrap's applied style?    

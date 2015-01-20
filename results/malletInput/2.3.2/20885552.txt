@@ -1,0 +1,1 @@
+ -progressbar jQuery plugin  I am facing a little trouble with a jQuery plugin for   progress bars -     -progressbar/ -2.3.2.html     I want to provide preview of the progress bar to the user based on the selected option. The problem I am facing is that the    

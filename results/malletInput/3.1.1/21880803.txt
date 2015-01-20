@@ -1,0 +1,1 @@
+EditorFor renders different for byte and short  Why does EditorFor renders different classes and input types for byte and short, as shown here:         I have no EditorTemplates present, so why!!    Using Bootstrap, Visual Studio 2013 Update 1, MVC 5.1.1, .Net 4.5, Razor 3.1.1  

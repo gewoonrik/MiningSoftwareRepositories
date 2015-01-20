@@ -1,0 +1,1 @@
+  typeahead results display on multilines  I'm using   2.3.1, and I used typeahead but the results when displayed they are displayed on multi lines as the attached picture, I used the following text to generate typeahead suggestions:         Please advice,    

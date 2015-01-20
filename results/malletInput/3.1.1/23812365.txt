@@ -1,0 +1,1 @@
+Force enabled look to readonly input with   CSS  I have an app using   .css  for the design. I have a readonly input which looks like disabled because of   (cursor not allowed, background color grey etc...). I would like the input to look enabled with readonly activated.    How can I do that?     edit  (adding more code):    Header:       

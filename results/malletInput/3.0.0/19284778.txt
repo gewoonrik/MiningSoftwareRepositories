@@ -1,0 +1,1 @@
+Twitter Bootstrap 3.0 Logo in the center of navbar  I want to center my logo in the navbar, can I use or should I use grid layouts inside navbar or I should do something else:       

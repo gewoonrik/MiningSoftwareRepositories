@@ -1,0 +1,1 @@
+jQuery getScript function adds search parameter and a 404 error is thrown  I use       I created a   JSFIDDLE   that demonstrates this.    How can I fix it?  

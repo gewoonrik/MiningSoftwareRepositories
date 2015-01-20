@@ -1,0 +1,1 @@
+"Data-loading" button not working in twitter  ,Help me out  Below mentioned is the code ,where i wrote the code for the button  it has to     trigger "loading" as soon as i click it.In this case,I couldnot understand where it's     going wrong           Any help would be highly appreciated.  

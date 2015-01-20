@@ -1,0 +1,1 @@
+Add / Remove Tabs Dynamically in Bootstrap - Make created tab active  Here is the snippet to dynamically add / remove   tabs. Everything works fine, but I would like newly created tab to be active and in focus rather than the tab used to dynamically add a tab.    This is fiddle:        And this is code in question:     HTML:       

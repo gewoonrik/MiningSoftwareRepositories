@@ -1,0 +1,1 @@
+Is there a way to limit the amount of selected options in a select that uses jquery chosen?  I'm using an template that the company bought, the template uses the following as part of the app.       Bootstrap v2.3.1   Chosen v0.9.8 (   )   Select2.js v3.3.2      Also as part the init code of the template this is included:         Any help to solve this is welcome.   

@@ -1,0 +1,1 @@
+How to use   alert event close  In the page:    .com/2.3.2/javascript.html#alerts     We are able to see code like:      ?  

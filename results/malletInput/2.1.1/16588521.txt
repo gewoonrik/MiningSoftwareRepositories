@@ -1,0 +1,1 @@
+How to make a full screen modal using  -modal?  I am using  -sass v. 2.1 and  -modal-rails v. 2.1.1 in Rails but fail to create a full screen modal. For now I have a combi of a really tall modal and a wide modal based on the  demo , but I would like to get 100% width and 100% height. Is that possible?       

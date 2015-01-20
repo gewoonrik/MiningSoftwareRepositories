@@ -1,0 +1,1 @@
+Bootstrap: Accordion Collapse stopped working with Bootstrap 2.0.3  My accordion using      Thanks for any help you can offer on this!  

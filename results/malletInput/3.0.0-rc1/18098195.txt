@@ -1,0 +1,1 @@
+  3: How to scale a centered image  I have the following HTML/CSS page that successfully centers an image file in the exact middle  of a Bootstrap 3 page:      tag, but it pushes the image to the right for some reason, and then kind of scales in a hurky-jerky kind of way.    Is there a way to set up the code above so that the image will rescale as the browsre window resizes?  

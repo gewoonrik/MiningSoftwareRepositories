@@ -1,0 +1,1 @@
+Bootstrap-datepicker getDate wrong result  I'm using   -datepicker .  I do a    

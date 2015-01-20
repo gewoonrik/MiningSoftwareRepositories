@@ -1,0 +1,1 @@
+Rails template is missing  Hi does anyone know what is causing this error.     I'm new to rails but am guessing it has something to do with  . However, I have no idea how to fix it and I've been trying the last 2 hours.        Error         

@@ -1,0 +1,1 @@
+Change background color of active tabs  Using Bootstrap v2.3.2, I am trying to change the default background color for the active tabs.  I've tried to set as below, but it doesn't work:         Any advice as to why this isn't working, or how to fix it?  

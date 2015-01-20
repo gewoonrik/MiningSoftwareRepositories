@@ -1,0 +1,1 @@
+Twitter Bootstrap 3 navigation bar is not responsive  I'm using Twitter Bootstrap 3. I'm writing a simple navbar but is not responsive: if I zoom in the browser the Toggle navigation doesn't work. You can copy and paste this html file and zooming with Chrome the toogle doesn't work.         Can you help me?  

@@ -1,0 +1,1 @@
+Javascript-UI-Element (Bootstrap-switch) not working when loaded dynamicaly  I try to write a wizard. Therefor I got a display-element:         The correct content is displayed, but dynamic functions do not seem to work. To be precise the  sw1 works, sw2 doesnt. (sw2 is also rendered correctly, but the seems to be a layer "above" that prevents the mouse-events to be sent to sw2  

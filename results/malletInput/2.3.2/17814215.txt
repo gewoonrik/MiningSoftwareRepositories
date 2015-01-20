@@ -1,0 +1,1 @@
+Rails loading assets from older gem  I'm using rvm with bundler and I recently installed a new version of the  -sass gem. However, even after doing      Can someone explain what was going on?  

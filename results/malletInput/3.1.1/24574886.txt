@@ -1,0 +1,1 @@
+How do I make an custom popover on table button  I'm trying to add a custom input popover to an button in a table cell in order to add extra details. I'm using angular-ui-  and I can't quite get it to work as I want.    Here's an simplified sample code         Here's an  demo  of what I'm tryning to do. The "fake" popover at the bottom is how I want the popovers to look.  

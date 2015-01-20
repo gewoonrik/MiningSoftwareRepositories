@@ -1,0 +1,1 @@
+Zoom-in an object by using JQuery  I have the modal window. There is the list of checkboxes from the right side and the picture with some text on the other side. I need the following - when I click the check box, the picture and the text to be ZOOM-IN a little.      How to do this with jquery?       

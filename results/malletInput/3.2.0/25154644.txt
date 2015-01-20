@@ -1,0 +1,1 @@
+Dropdown menu in   3.2  atully i just strated in   . as i have taken the same template found here       .com/examples/theme/       version 3.2.0     in this template whne i push the nav bar buttons to right the drop down menu stop working . once done . again if i  change code it stop working nd never works. wht i m doing is simply changing         

@@ -1,0 +1,1 @@
+smooth navbar for   v3.2.0  before I used  .min.css but now I should use   v3.2.0.css because of Bootstrap Thumbnail Slider, but when i use Bootstrap 3.2.0 , my top menu not work, how i can have both of them? Bootstrap 3.2.0 Thumbnail Slider and top menu; in bow is my top menu that work with  .min.css but not work with   v3.2.0.css       

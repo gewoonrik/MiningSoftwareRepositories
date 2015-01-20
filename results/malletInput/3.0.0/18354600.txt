@@ -1,0 +1,1 @@
+Bootstrap fixed container with parent width  I'm developing a web with   3.0 and it has the following structure:         The problem is that the fixed topbar doesn't get parent width, you can see my css in this codepen:        The topbar is on .main-content header {} As you can see I added width:inherit, but it doesn't seem to work  

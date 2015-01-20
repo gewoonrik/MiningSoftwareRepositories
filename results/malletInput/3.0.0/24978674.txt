@@ -1,0 +1,1 @@
+How to update twitter template in docpad  I currently have the twitter-  version 3.0.0 installed:         Currently, on github, the latest   version is 3.1.1 according to    .docpad     How can I update my project to use   3.1.1 ?  

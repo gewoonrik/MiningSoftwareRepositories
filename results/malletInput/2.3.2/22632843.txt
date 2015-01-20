@@ -1,0 +1,1 @@
+Django   modal window  I have this kind of problem: I don't load my data in a django   (22.3.2) modal window .I want to load a text given its index. I don't know where si my error. Thi si my code    MAIN.HTML         Can you help me please? I can not understand where I'm wrong. thanks              

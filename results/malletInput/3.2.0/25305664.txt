@@ -1,0 +1,1 @@
+Boostrap remove modal content issue  I know that this question is a duplicate, but i can't find a matching answer for my problem. I am using boostrap 3.2.0 and I have this modal:         But it is not working! What i am doing wrong?   Every time the select button is pressed the modal is loaded. And i need to clear the content every time the modal is "hidden".  

@@ -1,0 +1,1 @@
+Bootstrap 3 Navbar does not collapse  I know there is something simple I am missing, but when I shrink my screen, the navbar collapse toggle does not work.  I've already search SO and I cannot find a solution that fixes my issues.    Can someone help me figure out what I am missing in the code below?       

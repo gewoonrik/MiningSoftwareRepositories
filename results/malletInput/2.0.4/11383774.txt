@@ -1,0 +1,1 @@
+Offset Margin-Left Percentages for Fluid Row in Bootstrap  Up to and including Twitter Bootstrap v2.0.4, there have been no CSS margin-left percentages when using the offset class in a row-fluid scenario. I have looked on SO and other sites for an answer but cannot find one.    Does anyone have this information that I can add to my  -responsive.css file?    Thanks,    Chris  

@@ -1,0 +1,1 @@
+ -sass border-radius error in heroku production  When deploying my app to heroku, i'm getting the following error:          I'm really at a loss here.    *It seems  -colorpicker-rails 0.2 was causing this, so i reverted back to 0.1 .  

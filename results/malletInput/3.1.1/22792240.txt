@@ -1,0 +1,1 @@
+jQuery add new table row upon entering data into quantity field  I'd like to add new rows to the end of my table upon user entering data into the quantity field.    My table is below. I am using Bootstrap 3.1.1, as well as jQuery 1.11    Essentially, it is a Quick Order form. I want to be able to provide the user with enough fields to fill out all the time.        

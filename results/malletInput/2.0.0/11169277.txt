@@ -1,0 +1,1 @@
+Is there anything built into to Twitter Bootstrap 2.0 to align table contents?  It is easy to align table by setting "align" attribute, but table aligning by css is a bit hacky. Is there built-in support for tables aligning in Twitter Bootstrap 2.0?  

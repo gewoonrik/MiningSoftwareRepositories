@@ -1,0 +1,1 @@
+Testing Twitter   on Django badges  I currently have twitter   incorporated on my Django test site but it is not working properly.     I tested out an example of code on the   website:    .com/2.3.2/components.html#labels-badges     All I had on the site is the success badge (green oval with a 2 in the middle)         Thank you for all the help! much appreciated!  

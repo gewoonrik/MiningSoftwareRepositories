@@ -1,0 +1,1 @@
+Heroku not loading proper Bootstrap CSS files from Rails asset pipeline  I tried deploying my rails app with newly added   to it and a lot of the view in my app is missing.    Here are some errors I got when deploying to Heroku       

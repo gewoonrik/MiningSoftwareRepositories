@@ -1,0 +1,1 @@
+  2.0  -dropdown.js errors out when i add it to my js plugin lists  this is my current javascript includes         not too sure what I'm doing wrong here or what i did not catch/get. oh btw the old  -dropdown worked for me.  

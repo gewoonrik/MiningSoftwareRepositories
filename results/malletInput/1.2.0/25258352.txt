@@ -1,0 +1,1 @@
+Not able to bind angular select when   theme is applied  I have a piece of code which works fine in angular 1.2 without including  , but when I use the selectpicker class of   the data binding is not happening. Below is the piece of demo code.       

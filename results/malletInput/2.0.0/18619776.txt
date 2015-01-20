@@ -1,0 +1,1 @@
+How to create a button click event within a modal?  I am learning Jquery + Twitter Bootstrap, and am trying to create a button click even handler within a modal I have. However, my code is not implementing this.    Below is my index.html:         Any help is appreciated!  

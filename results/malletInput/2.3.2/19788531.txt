@@ -1,0 +1,1 @@
+Bootstrap 2.3.2 mobile 100% width background  I have a problem with mobile resolutions, because background is not 100% width when I use smaller reolutions. It looks like this:         When I use higher resolutions, it works fine. I have tested my website by using     and it shows that 100% width background works only from 768 x 1024 (iPad - Portrait).    How can I fix it?  

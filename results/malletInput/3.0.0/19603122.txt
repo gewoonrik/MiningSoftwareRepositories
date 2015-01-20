@@ -1,0 +1,1 @@
+Twitter Bootstrap v3.0.0 not showing modal component  I am working on website that uses Bootstrap's modal feature.  When i use,  , and not the   .js , then it works fine: As here:      Is it a issue in v3.0 or some mistake i can't see.  Thanks    Note: jQuery used is v1.10  

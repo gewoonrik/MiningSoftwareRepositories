@@ -1,0 +1,1 @@
+Add text input dynamically to list with radio buttons  I have a list (style taken from  ) of elements, to which I want to add some more elements using text input. Here is my code-         I can get the code to work with a simpler list, but not with this one. Can anyone spot why not?  

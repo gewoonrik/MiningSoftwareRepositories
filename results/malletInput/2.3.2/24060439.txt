@@ -1,0 +1,1 @@
+ : make expand/Collapsible table instead of div  My twitter   version 2.3.2    I tried making expand/collapsible table instead of div, It it really possible?     working with div          refer:  Here     Note: I cannot wrap my table inside the div because i need to achieve this inside another table  

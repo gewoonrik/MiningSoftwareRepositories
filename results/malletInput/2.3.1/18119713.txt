@@ -1,0 +1,1 @@
+Understanding assetic Bundle symfony 2  I am installing twitter   bundle in my symfony 2.3.1 project. I am following the documentation there but there's a point that I don't understand much and it looks is the reason for all my trouble:         What is this "node" and "node_paths" suppose to be?  

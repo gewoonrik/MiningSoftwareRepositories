@@ -1,0 +1,1 @@
+Border On Screen Size 767px and Below Bootstrap  I'm having some issue with a   site setup, for some reason when the window is smaller than 767px there is a 20px padding on the right and I have no idea how to get rid of it.    heres the site        html:         Hope someone can help.    Denver  

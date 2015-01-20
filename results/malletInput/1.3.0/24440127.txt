@@ -1,0 +1,1 @@
+Bootstrap not routing CSS or JavaScript? No route matches [GET] "/css/ .css"    Rails 4.1.1   Ruby 2.0   Webrick Server      I am trying to get    

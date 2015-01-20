@@ -1,0 +1,1 @@
+how to use handlebars/mustache and   typeahead for rendering item  I would like to customize the item which is rendered by  -typeahead using handlebars template. Looking at the code it seems that the default item is    

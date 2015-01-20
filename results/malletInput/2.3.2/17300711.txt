@@ -1,0 +1,1 @@
+Uncaught TypeError: undefined is not a function  .min.js:6  i made a function appendScript which will be called on a button click event my function code is       

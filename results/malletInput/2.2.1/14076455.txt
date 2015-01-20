@@ -1,0 +1,1 @@
+Bootstrap collapse stopped working - "blinking" Rails  I had   collapse (     What am I overlooking? Thanks for your attention and for taking a look.   

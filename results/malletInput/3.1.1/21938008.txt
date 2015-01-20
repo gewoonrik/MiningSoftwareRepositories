@@ -1,0 +1,1 @@
+Bootstrap's tooltip moves table cells to right a bit on hover  I am using Bootstrap 3.1.1 for my project. Each cell in my table contains data like    

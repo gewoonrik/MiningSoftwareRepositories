@@ -1,0 +1,1 @@
+How to load the latest version of    I saw someone referencing:             But what I'd like to do is load "the latest" of version 1, similar to how Google cdn includes all the versions of a library along with "the latest" one.    Q: Is there something that I can load like:           /1/ .min.css       To get the latest version 1 of twitter  ?  

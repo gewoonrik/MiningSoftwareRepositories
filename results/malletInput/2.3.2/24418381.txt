@@ -1,0 +1,1 @@
+How do I add a counter to dynamically generate the id number?  I've added this Jquery to a .js file and it works. All that is left, and I have trouble figuring out, is to add a counter. The counter could then be added to the      I'm creating the  collapse  from Bootstrap via Jquery. Unfortunately this is the only way to generate it.  

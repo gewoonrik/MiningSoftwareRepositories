@@ -1,0 +1,1 @@
+Keeping   navigation items active after reload in CakePHP  I have   2.3.2 navigation list in my CakePHP app and jQuery script to add active class. But then I click on link, it flashes as active for moment and retain it;s current state. I want to know If I can keep my navigation items active after reload.       

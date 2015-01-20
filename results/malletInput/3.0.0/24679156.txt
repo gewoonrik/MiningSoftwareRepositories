@@ -1,0 +1,1 @@
+Google map not complete load in   3.0 modal  I add jquery location picker into content box of   modal 3. Like This :    HTML:      not load completed and I see Part of it.     NOTE  : if resize window of browser map loaded.    See Pic :         DEMO :        How to fix this ?!  

@@ -1,0 +1,1 @@
+get the checked item of Bootstrap dropdown checkboxlist checked value in asp.net using c#  I am working on a website in which i need to represent many items in dropdownlist with checkboxs. for that i m using   dropdown checkbox list as :         Now i have to get the all checked item on button click. for that i m trying but i didn't get the items..  

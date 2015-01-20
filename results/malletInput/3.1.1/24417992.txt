@@ -1,0 +1,1 @@
+Place checkbox inline with label  Bootstrap documentation and SO answers don't seem to be answering this one for me. I want to put a checkbox next to its label. It's simple. I must be doing something wrong, but cannot figure it out.    I'm using:         How can I get these elements to behave?    Thank you in advance.  

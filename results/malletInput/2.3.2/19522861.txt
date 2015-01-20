@@ -1,0 +1,1 @@
+  2.3.2 tooltip not working in rails + haml  I'm trying to add tooltips to my app, so far I got to this:      and this breaks the tooltip.  Any clue about how to solve this?   

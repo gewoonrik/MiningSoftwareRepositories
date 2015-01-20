@@ -1,0 +1,1 @@
+Bootstrap drop down not working  All of a sudden after making some change my   dropdowns are not working. I dont think i even touched the code for it. I am using cdn for my includes but thats not new.    Try clicking the Jobber Nav Button:        CSS:       

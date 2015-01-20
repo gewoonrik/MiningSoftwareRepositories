@@ -1,0 +1,1 @@
+Carousel is not working in twitter   2.3.2  I am creating website using twitter   2.3.2 in which I am having carousel.But Carousel is not sliding,I added java script for carousel but I dont know what is missing.    Please tell me, what I am doing wrong?     Here is the code what I am doing:         Thanks.  

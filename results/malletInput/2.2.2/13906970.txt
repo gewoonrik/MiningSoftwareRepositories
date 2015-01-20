@@ -1,0 +1,1 @@
+Twitter Bootstrap: Grid system floating  I have the following simple html page. It should display Col1 to Col4 horizontally next to each other, but Col4 is in a below the others. Why? And how can I solve it?    I'm using   2.2.2       

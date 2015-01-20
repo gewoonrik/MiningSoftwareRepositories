@@ -1,0 +1,1 @@
+"#grid > .core is undefined" when lessc compile    i got the following error when i ran      lessc 1.3.0 (LESS Compiler) [Ruby] 2.2.2    the   source file are cloned from github.  

@@ -1,0 +1,1 @@
+Two drop downs get open on single click in    I am using   for responsive site where i have two menus one on the top and one in the middle the problem is that when i minimized my page layout to mobile screen the two drop down get appears  and when i click on one of them it opens the both drop down menus. here is my code       

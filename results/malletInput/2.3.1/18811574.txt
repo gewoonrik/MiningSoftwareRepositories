@@ -1,0 +1,1 @@
+ASP.NET MVC 5 and Bootstrap 3  Been looking around the nets for a bit more information but couldn't find much.    So I have created a new MVC 5 Project in   as well?    I hope my question is clear.  

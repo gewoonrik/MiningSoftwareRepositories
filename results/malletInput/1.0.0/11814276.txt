@@ -1,0 +1,1 @@
+issue with twitter   wowslider jquery  I designed a page using twitter   and add a image slider(wowslider) in it, now the problem is wowslider not transforming properly. Hear is the link...           When i remove this from header part       

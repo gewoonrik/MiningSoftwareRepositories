@@ -1,0 +1,1 @@
+How to know the   currently installed   version?  I am using Bootstrap version 3.2.0 LESS files. I want to know where I can get the current version of   installed.    I know I can know it from the Nuget Package Manager but still I want to locate the file where the Version no of currently installed Bootstrap is defined.    N.B: I am using LESS source    /archive/v3.2.0.zip  .  

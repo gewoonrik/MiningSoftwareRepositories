@@ -1,0 +1,1 @@
+Bootstrap sticky footer with vertically centred content  Trying to modify  's Sticky footer example    .com/2.3.2/examples/sticky-footer-navbar.html  to have vertically centred content, but still fail to do that.    The full code is below. I'm trying to vertically align the part between "Begin page content" and "End page content" comments.    Would appreciate any help.       

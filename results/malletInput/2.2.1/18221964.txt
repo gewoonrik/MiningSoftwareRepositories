@@ -1,0 +1,1 @@
+Fluid row div stacking order - columnize when possible  I have the following stacking order for my footer     , but with no luck (Boostrap  3.0.0-wip  and  2.2.1 no-icon )  

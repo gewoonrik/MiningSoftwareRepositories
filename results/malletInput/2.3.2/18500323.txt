@@ -1,0 +1,1 @@
+Adding custom class based on Bootstrap CSS 2.3.2  I've included Bootstrap CSS, and now want to add a custom   name, and I expected it to work.      What am I missing here?    

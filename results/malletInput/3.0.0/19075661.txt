@@ -1,0 +1,1 @@
+Center brand in navbar  I'm using Twitter's Bootstrap 3.0 and can't for the life of me figure out how to center the brand image in the navbar.                  I want the brand image to stay centered no matter what - even if there are several links on both sides of it.   

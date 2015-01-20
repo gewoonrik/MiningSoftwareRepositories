@@ -1,0 +1,1 @@
+Responsive layout is not working?   I am using   simple html code.but in mobile view its not coming properly.I am not finding any problem in my code.          For responsive view I'm using   -responsive.css  and the path is correct. Any solution will be great.  

@@ -1,0 +1,1 @@
+  navigation bar autocomplete issue  I am working with  . I added a Google autocomplete to an input box. But autocomplete is appearing under the navigation bar.          css file is here    .com/2.3.2/assets/css/ .css        

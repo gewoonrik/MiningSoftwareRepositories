@@ -1,0 +1,1 @@
+Twitter Bootstrap . I cant open my modal manually  Here is my js code :         Here is my modal div :       same to the guide      

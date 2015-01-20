@@ -1,0 +1,1 @@
+jQuery is not defined twitter    I am getting this error that says jQuery is not defined. I want to use twitter   and jQuery-UI. In my         

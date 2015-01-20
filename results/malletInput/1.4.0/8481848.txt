@@ -1,0 +1,1 @@
+Twitter Bootstrap CSS framework: Clicking tabs does not activate  I'm having an issue with  Twitter Bootstrap CSS framework : the tabs show up, the mouse over highlight tabs when I pass, when I click I get the page ..., but the clicked tub doesn't stay active. The only active tab is the first.    Here is the generated code :       

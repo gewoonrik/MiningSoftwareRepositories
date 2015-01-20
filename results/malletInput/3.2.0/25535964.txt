@@ -1,0 +1,1 @@
+Bootstrap progress bar missing stripes in MVC       Using the sample straight from the docs I don't see any stripes on the progress bar. How do I get them to display?    Using MVC 5 and Bootstrap v3.2.0       

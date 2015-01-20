@@ -1,0 +1,1 @@
+Anyone know what I am doing wrong here while trying to build a responsive navigation bar using   3.0.1?  I am trying to build a responsive navigation bar, however my menu icons do not show up when I collapse my screen. My code is here         The screen collapses and the 3 icon bar show up, however the menu does not go in them. Any ideas?  

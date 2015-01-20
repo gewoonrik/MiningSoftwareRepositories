@@ -1,0 +1,1 @@
+how to make   3.1.0 form collapsible like   navbar  I need help. I need to make the   v3.1.0 form collapsible and 100% similar with the   navbar. It will collapse when   navbar collapse. Please help me. Here is my html code-----       

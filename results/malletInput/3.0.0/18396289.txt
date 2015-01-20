@@ -1,0 +1,1 @@
+Creating a responsive menu in Bootstrap  I am trying to create a dropdown menu using Bootstrap, but I am not able to make it responsive. This is my menu :          But when I resize the window, it is not resizing   width stays constant.          Here is my code :        

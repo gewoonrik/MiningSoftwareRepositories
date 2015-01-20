@@ -1,0 +1,1 @@
+Bootstrap menu is not collapsed by default in mobile view  I tried to implement a vertical navigation with twitter   3.0 that collapses automatically.    The basics work (window size small = menu at the top like it should be), but the problem is that it is not collapsed as it is if I use the default navbar features in  .       

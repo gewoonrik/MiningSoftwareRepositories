@@ -1,0 +1,1 @@
+Bootstrap: Centering 2 forms next to eachother in Carousel Template?  I am trying to center two forms sitting next to each other in twitter's  . This is the template I am using given by  Bootstrap     and this is the code I have so far. What it does is placing them on the top of each other.         Can someone please help me out with this ? : ) Thanks !  

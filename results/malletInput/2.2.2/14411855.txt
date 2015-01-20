@@ -1,0 +1,1 @@
+Absolute positioning inside a Floated Relative position  The is a boostrap example, as you can see the      Demo:      

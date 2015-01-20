@@ -1,0 +1,1 @@
+How to change twitter   affix offset  I have a problem to make twitter   3.0 affix responsive. I looked at there similar questions  Twitter   change affix offset     But none of them working for me         Affix not changed  

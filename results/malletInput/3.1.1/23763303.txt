@@ -1,0 +1,1 @@
+Rails 4.1  -sass cannot find fonts  I started a new rails project with  -sass in the Gemfile.    Ran the following:       

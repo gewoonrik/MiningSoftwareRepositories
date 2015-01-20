@@ -1,0 +1,1 @@
+Table body doesn't occupy full table width  I'm using twitter   for a responsive design that contains a table with four columns. I want the table columns to have equal widths, so I have set    

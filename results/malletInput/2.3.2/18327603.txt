@@ -1,0 +1,1 @@
+Responsive Design or Fluid Grid System  I am trying to create a full responsive web template using   2.3.2. As you are fully aware   is offering both Responsive Design and Fluid Grid System systems.To be honest I am kind of confused here? what is the different between these too? Which one has a better performance? I have ssen some example using         Thanks  

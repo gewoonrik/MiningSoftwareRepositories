@@ -1,0 +1,1 @@
+  switch does not work with cdn  I've met an odd bug. I use   switch to make a checkbox on my site as a switch.    but, when I use cdn to reference the js and css file, it does not work. I have to use local file. Note that bootstap file with cdn works very well.    This works:       

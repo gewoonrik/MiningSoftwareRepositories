@@ -1,0 +1,1 @@
+Twitter Bootstrap typeahead with JSON  How can i use Twitter Bootstrap Typeahead with JSON. My Bootstrap version is  2.2.1      My JSON response          Also i would like to use it with modal element, if that changes anything.    Thanks!  

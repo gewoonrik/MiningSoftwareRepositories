@@ -1,0 +1,1 @@
+Bootstrap 2.3.2 dropdown menu  I don't understand why this simple example is not working. I can't find the error. I am using   2.3.2 and jquery 1.9.1 source files. Thanks in advance for your help. See the code below. The dropdown part is from the   site (   .com/2.3.2/components.html#dropdowns ).       

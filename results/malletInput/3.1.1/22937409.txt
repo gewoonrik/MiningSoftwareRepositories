@@ -1,0 +1,1 @@
+Bootstrap glyphicons only shown on hover in Chrome 33  I have button group in my asp.net mvc application:      in Chrome33, I get expected result (same, as ie10). What am I doing wrong?      Bootstrap v3.1.1 from Nuget   Internet Explorer 10   Chrome 33.0.1750.154 m   my bad English :)    

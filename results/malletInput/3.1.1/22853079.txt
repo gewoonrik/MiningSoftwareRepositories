@@ -1,0 +1,1 @@
+Bootswatch rails mixin does not exsists  I am getting error       

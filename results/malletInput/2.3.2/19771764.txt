@@ -1,0 +1,1 @@
+Binding an event to Spring form select  I want to bind an event on      But I'm failing. I just want to get the current selected value every time the select is changed. Is there a way to do this?  

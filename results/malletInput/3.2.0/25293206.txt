@@ -1,0 +1,1 @@
+Using Bootstrap Tags Input to work  I have been trying to use Bootstrap Tags Input like the example from this link:    -tagsinput/examples/  This is my code:         But the code does not seem to work. Any ideas or thought on how to make this work? Thanks!  

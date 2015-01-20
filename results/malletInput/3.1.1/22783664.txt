@@ -1,0 +1,1 @@
+Dropdown menu not working properly  I have a Dropdown menu that shows 2 links, one to my image gallery and other to the video gallery, but when I am in a view except my    

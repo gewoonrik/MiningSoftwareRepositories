@@ -1,0 +1,1 @@
+Twitter Bootstrap Carousel not working (3.1.1)  I'm trying to get a simple carousel to work from Twitter Bootstrap 3.1.1. I've stripped it down to the simple generic Bootstrap mark-up with no styling but I've still had no luck getting the images to slide. Would appreciate any suggestions. My mark-up is below:       

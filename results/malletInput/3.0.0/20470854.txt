@@ -1,0 +1,1 @@
+How to Limit Bootstrap Column Width on Large Devices  I have the following divs that use Bootstrap 3.0 CSS:         While this looks and behaves the way I want on XS to medium-sized devices, the expanded columns on large devices (>1200px) ruin my design.     Is there a way to stop   from expanding column width to 95px on large devices?   

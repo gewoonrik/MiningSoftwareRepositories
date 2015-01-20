@@ -1,0 +1,1 @@
+  top Navbar hides menu items  I upgraded   to 3.2.0, but menu items were not visible. So I checked latest example for  navbar . I tried to make everything same/similar like on example, but it is not working anyway. I have same css and js library.  This is my navbar:         This is  my page . What did I miss?    Thank you all for your help!  

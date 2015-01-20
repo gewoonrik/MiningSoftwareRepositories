@@ -1,0 +1,1 @@
+Keep Twitter Bootstrap nav-collapse from expanding on some elements  Using Bootstrap 2.3.2, I'm using   to hide certain elements when the browser width shrinks. I'd like to keep some elements collapsed even when the user clicks the toggle button to expand the navigation. Is there some class I can apply to elements to do this?   

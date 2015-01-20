@@ -1,0 +1,1 @@
+Bootstrap popover placement incorrect  I'm using Bootstrap 2.3.2. I grabbed some code off of the   website to make sure the code was correct, but I still can't get the position to change.    Here is a fiddle to show what's wrong:        Could the JavaScript be incorrect?       

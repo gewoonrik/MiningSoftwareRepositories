@@ -1,0 +1,1 @@
+Bootstrap modal in thymeleaf project  I have maven+spring+thymeleaf+  project with this page:       

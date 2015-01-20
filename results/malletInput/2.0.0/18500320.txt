@@ -1,0 +1,1 @@
+Bootstrap Drop Down in IE7,8  I am trying to use Boostrap 2.3 , Jquery 2.0 in my application , which require to support IE7,8 as well.    But Bootstrap Dropdown is not opening at all.         Example Image :           I have googled and all the links to the issues in Github are broken .    Please help me.  

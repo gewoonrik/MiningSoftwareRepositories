@@ -1,0 +1,1 @@
+Bootstrap Tour not working at all       I have added all the necessary dependencies. I am using Bootstrap 3 so no need to include popover.js individually. I have looked at the  plugin home page  for instructions but it didn't help either.  

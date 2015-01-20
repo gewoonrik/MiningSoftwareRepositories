@@ -1,0 +1,1 @@
+Bootstrap examples with meteor  Im using the   examples with Meteor (fluid.html). I've updated my   to the latest 2.0.4.    However I'm having an odd problem with the  . I can't figure out the difference    (its supposed to be like this:    /examples/fluid.html )  

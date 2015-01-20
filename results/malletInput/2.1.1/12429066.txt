@@ -1,0 +1,1 @@
+Twitter Bootstrap modal rails delete button not working  I am switching to Twitter Bootstrap 2.1.1.     I have a modal with a button to delete but it does not work. In previous   version it worked OK. Rails version is 3.1    Here is the code         But it does not work. Rails receives a GET and shows the post, but it does not destroy it.    Any idea? Thanks  

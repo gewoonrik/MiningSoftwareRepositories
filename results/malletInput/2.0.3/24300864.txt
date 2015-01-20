@@ -1,0 +1,1 @@
+Ajax validation doesn't work  when i submit it directly goes to the targeted page in form action. no validation happens.     My form          I'am new to   and ajax. so in your answers please mention what files i should import to trigger ajax validation.  

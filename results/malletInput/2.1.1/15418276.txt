@@ -1,0 +1,1 @@
+multiple instances of fineupload on a page  I have fineupload working with one button, but I would like to have several upload buttons on 1 page. But cannot get it to work...         Only the second button is displayed, the first one completely disappears... Is there someone who can help me with this ?  

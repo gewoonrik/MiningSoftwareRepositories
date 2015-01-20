@@ -1,0 +1,1 @@
+vertical divider won't work in Bootstrap 3.0  I opened the Nav example which comes with the standard Bootstrap download ( -3.0.0\examples\navbar\index.html) and added vertical dividers between two of the links.    It doesn't seem to make any difference to the navigation bar.         Below is a link to how it looks in Dreamweaver.         

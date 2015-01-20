@@ -1,0 +1,1 @@
+How to make  -tour work?  I have this code in a page. I'm trying to make  -tour work but it's not happening. What am I doing wrong? What am I missing here?       

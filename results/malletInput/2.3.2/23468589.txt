@@ -1,0 +1,1 @@
+django   toolkit not responsive. How to force it to be?  Do you know how to force django   toolkit to be responsive? I mean e.g the change of navbar when width is small.    I have in   content here:        example rendered @ jsfiddle here:      

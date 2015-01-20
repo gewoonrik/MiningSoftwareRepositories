@@ -1,0 +1,1 @@
+Storing PHP Variable from HTML Text Input Field  I've been bashing my head against a desk for awhile over this one and my brain is mush from reading tons of stuff and not having anything work.    Basically, I need to take the input from an html input field, assign it to a php variable, then append that variable to the end of a url.  I'm not having much luck at all so far!       

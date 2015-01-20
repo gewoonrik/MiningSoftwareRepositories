@@ -1,0 +1,1 @@
+Twitter Bootstrap 2.3.2 image in non-fluid grid  I am building a template with   2.3.2 and I want to have images that have certain dimensions according to the grid. (I'm not using the fluid grid, however I am using the responsive features).     I expect that the image which is contained e.g. in a    

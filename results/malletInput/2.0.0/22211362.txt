@@ -1,0 +1,1 @@
+Grails project with both BIRT and Kickstart plugin  We are trying to integrate the BIRT plugin into our application and seem to have run into some conflicts with the javascript dependencies the BIRT run-engine utilizes and the   framework use.    If you have both installed, you will get an error such as       

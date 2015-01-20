@@ -1,0 +1,1 @@
+jason lewis basset did not show icons well in laravel 4  I have a problem with rendering css+html of the   theme in laravel 4. I by a  admin template , and web browser show me something like that  . I use   jasonlewis  basset  to generate admin template. How to fix this? I use this in app\config\packages\jasonlewis\basset\config.php:       

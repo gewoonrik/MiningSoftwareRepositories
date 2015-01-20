@@ -1,0 +1,1 @@
+    unknown tags in grails project ?Also features of   are not rendered in .gsp file. What's the solution?  I have installed twitter   plugin in   tags inside my .gsp file ?  

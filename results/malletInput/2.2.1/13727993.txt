@@ -1,0 +1,1 @@
+CakePHP 2: Passing Buttons in an element depending on view  Id like to pass buttons from the cakePHP 2 (note: I'm using Twitter Bootstrap 2.2.1) into an Element in   or what?  

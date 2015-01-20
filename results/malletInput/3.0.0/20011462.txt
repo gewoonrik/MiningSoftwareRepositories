@@ -1,0 +1,1 @@
+How to set container width to 980px in   3.0.2?  In   3.0 I can wrap   for my layout!! I'm using LESS css!    Any ideas?  

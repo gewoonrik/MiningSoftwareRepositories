@@ -1,0 +1,1 @@
+Bootstrap navigation not aligned with content  Why is the content not aligned with the brand using Bootstrap 3.0.0?  How can I get these aligned?         Here is my HTML:       

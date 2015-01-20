@@ -1,0 +1,1 @@
+Pagination control changes value of model it is bound to to 1  As demonstrated in the code below, the existence of a pagination (from the Angular Directives for Bootstrap library) control changes the value of the model to 1 on the initial load, is there any way around this? I have added a Plunker  here .         Thanks  

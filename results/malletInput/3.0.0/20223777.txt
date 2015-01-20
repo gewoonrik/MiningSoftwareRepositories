@@ -1,0 +1,1 @@
+Bootstrap 3.0 navbar always collapsed  What would be the best way to have the navbar always collapsed? Even on desktop monitors?    This is the HTML markup for the navbar:          I'm using  cdn for hosting the actual   CSS, so I don't currently have access to the actual   code.  

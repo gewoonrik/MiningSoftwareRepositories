@@ -1,0 +1,1 @@
+jasny file upload only working in Chrome  This is absolutely killing me here.  Jasny's wonderful file upload plugin is working fine for me in Chrome but in Firefox and IE clicking the "Select file" button simply does nothing.  Actually, in Firefox I get a jquery error message:         To no avail.  

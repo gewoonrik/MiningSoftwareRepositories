@@ -1,0 +1,1 @@
+column are full width in IE 8 - Css    I use   3.0.3 in my web page and add html5shiv lib and respond lib for fix it this but it is not worked on internet explorer 8.    my html code:         Its worked good in FF and Webkits browsers but result in IE :         Now demo is  here , how can I fix it?  

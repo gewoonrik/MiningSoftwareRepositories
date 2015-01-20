@@ -1,0 +1,1 @@
+Why does the width of inputs changes?  I'm using Bootstrap v2.1.1. I'm finding problem with the width of inputs.    This is my simple form:      with  span3  class.    It is very very strange because, if i put span3 in  and  (using the code above) the width is equal.    COuld someone explain me how can I set equal widths using    span*   

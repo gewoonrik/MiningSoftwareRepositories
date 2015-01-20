@@ -1,0 +1,1 @@
+"modal form" with   on rails works partially  On Rails 3.2.3,  I have a form in a partial view, using    2.0.2 modals        

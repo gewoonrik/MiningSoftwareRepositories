@@ -1,0 +1,1 @@
+  3: dynamic modal box  I work with   3.0 modal box for show/add image url into input box after click in dynamic image link and choose image from iframe modal box(image manager).    PHP/HTML :         my mean is after click link modal open for same video id (iframe src).     How to can I create this ?  

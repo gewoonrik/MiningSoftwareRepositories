@@ -1,0 +1,1 @@
+Font Awesome & Bootstrap not working correctly In Chrome  After last two updates on Google Chrome I have a problem with rendering of icons on Font Awesome. Before everything worked correctly, and all icons loaded.         When I hovered any icon on table row and all other show up too.    Font Awesome css file is after the   css            Font Awesome 3.2.1   Bootstrap v2.2.1    

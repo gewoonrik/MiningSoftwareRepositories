@@ -1,0 +1,1 @@
+Why is .active() not working with typehead  We are using  typehead  for autocomplete with   2.3,   -typeahead.js . Though typeahead is a jQuery plugin,   to get information from server.  

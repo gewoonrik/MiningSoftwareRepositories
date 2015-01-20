@@ -1,0 +1,1 @@
+What replaces nav lists in Bootstrap 3?  I am preparing to update my site to Bootstrap 3, but I can’t figure out how to replace  the      EDIT    This is the look I am going for:      

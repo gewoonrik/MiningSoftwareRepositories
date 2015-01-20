@@ -1,0 +1,1 @@
+Bootstrap 3.1.0 modal sizing not applied  After updating my   class isn't been evaluated in my code as it is in the example, leading me to think that maybe it isn't included in the gem somehow, or am I missing something? The modal works in every other way aside the sizing.  

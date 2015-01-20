@@ -1,0 +1,1 @@
+Bootstrap Lightbox is not popping up  I am working with the demo for  Bootstrap Lightbox , I am also new to web development.  I cannot get the lightbox to work, the first image in this case shell_small.jpg is visable, and it's clearly a link, but when I click on it the only notable change is that the url goes from    

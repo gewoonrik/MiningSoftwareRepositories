@@ -1,0 +1,1 @@
+Bootstrap 3 modal error with Rails 4  I am trying to display a modal that includes an object's information. I am running Rails 4, and Bootstrap 3. I followed an example on SO and have received an error:         How should I load  -modal in this case?  

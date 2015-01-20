@@ -1,0 +1,1 @@
+Navbar using Bootstrap not EXPANDING  Hello all I've looked everywhere and can't seem to find the answer. My navbar is not able to expand at all listed where projects is.                   

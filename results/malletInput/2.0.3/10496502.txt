@@ -1,0 +1,1 @@
+Managing Twitter Bootstrap repository using deps in Symfony2 and assetic  I'd like to manage  Twitter Bootstrap git repository  using deps file in Symfony2. So i added these lines:       

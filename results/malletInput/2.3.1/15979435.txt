@@ -1,0 +1,1 @@
+how to hide the   navbar without moving the others divs?  I made a page where I want to display or hide the   navbar when clicking a button.    But when I click on the button, the entire "content" div is moved up. I tried to set a    

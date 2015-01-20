@@ -1,0 +1,1 @@
+jQuery Bootstrap validation not working  I have used  Validator.js to validate my page, but I cannot validate my page. The validator download  link is:    validator . What is the possible error? Im using Netbeans as the IDE.       

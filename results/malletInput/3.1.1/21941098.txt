@@ -1,0 +1,1 @@
+How do I set the button text in    I have included this in the html         What I end up with is a blue button but the "Add" is missing (it was the same with anormal button, I lost the text).  

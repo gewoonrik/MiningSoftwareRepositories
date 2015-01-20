@@ -1,0 +1,1 @@
+Popovers in Twitter Bootstrap  Okay, so I have the following HTML code:         I was hoping that this code would active a popover when the link is clicked, but for some reason, it doesn't work.  Nothing happens at all.  Why is this, and how can I properly make a popover in Bootstrap and then have it display a JavaScript variable?    Thanks!  

@@ -1,0 +1,1 @@
+Twitter Bootstrap popover not working with IE9  I have an issue with the twitter   popover. I have downloaded and installed the most recent package (     The problem is that, using IE9, the buttons aren't formatted properly, while in Chrome they appear just fine    Here how they are displayed in IE9:      Here in Chrome:    

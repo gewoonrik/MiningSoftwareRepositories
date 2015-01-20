@@ -1,0 +1,1 @@
+  - navbar tabs not rendered correclty in ie 9  Using the latest stylesheets from Twitter   2.1.0, I can't get the navbars with tabs rendered correctly in IE explorer 9.     Image here          (sorry, I cannot embed)    It is rendered correctly in Chrome.     Here is the complete example:             Strangely, it is rendered correctly in the JS Bin preview?   

@@ -1,0 +1,1 @@
+how to manage complicated HTML boiler plate for detail views in Django?  I have several update views of a complicated  .  That extra complexity, and the fact that I'm using a form layout and an Update view for what should be a Detail view, makes me think this may not be the best approach.    Suggestions?  

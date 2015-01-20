@@ -1,0 +1,1 @@
+Orchard CMS - Edit link not working on Bootstrap Theme  I have enabled the Content Control Wrapper and Widget Control Wrapper.  The edit link appear fine in the default theme but doesn't appear with the Bootstrap 2.0.2 theme enabled.  

@@ -1,0 +1,1 @@
+Dropdown markup not working in Bootstrap 2.2  This markup alone absolutely works to trigger a dropdown with Bootstrap 1.1.0.      But in v2.2, the markup alone no longer works.  I need to initiate the dropdown with JS (calling the dropdown() method).  Any thoughts on why?     http:// docs.com/v2.2.0/docs/javascript.html#dropdowns        

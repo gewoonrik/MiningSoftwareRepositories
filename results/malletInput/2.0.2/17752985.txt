@@ -1,0 +1,1 @@
+Bootstrap 2.3.1 and JQuery 2.0.2 not working in IE 8 for MVC4  I have updated Jquery 2.0.2 after that my MVC4 site not working IE8. It is working fine in IE 10 and chrome and FF.    I have included below code in _layout.cshtml. Still it not working         What will be the solution for this?  

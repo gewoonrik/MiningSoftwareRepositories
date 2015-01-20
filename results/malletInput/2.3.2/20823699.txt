@@ -1,0 +1,1 @@
+how to align text in textarea in   2.3.2  I want to show data in textarea from database. But I have facing a problem. I cant align that text in left.All time it shows data in center. Please help me.    My code :       

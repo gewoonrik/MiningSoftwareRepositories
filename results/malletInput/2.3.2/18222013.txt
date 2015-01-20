@@ -1,0 +1,1 @@
+How to configure eclipse to ignore a (false?) error  I copied the templates from  here  to add scaffolding with Twitter Bootstrap thanks to the  twitter- :2.3.2 plugin .          This is the Eclipse structure:         If it is just a mistake of eclipse, how could I tell it to ignore it?  

@@ -1,0 +1,1 @@
+Aligning button and text in navbar in twitter    I have written the following html with Bootstrap 2.3.2 included and no other css:     .    The problem can be viewed  here .  

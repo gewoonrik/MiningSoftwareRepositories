@@ -1,0 +1,1 @@
+Twitch API Not showing up  I am trying to make a page for my youtube and twitch channels.  I got the twitch webmaster api from dev.twitch.tv I just slapped it into my code in a few script tags. I probably did something wrong. Here is the code:         If anyone sees something that I did wrong, feel free to respond bellow. Thanks -Chase  

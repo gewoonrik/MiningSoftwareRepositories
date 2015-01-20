@@ -1,0 +1,1 @@
+Input Type File Not Working In Bootstrap Modal  This is incredibly odd. I have a basic Bootstrap modal with no fancy stuff going on and      Really strange issue. Any ideas?    EDIT: It is Bootstrap 2.3.1 and I've tried setting z-index on the input for the fun of it and it made no difference.  

@@ -1,0 +1,1 @@
+Problems loading  -sass when starting thin server, rails  I am trying lauch my thin server. This does not work, failing with the following error:       

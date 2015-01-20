@@ -1,0 +1,1 @@
+Bootstrap 3.0.x - How to unconstrain input-group input width when using glyphicons?  Not sure if this is a feature or a bug...    There has been a change in behaviour with   sign.          jsfiddle  of the above with   -3.0.0      Question:     How can I get the   -3.0.0  behaviour (unconstrained input-groups when using glyphicons)?  

@@ -1,0 +1,1 @@
+Bootstrap label and input filed not displaying horizontal  I have copied and pasted the sample code from  . I have included   CSS and JS file   jQuery library.  Base CSS - Bootstrap     For some reason labels and input fields are showing inline. Can someone take a look what I am doing wrong?       

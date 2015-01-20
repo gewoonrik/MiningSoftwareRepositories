@@ -1,0 +1,1 @@
+Not working responsive?  I am trying to make my table responsive but its not happening.I dont know where is the problem. I am using  -responsive.css to make it happening.But the table is not breaking like other pages break when i open in mobile.         Any solutions ll be great :D  

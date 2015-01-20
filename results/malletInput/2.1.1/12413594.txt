@@ -1,0 +1,1 @@
+Twitter Bootstrap typeahead: get context / calling element with `this`  I am using the  Typeahead  component of Twitter Bootstrap 2.1.1, and jQuery 1.8.1    I am trying to access the text box element from within typeahead's    

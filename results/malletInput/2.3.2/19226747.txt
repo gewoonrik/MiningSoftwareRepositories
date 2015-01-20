@@ -1,0 +1,1 @@
+h1 icon vertical-align not work in   2.3.2  I have this  . how to fix this problem for this version?     demo here   

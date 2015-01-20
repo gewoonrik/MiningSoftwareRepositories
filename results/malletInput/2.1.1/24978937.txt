@@ -1,0 +1,1 @@
+Modal error - Uncaught TypeError: undefined is not a function modal  Im using the following code and I got error in delete in the    

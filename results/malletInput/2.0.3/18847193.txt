@@ -1,0 +1,1 @@
+Bootstrap datepicker is not working + cakephp 2.0.3  I am trying to implement the datepicker from  here   copied all the files to the js and css folder as accordingly and trying to call the datepicker on this page but it doesn't shows up. here is the code of the page:       

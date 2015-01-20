@@ -1,0 +1,1 @@
+PHP Pagination Bug with Twitter Bootstrap  I have a bug in my program where pagination links do not show up at all when the   is greater than 1, this happens:         

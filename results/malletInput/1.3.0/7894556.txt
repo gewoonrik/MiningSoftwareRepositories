@@ -1,0 +1,1 @@
+Space between tabs and tab-content  I have the following code:         I used inline styles because i am only testing. There is a huge space between tabs and content. What causes this and how to fix?  

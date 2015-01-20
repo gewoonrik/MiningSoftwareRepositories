@@ -1,0 +1,1 @@
+Grails resources plugin not resolving Bootstrap CDN urls  I've tried several things:    just using the url:         None of these work. I always get some form of        Resource not found:   //netdna. cdn.com/ /3.0.0/css/ .min.css      Any help is appreciated.  
