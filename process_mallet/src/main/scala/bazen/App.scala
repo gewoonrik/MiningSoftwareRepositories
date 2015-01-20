@@ -28,11 +28,11 @@ object App {
       println(topics)
       val file =  Source.fromFile(topics)
       val lines = file.getLines().drop(1)
-      val numberOfFiles = lines.length
+      var numberOfFiles = 0
 
       val countPerTopic = collection.mutable.Map[Int, Double]()
       lines.foreach(line => {
-
+        numberOfFiles+=1
         val topicValues = line.split("\\t").drop(2)
         var i = 0;
         for(topicValue <- topicValues)  {
