@@ -21,9 +21,10 @@ object App {
     val parentDir = new File("..//results/malletInput")
     val dirs = parentDir.listFiles.filter(_.isDirectory).map(_.getAbsolutePath)
     dirs.foreach(dir => {
-      "/opt/mallet/bin/mallet import-dir --input "+dir+" --output "+dir+"/import-data.mallet --keep-sequence --remove-stopwords"!!;
-      "/opt/mallet/bin/mallet infer-topics --inferencer inferencer_all.mallet --input "+dir+"/import-data.mallet --output-doc-topics "+dir+"/results.topics"!!;
-      val topics = new File(dir,"results.topics")
+      val version = dir.split('/').last
+      "/opt/mallet/bin/mallet import-dir --input "+dir+" --output "+dir+"/../import-data-"+version+".mallet --keep-sequence --remove-stopwords"!!;
+      "/opt/mallet/bin/mallet infer-topics --inferencer inferencer_all.mallet --input "+dir+"/../import-data-"+version+".mallet --output-doc-topics "+dir+"/../results-"+version+".topics"!!;
+      val topics = new File(dir+"/../","results-"+version+".topics")
       println(topics)
       val file =  Source.fromFile(topics)
       val numberOfFiles = file.getLines().drop(1).length
@@ -38,7 +39,7 @@ object App {
           i+=1
         }
       })
-      val writer = new PrintWriter(new File(dir,"result.txt"))
+      val writer = new PrintWriter(new File(dir+"/../","result-"+version+".txt"))
       countPerTopic.map(a => {
         a._2/numberOfFiles
       }).foreach( value => {
