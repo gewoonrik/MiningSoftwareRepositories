@@ -1,1 +1,1 @@
-AngularJS Bootstrap dialog to grow with content up to a max height  I'm using AngularJS and Bootstrap 2.3.2. Right now, it appears   has a max-height set to 400px. I'd like to allow the content of the dialog to stretch the dialog up to 90% of the window. How can I do this?  
+angularjs   dialog to grow with content up to a max height  i'm using angularjs and   2.3.2. right now, it appears   has a max-height set to 400px. i'd like to allow the content of the dialog to stretch the dialog up to 90% of the window. how can i do this?  

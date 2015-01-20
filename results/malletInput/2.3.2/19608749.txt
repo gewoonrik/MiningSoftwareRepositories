@@ -1,1 +1,1 @@
-Twitter BootStrap 2.3.2 Expand Collapse nested side bar menu items  Does Twitter Bootstrap 2.3.2 have something built in to do expand / hide nested side menus, or will It be better to do this using jquery (writing my own jquery)?         
+    2.3.2 expand collapse nested side bar menu items  does     2.3.2 have something built in to do expand / hide nested side menus, or will it be better to do this using jquery (writing my own jquery)?         

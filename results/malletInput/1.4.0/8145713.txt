@@ -1,1 +1,1 @@
-  tabs doesn't work with different class name  Bootstrap works fine in my js if I have        
+  tabs doesn't work with different class name    works fine in my js if i have      $('.tabs').tabs();       but if i change that to something like     $('.usertabs').tabs();       and also change the corresponding ul it doesn't work. am i doing something wrong or is this a bug with  -tabs? i'm using the latest   v1.4.0      ul class="usertabs" data-tabs="tabs"      

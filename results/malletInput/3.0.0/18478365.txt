@@ -1,1 +1,1 @@
-Bigger Glyphicons  How do I make bigger Glyphicons in twitter   3.0 (not 2.3.x).     This code will make my glyphicons big:       
+bigger glyphicons  how do i make bigger glyphicons in     3.0 (not 2.3.x).     this code will make my glyphicons big:      button type="button" class="btn btn-default btn-lg"      span class="glyphicon glyphicon-th-list"      /span   /button      how can i get this size  without  using the btn-lg class while using  only  a span ?    this gives a small glyphicon:      span class="glyphicon glyphicon-link"  /span     

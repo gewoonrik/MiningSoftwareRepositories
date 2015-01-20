@@ -1,1 +1,1 @@
-Can you disable tabs in Bootstrap?  I was wondering if you could disable tabs in   2.0 like you can buttons and if so how?    Thanks  
+can you disable tabs in  ?  i was wondering if you could disable tabs in   2.0 like you can buttons and if so how?    thanks  

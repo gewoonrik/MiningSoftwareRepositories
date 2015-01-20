@@ -1,1 +1,1 @@
-Issue Create with Grid Column in Bootstrap 3.2.0  I have the following layout on a page(with Bootstrap 3.2.0):     Here, Dynamic generate Column   Content in Column.  but, Here, Create following issue for me.          How can i fix it?  Would appreciate the help.  
+issue create with grid column in   3.2.0  i have the following layout on a page(with   3.2.0):     here, dynamic generate column   content in column.  but, here, create following issue for me.          how can i fix it?  would appreciate the help.  

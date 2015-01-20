@@ -1,1 +1,1 @@
-Bootstrap 3 Glyphicon wrench isn't working  I'm using Bootstrap (3.0.0) and trying to put this on my webpage:         Every other glyphicon seems to be showing up except the wrench which is just an ASCII square.  
+  3 glyphicon wrench isn't working  i'm using   (3.0.0) and trying to put this on my webpage:      span class="glyphicon glyphicon-wrench"  /span      every other glyphicon seems to be showing up except the wrench which is just an ascii square.  

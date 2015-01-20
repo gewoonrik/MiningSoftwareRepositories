@@ -1,1 +1,1 @@
-Bootstrap 3.0 and IE 8 conflict  I have a local design which is running on Bootstrap 3 and working well in all browsers except IE 8 and below.    I have tried including respond.js and html5shiv.js, though I couldn't succeed.  
+  3.0 and ie 8 conflict  i have a local design which is running on   3 and working well in all browsers except ie 8 and below.    i have tried including respond.js and html5shiv.js, though i couldn't succeed.  

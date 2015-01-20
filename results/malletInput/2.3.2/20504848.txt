@@ -1,1 +1,1 @@
-Bootstrap 2.3.2 dropdown menu not working. Site built on Joomla 3.2  I have tried just about everything to get the dropdown menu to work on the mobile version of   This seems to be a common problem but the suggested answers are not fixing the problem. Please help! Thanks!  
+  2.3.2 dropdown menu not working. site built on joomla 3.2  i have tried just about everything to get the dropdown menu to work on the mobile version of   this seems to be a common problem but the suggested answers are not fixing the problem. please help! thanks!  

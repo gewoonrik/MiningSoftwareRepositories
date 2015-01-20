@@ -1,1 +1,1 @@
-What is the tag @-ms-viewport in twitter- ?  In my Twitter Bootstrap (Responsive) file, version 2.2.2, there is a tag      . Is it related to Microsoft or IE? Why is it the first style declaration?  
+what is the tag @-ms-viewport in  - ?  in my     (responsive) file, version 2.2.2, there is a tag      @-ms-viewport {      width: device-width  }      i have seen  @media  and other  @ s. but there is no documentation for  @-ms-viewport . is it related to microsoft or ie? why is it the first style declaration?  

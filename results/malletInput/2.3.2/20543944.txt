@@ -1,1 +1,1 @@
-Bootbox in Rails 2  Doesn't  .  
+bootbox in rails 2  doesn't  bootbox v3.3.0  work with  rails 2.3 ? the  bootbox.js ,  jquery-1.8.3.js ,  jquery-1.8.3.min.js ,   .js ,   .min.js  are all included. but when i call:     bootbox.alert("hello world");      i get the following error:     typeerror: cannot set property 'display' of undefined      am i doing something wrong or isn't  bootbox  supported by  rails 2 ?     am using  ruby 1.9 ,  rails 2.3  and    2.3.2 .  

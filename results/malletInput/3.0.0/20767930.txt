@@ -1,1 +1,1 @@
-How to change twitter   affix offset  I have a problem to make twitter   3.0 affix responsive. I looked at there similar questions  Twitter   change affix offset     But none of them working for me         Affix not changed  
+how to change     affix offset  i have a problem to make     3.0 affix responsive. i looked at there similar questions      change affix offset     but none of them working for me     $(window).resize(function() {    $('.mymenu').affix({offset: {top: navbaroffset}}); });      affix not changed  

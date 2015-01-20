@@ -1,1 +1,1 @@
-How to automatically collapse panel on small device in  ?  Is there a way how can I automatically collapse panel in   3.0 on small device? I would like to achieve same effect as top navigation - so when screen is small only a toggle button shows on screen.  
+how to automatically collapse panel on small device in  ?  is there a way how can i automatically collapse panel in   3.0 on small device? i would like to achieve same effect as top navigation - so when screen is small only a toggle button shows on screen.  

@@ -1,1 +1,1 @@
-Twitter Bootstrap and jQuery 2.0 compatability   Is twitter boostrap 2.3.X or 3.0.0-wip compatible with jQuery 2.x ??     If not is there any intention to upgrade compatibility  the future?  
+    and jquery 2.0 compatability   is   boostrap 2.3.x or 3.0.0-wip compatible with jquery 2.x ??     if not is there any intention to upgrade compatibility  the future?  

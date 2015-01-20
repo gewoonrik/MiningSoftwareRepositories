@@ -1,1 +1,1 @@
-Glyth icons are not displaying  Glyth icons are not displaying at all in firefox 12 and 13 (windows) using rails-admin 0.0.3 and  -sass 2.0.3, is that a known issue?  
+glyth icons are not displaying  glyth icons are not displaying at all in firefox 12 and 13 (windows) using rails-admin 0.0.3 and  -sass 2.0.3, is that a known issue?  

@@ -1,1 +1,1 @@
-In   3.0 affix how to set active class  I have navigation with   affix and want to change the active li when scrolling. I have tried what ever given in the documentation but couldn't fix it. Could some one help me for fixing it? You can see my page in the url      
+in   3.0 affix how to set active class  i have navigation with   affix and want to change the active li when scrolling. i have tried what ever given in the documentation but couldn't fix it. could some one help me for fixing it? you can see my page in the url      

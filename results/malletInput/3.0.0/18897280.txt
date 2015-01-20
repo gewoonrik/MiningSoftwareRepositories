@@ -1,1 +1,1 @@
-Twitter Bootstrap 3.0 equivalent of the "label-important" class  What is the Bootstrap 3 equivalent of the following code?       
+    3.0 equivalent of the "label-important" class  what is the   3 equivalent of the following code?      span class="label label-important" important /span     

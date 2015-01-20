@@ -1,1 +1,1 @@
-How has Twitter Bootstrap 3 changed over version 2.3.2?  I am studying the difference myself. So far i've come up with:         What are more differences? from people who've already done the study.  
+how has     3 changed over version 2.3.2?  i am studying the difference myself. so far i've come up with:     span is now col :- there are three types of col ie .col-    .col-sm-    .col-lg- for phone, tablet and pc respectively.   additional class 'row'      what are more differences? from people who've already done the study.  

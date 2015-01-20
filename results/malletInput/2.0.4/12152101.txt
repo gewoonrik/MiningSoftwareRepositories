@@ -1,1 +1,1 @@
-Open remote content in the Bootstrap modal window  All I need is a simple example in how to open a remote content into a Twitter Bootstrap modal window.    I'm using Bootstrap v2.0.4 and I just can't get it to work. I can open regular modal windows, but I can't make it open a remote file inside it.  
+open remote content in the   modal window  all i need is a simple example in how to open a remote content into a     modal window.    i'm using   v2.0.4 and i just can't get it to work. i can open regular modal windows, but i can't make it open a remote file inside it.  

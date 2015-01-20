@@ -1,1 +1,1 @@
-Is there responsive   popover alternative?  Currently   2.3.2 popover is not responsive. On small screens it opens outside the screen. Is there an alternative?    Thank you  
+is there responsive   popover alternative?  currently   2.3.2 popover is not responsive. on small screens it opens outside the screen. is there an alternative?    thank you  

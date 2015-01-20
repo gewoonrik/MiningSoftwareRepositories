@@ -1,1 +1,1 @@
-Bootstrap after closing the modal set the focus to invoked element?  I am using  .  
+  after closing the modal set the focus to invoked element?  i am using    3.0.0.  i am facing a small problem in    modal , i want to set the focus to the element which invoked the modal window after closing the current  modal window .  

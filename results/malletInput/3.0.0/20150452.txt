@@ -1,1 +1,1 @@
-Bootstrap popover on injected html button  I have injected a button like this:         but nothing. Any ideas?  
+  popover on injected html button  i have injected a button like this:     $(panelbody).append(' input type="button" id="pink" class="btn btn-success btn-sm" value="swift" /  ');       but can't get a   3.0 popover to render next to it when i click. tried this inside $document.ready():     $(document).on('popover', '#pink', function(e){     e.preventdefault();     //console.log('clonk'); });      but nothing. any ideas?  

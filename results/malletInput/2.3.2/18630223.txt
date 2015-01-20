@@ -1,1 +1,1 @@
-Is Bootstrap 2.3.2 compatible with jQuery 1.9?  We're running it with 1.8 with no problems, but is it supported for 1.9?  
+is   2.3.2 compatible with jquery 1.9?  we're running it with 1.8 with no problems, but is it supported for 1.9?  

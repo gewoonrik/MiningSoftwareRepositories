@@ -1,1 +1,1 @@
-navbar color in Twitter Bootstrap  How can I change the background color of the navbar of the Twitter Bootstrap 2.0.2? How can I change color of all the elements of the navbar to reflect the background color?  
+navbar color in      how can i change the background color of the navbar of the     2.0.2? how can i change color of all the elements of the navbar to reflect the background color?  

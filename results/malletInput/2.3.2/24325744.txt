@@ -1,1 +1,1 @@
-Bootstrap custom popover  Is it possible to have a custom   popover?    I mean I want to be able to use         So on click of an element #example, I'll pass some text (which would be shown in editable textarea);         I am using   2.3.2  
+  custom popover  is it possible to have a custom   popover?    i mean i want to be able to use     $('#example').popover(options)      so on click of an element #example, i'll pass some text (which would be shown in editable textarea);         i am using   2.3.2  

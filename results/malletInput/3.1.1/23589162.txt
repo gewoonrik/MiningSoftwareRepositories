@@ -1,1 +1,1 @@
-Right to left support for Bootstrap?  I work on the project that use Bootstrap v3.1.1. I just discover  Bootstrap  and I'm wondering if there is a right-to-left version of it. Does anyone know?  
+right to left support for  ?  i work on the project that use   v3.1.1. i just discover     and i'm wondering if there is a right-to-left version of it. does anyone know?  

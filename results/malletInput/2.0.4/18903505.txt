@@ -1,1 +1,1 @@
-How can I use  -sass with spree?  I want to do responsive the spree layouts using  .. I'm using rails 3.2.14 with spree 2.0.4 and  -sass 2.3.2.2  
+how can i use  -sass with spree?  i want to do responsive the spree layouts using  .. i'm using rails 3.2.14 with spree 2.0.4 and  -sass 2.3.2.2  

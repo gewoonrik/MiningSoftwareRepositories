@@ -1,1 +1,1 @@
-What does the selector [class^="span"] do?  I can't work out what this is:    Line 33 of    /assets/css/ -1.2.0.min.css        
+what does the selector [class^="span"] do?  i can't work out what this is:    line 33 of  http:// .github.com/ /assets/css/ -1.2.0.min.css      .row [class^="span"] {   display: inline;   float: left;   margin-left: 20px; }      i understand the style but i've never seen this before     [class^="span"]    

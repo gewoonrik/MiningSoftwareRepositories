@@ -1,1 +1,1 @@
-Bootstrap fixed size column  I need to do fixed width right column column in  , but left column will be responsive.    I use   2.3.2         Right column will not be resized at all screen size.  
+  fixed size column  i need to do fixed width right column column in  , but left column will be responsive.    i use   2.3.2         right column will not be resized at all screen size.  

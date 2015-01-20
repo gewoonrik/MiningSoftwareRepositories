@@ -1,1 +1,1 @@
-Should I use normalize.css in my Bootstrap project?  I can't figure out if I need to add the  normalize.css  stylesheet in my   project. I'm using the latest version of  , v2.3.2.  
+should i use normalize.css in my   project?  i can't figure out if i need to add the  normalize.css  stylesheet in my   project. i'm using the latest version of  , v2.3.2.  

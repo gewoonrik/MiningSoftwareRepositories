@@ -1,1 +1,1 @@
-Would it be possible to render an image in a Twitter Bootstrap popover?  Here's how the popover is called    .com/2.3.2/javascript.html#popovers     Based off of the page you can only put text in it as far as I can tell  
+would it be possible to render an image in a     popover?  here's how the popover is called    .com/2.3.2/javascript.html#popovers     based off of the page you can only put text in it as far as i can tell  

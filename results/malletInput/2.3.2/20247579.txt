@@ -1,1 +1,1 @@
-Bootstrap popover manual close  I need several popovers on a page with manual close.Twitter examples on a  Live Demo  section shows this functionality but I cant reach it.Who can recommend plug-in (tooltip) with such functionality?   
+  popover manual close  i need several popovers on a page with manual close.  examples on a  live demo  section shows this functionality but i cant reach it.who can recommend plug-in (tooltip) with such functionality?   

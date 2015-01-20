@@ -1,1 +1,1 @@
-How do I change Twitter Bootstrap grid widths?  I'm using Twitter Bootstrap right now ver 2.0 and notice that the space is not enough using the 12 column grid.    I think they're using 940px.. so how do I use a custom width without breaking the 12 column grid?     Thanks..  
+how do i change     grid widths?  i'm using     right now ver 2.0 and notice that the space is not enough using the 12 column grid.    i think they're using 940px.. so how do i use a custom width without breaking the 12 column grid?     thanks..  

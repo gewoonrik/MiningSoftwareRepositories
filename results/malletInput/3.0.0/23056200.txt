@@ -1,1 +1,1 @@
-Deploy MVC 5 Bootstrap 3 Glyphicon Not Display  I've got display problem after deploy MVC 5.1 with   3.0.0 to production. Glyphicon doesn't appear and   css seems not load properly.     On server (it is fine in production):      On client (this is the problem):    
+deploy mvc 5   3 glyphicon not display  i've got display problem after deploy mvc 5.1 with   3.0.0 to production. glyphicon doesn't appear and   css seems not load properly.     on server (it is fine in production):      on client (this is the problem):    

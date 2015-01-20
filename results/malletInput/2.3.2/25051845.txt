@@ -1,1 +1,1 @@
-I got an error in Bootstrap with ASP.NET MVC 4  Tools and frameworks used:     ". How can I resolve this issue?  
+i got an error in   with asp.net mvc 4  tools and frameworks used:     visual studio express 2012 for web. dot net framework 4.5. mvc 4. jquery 1.8.2.     v2.3.2      i've got an error.    it is in the views/shared folder. the  @_layout.cshtml  made a compilation error, because there is no namespace called " utility ". how can i resolve this issue?  

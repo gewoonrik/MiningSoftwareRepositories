@@ -1,1 +1,1 @@
-Bootstrap 2.1.0 and google maps  I cannot get google maps working on   2.1.0.      map doesn't get proper size   it's not centered      any hint?    Please don't answer          because this is fixed in   2.0.4  
+  2.1.0 and google maps  i cannot get google maps working on   2.1.0.      map doesn't get proper size   it's not centered      any hint?    please don't answer      #map_canvas img {    max-width: none;  }      because this is fixed in   2.0.4  

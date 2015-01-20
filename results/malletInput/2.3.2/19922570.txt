@@ -1,1 +1,1 @@
-Bootstrap Accordion + x-editable  I have an    accordion  which I also applied  x-editable  that will only trigger through a link in the dropdown:         I want to remove:          to make it:         Isn't possible to remove the line below the x-editable?  
+  accordion + x-editable  i have an    accordion  which i also applied  x-editable  that will only trigger through a link in the dropdown:         i want to remove:          to make it:         isn't possible to remove the line below the x-editable?  

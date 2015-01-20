@@ -27,7 +27,9 @@ object App {
   }
 
   def stripThings(text : String): String = {
-    text.replaceAll("<code>.*</code>"," ")
+    text.toLowerCase()
+      //.replaceAll("<code>.*</code>"," ")
+      .replaceAll("twitter"," ")
       .replaceAll("bootstrap", " ")
       .replaceAll("https?://[^\\s<>\"]+|www\\.[^\\s<>\"]+", " ")
       .replaceAll("<[^<]+?>", " ")

@@ -1,1 +1,1 @@
-How to open 2nd tab from first through   link  I am using Twitter Bootstrap v3.1.0 and have a Tabbed view. I have 3 tabs. In the first tab I have an   link. From that link I want to load the second tab without reloading the page.    Any pointers would be really appreciated. Thanks.  
+how to open 2nd tab from first through   link  i am using     v3.1.0 and have a tabbed view. i have 3 tabs. in the first tab i have an   a href=""   link. from that link i want to load the second tab without reloading the page.    any pointers would be really appreciated. thanks.  

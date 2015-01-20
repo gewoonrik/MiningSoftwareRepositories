@@ -1,1 +1,1 @@
-Is there a durandal 2.1.0 nuget package based on Bootstrap 3.0 already?  I'm about to start a project using Durandal,and I'd feel way more confident to start with Bootsrap 3.0.   
+is there a durandal 2.1.0 nuget package based on   3.0 already?  i'm about to start a project using durandal,and i'd feel way more confident to start with bootsrap 3.0.   

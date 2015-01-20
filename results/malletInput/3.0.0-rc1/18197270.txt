@@ -1,1 +1,1 @@
-Bootstrap 3.0.0 breaks the datepicker icon  Here is the  Demo     If you use 2.3.1, uncomment line 12 and you will see the button appearing correctly    Does anyone know how can I fix it for version 3.0.0-rc1?  
+  3.0.0 breaks the datepicker icon  here is the  demo     if you use 2.3.1, uncomment line 12 and you will see the button appearing correctly    does anyone know how can i fix it for version 3.0.0-rc1?  

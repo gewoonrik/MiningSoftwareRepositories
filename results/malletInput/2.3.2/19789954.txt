@@ -1,1 +1,1 @@
-Fluid Container in Bootstrap 3  How to make fluid container in   3?    In   2.3.2   class. Please help me.   
+fluid container in   3  how to make fluid container in   3?    in   2.3.2  .container-fluid  class is there. but now in   3 it is missing and there is only  .container  class. please help me.   

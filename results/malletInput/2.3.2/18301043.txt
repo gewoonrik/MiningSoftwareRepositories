@@ -1,1 +1,1 @@
-How can I get   responsive css work with yeoman bower  I am using bower to get   lib,  there is a  -responsive-2.3.2 in the \bower_components\ -sass   Although I can manually import it by myself, I just wanna find out is there any way to import it with bower command?  
+how can i get   responsive css work with yeoman bower  i am using bower to get   lib,  there is a  -responsive-2.3.2 in the \bower_components\ -sass   although i can manually import it by myself, i just wanna find out is there any way to import it with bower command?  

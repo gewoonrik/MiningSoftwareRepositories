@@ -1,1 +1,1 @@
-Twitter   typeahead 2.1.1 can't set function in source  I'm trying to set the source into the   typeahead, but I'm getting the following error:         Here's a jsFiddle illustrating the case:        What am I doing improperly?    Notice the version of the plugin is 2.1.1  
+    typeahead 2.1.1 can't set function in source  i'm trying to set the source into the   typeahead, but i'm getting the following error:     typeahead.process is not a function      here's a jsfiddle illustrating the case:        what am i doing improperly?    notice the version of the plugin is 2.1.1  

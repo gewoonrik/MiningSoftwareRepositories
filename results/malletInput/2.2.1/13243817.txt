@@ -1,1 +1,1 @@
-Modifying the "active" css for  's typeahead  Bootstrap had a bug in 2.2.1 with inheritance for typeahead - that has been fixed in 2.2.2.  
+modifying the "active" css for  's typeahead    had a bug in 2.2.1 with inheritance for typeahead - that has been fixed in 2.2.2.  

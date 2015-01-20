@@ -1,1 +1,1 @@
-Bootstrap Migrating or Updating Between v3.X  Is there is a guide to migrate or update between v3.X   For example migrate from v3.1.0 to v3.2.0   Is it safe to update without making any changes?  
+  migrating or updating between v3.x  is there is a guide to migrate or update between v3.x   for example migrate from v3.1.0 to v3.2.0   is it safe to update without making any changes?  

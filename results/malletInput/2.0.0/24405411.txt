@@ -1,1 +1,1 @@
-Will Magento 2.0 support Twitters Bootstrap?  Magento 2.0 does support responsive themes. They even made the standard Magento 2.0 theme responsive but I'm not sure what framework they use?    I want to start using Bootstrap but only if Magento 2.0 supports it right out of the box.    Anybody knows?  
+will magento 2.0 support  s  ?  magento 2.0 does support responsive themes. they even made the standard magento 2.0 theme responsive but i'm not sure what framework they use?    i want to start using   but only if magento 2.0 supports it right out of the box.    anybody knows?  

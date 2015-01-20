@@ -1,1 +1,1 @@
-Vertical navbar Bootstrap 3.0.3  I am creating a new website with Bootstrap  and wanta menu on the left and vertically, for two columns, do you know how I can do it in three Bootstrap?    I tried with nav-stacked but does not work me    Any ideas?  
+vertical navbar   3.0.3  i am creating a new website with    and wanta menu on the left and vertically, for two columns, do you know how i can do it in three  ?    i tried with nav-stacked but does not work me    any ideas?  

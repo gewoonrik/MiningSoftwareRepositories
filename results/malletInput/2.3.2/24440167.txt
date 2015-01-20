@@ -1,1 +1,1 @@
-Where would I download Twitter Bootstrap templates?  I noticed that Twitter provides examples like this:    .com/2.3.2/examples/carousel.html     However, I don't see any download link. Is there a way for me to download the CSS and Javascript of that template?  
+where would i download     templates?  i noticed that   provides examples like this:    .com/2.3.2/examples/carousel.html     however, i don't see any download link. is there a way for me to download the css and javascript of that template?  

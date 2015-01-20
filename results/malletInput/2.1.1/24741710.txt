@@ -1,1 +1,1 @@
-date picker undefined is not a function  IM using the following code and I got error is the console undifinnd is not a function,what am I doing wrong here ?       
+date picker undefined is not a function  im using the following code and i got error is the console undifinnd is not a function,what am i doing wrong here ?      script src="~/scripts/jquery-2.1.1.min.js"  /script   script type="text/javascript"  $(function () {  $('#datetime').datepicker(); });  /script       i've also try with and i got the same error...     $('#datetime')..datetimepicker();    

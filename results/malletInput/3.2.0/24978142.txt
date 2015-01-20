@@ -1,1 +1,1 @@
-How to upgrade joomla's built-in   to latest version  I'm using joomla ver. 3.2.3 and it is using   2.3.2. How can I update it so I will be able to use latest   version which is 3.2.0?  
+how to upgrade joomla's built-in   to latest version  i'm using joomla ver. 3.2.3 and it is using   2.3.2. how can i update it so i will be able to use latest   version which is 3.2.0?  

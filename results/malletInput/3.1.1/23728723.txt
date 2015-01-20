@@ -1,1 +1,1 @@
-Twitter Bootstrap makes background image dissappear  In my main css file I have this:         Any ideas why?  
+    makes background image dissappear  in my main css file i have this:     background: url(/images/bg_1.jpg) repeat;      and it works fine, i have a background image showing. but when i include the   .min.css  v3.1.1 file in the html ( above  my css file in the code), the background just goes white.      link rel="stylesheet" type="text/css" href="/css/ .min.css" /       any ideas why?  

@@ -1,1 +1,1 @@
-Responsive Website CSS not loading over Barracuda SSL VPN  Responsive Website CSS not loading over Barracuda SSL VPN    Not really sure what to do. It just straight up 404's on the CSS files.    I'm using Twitter Bootstrap 3.1.1 and jQuery 1.11 on the website.   
+responsive website css not loading over barracuda ssl vpn  responsive website css not loading over barracuda ssl vpn    not really sure what to do. it just straight up 404's on the css files.    i'm using     3.1.1 and jquery 1.11 on the website.   

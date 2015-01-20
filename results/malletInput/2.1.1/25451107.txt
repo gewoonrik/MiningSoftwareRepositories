@@ -1,1 +1,1 @@
-Is Twitter Boostrap 3.x compatible with Jquery 2.x?  I started using jquery 2.1.1 on a site that uses Bootstrap 3.x, and now   carousels won't work. Chrome web dev console says "Uncaught ReferenceError: jQuery is not defined "    Any help would be great!  
+is   boostrap 3.x compatible with jquery 2.x?  i started using jquery 2.1.1 on a site that uses   3.x, and now   carousels won't work. chrome web dev console says "uncaught referenceerror: jquery is not defined "    any help would be great!  

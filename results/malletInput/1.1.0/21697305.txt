@@ -1,1 +1,1 @@
-why   behave like mobile version css in ie8  i am using   3 and its behave like mobile version css in ie8. Please suggest what to do...     i am using modernizere and respond js:    modernizr-2.6.2-respond-1.1.0.min.js  
+why   behave like mobile version css in ie8  i am using   3 and its behave like mobile version css in ie8. please suggest what to do...     i am using modernizere and respond js:    modernizr-2.6.2-respond-1.1.0.min.js  

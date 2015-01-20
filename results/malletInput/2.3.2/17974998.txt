@@ -1,1 +1,1 @@
-Updating Bootstrap to version 3 - what do I have to do?  I'm new to Bootstrap and have the older version 2.3.2.    Version 3 has been released. Do I just simply replace the CSS and Javascript files if I want to use the latest version?  
+updating   to version 3 - what do i have to do?  i'm new to   and have the older version 2.3.2.    version 3 has been released. do i just simply replace the css and javascript files if i want to use the latest version?  

@@ -1,1 +1,1 @@
-What are the new features in   3 in comparison to   2.3.2?  just noticed the new version of   is available, rc 3.    can anyone provide a simple breakdown of the differences compared to the previous version  2.3.2?  
+what are the new features in   3 in comparison to   2.3.2?  just noticed the new version of   is available, rc 3.    can anyone provide a simple breakdown of the differences compared to the previous version  2.3.2?  

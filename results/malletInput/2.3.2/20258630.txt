@@ -1,1 +1,1 @@
-Button group justify in Bootstrap 2.3.2  I see css class  btn-group-justified  in bootstrab-3. Is there any way to work  btn-group-justified  in   version 2.3.2? Is yes, how can i do it to work?  
+button group justify in   2.3.2  i see css class  btn-group-justified  in bootstrab-3. is there any way to work  btn-group-justified  in   version 2.3.2? is yes, how can i do it to work?  

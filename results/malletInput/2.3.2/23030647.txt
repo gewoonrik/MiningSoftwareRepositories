@@ -1,1 +1,1 @@
-Make Twitter Bootstrap v2.3.2 HTML template compatible with Bootstrap 3 with minimal efforts  I have HTML template based on twitter Bootstrap v2.3.2. Is there is Way to make template compatible with version 3 with minimal efforts:) or i work on html elements from scratch:(  
+make     v2.3.2 html template compatible with   3 with minimal efforts  i have html template based on     v2.3.2. is there is way to make template compatible with version 3 with minimal efforts:) or i work on html elements from scratch:(  

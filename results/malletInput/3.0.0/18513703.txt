@@ -1,1 +1,1 @@
-Bootstrap 3.0 @navbarCollapseWidth       This is   3.0, my nav is too big for 767 and i want it to collapse earlier.  
+  3.0 @navbarcollapsewidth   navbar-collapse min-width: 767px     i want navbar-collapse in  max-width: 991px , in customize page i can't find  @navbarcollapsewidth     this is   3.0, my nav is too big for 767 and i want it to collapse earlier.  
