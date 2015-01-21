@@ -1,1 +1,1 @@
-what is the proper file path for   2.3.2 glyphicons?  i've beens searching around, and i see a ton of different proposed file paths, none of which work for me.    what do i change  background-image: url("/../img/glyphicons-halflings.png");  to?  
+what is the proper file path for   2.3.2 glyphicons?  i've beens searching around, and i see a ton of different proposed file paths, none of which work for me.    what do i change   to?  

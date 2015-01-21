@@ -1,1 +1,1 @@
-how to use responsive features of   2.0  i'm using   2.0 from   and unsure how to make it responsive.      how can i remove elements when in mobile/small screen mode?   how can i replace elements (i.e replace a big picture with a smaller one)?   change a   h2   to be   h5  ? etc.    
+how to use responsive features of   2.0  i'm using   2.0 from   and unsure how to make it responsive.      how can i remove elements when in mobile/small screen mode?   how can i replace elements (i.e replace a big picture with a smaller one)?   change a  ? etc.    

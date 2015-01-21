@@ -1,1 +1,1 @@
-  3.1.1 - navbar customization  i need a help to customize the navbar on the page    .com/customize/ :      set the  height  of navbar to  67px ;   set the vertical align for the navbar content to  center       is it possible via the customization page?  
+  3.1.1 - navbar customization  i need a help to customize the navbar on the page    .com/customize/ :      set the        is it possible via the customization page?  

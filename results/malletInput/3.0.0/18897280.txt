@@ -1,1 +1,1 @@
-    3.0 equivalent of the "label-important" class  what is the   3 equivalent of the following code?      span class="label label-important" important /span     
+    3.0 equivalent of the "label-important" class  what is the   3 equivalent of the following code?       

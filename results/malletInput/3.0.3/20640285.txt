@@ -1,1 +1,1 @@
-span not working in   3  span is not working in   v3.0.3. i need a suggest for solve this problem.         div class="span4"               div class="list-group"           a href="#" class="list-group-item active" link /a           a href="#" class="list-group-item" link 1 /a           a href="#" class="list-group-item" link 2 /a           a href="#" class="list-group-item" link 3 /a           a href="#" class="list-group-item" link 4 /a           /div       /div     
+span not working in   3  span is not working in   v3.0.3. i need a suggest for solve this problem.         

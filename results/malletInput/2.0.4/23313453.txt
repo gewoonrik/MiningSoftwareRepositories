@@ -1,1 +1,1 @@
-installing gem ' -sass', '~> 2.0.0'  i'm using ruby and rails and am installing this gem:      gem ' -sass', '~  2.0.0'      i get this error when using  bundle install :     gem::remotefetcher::fetcherror: errno::etimedout: connection timed out - connect(2) for "s3.amazonaws.com" port 443 (  -sass-2.0.4.2.gem) an error occurred while installing  -sass (2.0.4.2), and bundler cannot continue. make sure that `gem install  -sass -v '2.0.4.2'` succeeds before bundling.    
+installing gem ' -sass', '~> 2.0.0'  i'm using ruby and rails and am installing this gem:        

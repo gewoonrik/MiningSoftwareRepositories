@@ -1,1 +1,1 @@
-running `make` no longer minifies the css in /assets/css v.2.0.4  running  make  in the /  directory v2.0.4 no longer is minifying the  .css. is there a flag i can set for the build process?  thank you in advance.  
+running `make` no longer minifies the css in /assets/css v.2.0.4  running   in the /  directory v2.0.4 no longer is minifying the  .css. is there a flag i can set for the build process?  thank you in advance.  

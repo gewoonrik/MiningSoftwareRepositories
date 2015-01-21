@@ -1,1 +1,1 @@
-how to use   alert event close  in the page:    .com/2.3.2/javascript.html#alerts     we are able to see code like:      $('#my-alert').bind('closed', function () {   // do something… })      but what is   #my-alert ?  
+how to use   alert event close  in the page:    .com/2.3.2/javascript.html#alerts     we are able to see code like:      ?  

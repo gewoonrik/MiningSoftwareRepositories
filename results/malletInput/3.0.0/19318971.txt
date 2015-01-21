@@ -1,1 +1,1 @@
-anchor tag not displayed as button using      i'm using     3.0 and trying to display an anchor tag as a button using      a href="#" class="btn" add button /a       but it is not showing as a button         when i use      button class="btn"  add button /button       it is displayed as expected       
+anchor tag not displayed as button using      i'm using     3.0 and trying to display an anchor tag as a button using         it is displayed as expected       

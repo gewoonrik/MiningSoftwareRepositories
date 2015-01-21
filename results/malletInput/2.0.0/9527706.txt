@@ -1,1 +1,1 @@
-  tooltip not working  my javascript:      script      $(function(){         $('a[rel=tooltip]').tooltip();     }); ​ /script       and my html:      br  br  br this is an example of a sentence with a  a href="#" rel="tooltip" title="this is the tooltip!" tooltip /a !      this doesn't show the   2.0 tooltip but shows some default one.  
+  tooltip not working  my javascript:         this doesn't show the   2.0 tooltip but shows some default one.  

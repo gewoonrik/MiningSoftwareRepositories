@@ -1,1 +1,1 @@
-  datepicker 2.0 to select multiple dates  i am using a datepicker from   2.0, i want to be able to select multiple dates from the ui.     is there any way i can do this?      input size="16" type="text" class="form_datetime"    script type="text/javascript"      $(".form_datetime").datetimepicker({format: 'yyyy-mm-dd'});  /script        
+  datepicker 2.0 to select multiple dates  i am using a datepicker from   2.0, i want to be able to select multiple dates from the ui.     is there any way i can do this?       

@@ -1,1 +1,1 @@
-why won't my font awesome work?  i've tried everything but still the icon doesn't show.          !doctype html   html lang="en"   head   link href="//netdna. cdn.com/ - /2.3.2/css/ -combined.no-icons.min.css" rel="stylesheet"   link href="//netdna. cdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet"   /head   body   i class="icon-camera-retro"  /i  icon-camera-retro  /body   /html       doesn't work :(  
+why won't my font awesome work?  i've tried everything but still the icon doesn't show.         doesn't work :(  

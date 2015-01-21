@@ -1,1 +1,1 @@
-  2.3.2 - don't use mobile layout for tablet portrait orientation  i am using    2.3.2  and testing on an ipad. my site looks great in landscape, but when switching to portrait it shows the mobile navigation and changes the layout of the site a bit.     i actually don't like it this way. i would prefer to only show the mobile navigation on phones. what do i need to change in the media queries of the   -responsive.min.css  file in order to make this change?  
+  2.3.2 - don't use mobile layout for tablet portrait orientation  i am using   file in order to make this change?  

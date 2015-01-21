@@ -1,1 +1,1 @@
-align divs horizontally using    i have the following code      div id="profile"      div class"row"     div   /div   div id="principal"     div class="row"     /div   /div       i need one div to be at the left and the other div to the right using   3.1.1 or css without forgetting responsive design. thanks.  
+align divs horizontally using    i have the following code         i need one div to be at the left and the other div to the right using   3.1.1 or css without forgetting responsive design. thanks.  

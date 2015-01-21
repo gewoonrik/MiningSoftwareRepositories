@@ -1,1 +1,1 @@
-  3.0 - push element to bottom  i chose     for quick app display layer bulding, recently i have faced problem.     i'm trying to push element to bottom of page container, but keeping it centered. adding class  .push-to-bottom { position: absolute; bottom: 50px }  didn't help.  
+  3.0 - push element to bottom  i chose     for quick app display layer bulding, recently i have faced problem.     i'm trying to push element to bottom of page container, but keeping it centered. adding class   didn't help.  

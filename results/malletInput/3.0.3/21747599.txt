@@ -1,1 +1,1 @@
-  col-sm-offset not getting applied in small devices  i am using   v 3.0.3.  's offsets aren't working for me.    here is a relevant example :      div class="col-sm-8 col-sm-offset-2-popup col-md-4 col-md-offset-4-popup"     ....  /div       in small devices,  col-md-offset-4-popup  gets applied instead of  col-sm-offset-2 .    anybody knows why this is happening?  
+  col-sm-offset not getting applied in small devices  i am using   v 3.0.3.  's offsets aren't working for me.    here is a relevant example :     .    anybody knows why this is happening?  

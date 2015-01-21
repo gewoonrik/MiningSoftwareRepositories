@@ -1,1 +1,1 @@
-glyphicons -   icon font hex value  i want using  glyphicons  icon font and i need hex value of the each icon, i don't see any page about it on   website and  glyphicons  website,so how to embed that into project and use it? note: i want using  glyphicons icon-font not png icons          i'm using   2.3.2     
+glyphicons -   icon font hex value  i want using   website,so how to embed that into project and use it? note: i want using  glyphicons icon-font not png icons          i'm using   2.3.2     

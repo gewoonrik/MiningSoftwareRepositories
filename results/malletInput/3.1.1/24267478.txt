@@ -1,1 +1,1 @@
-where should i put   fonts files in case of using ruby on rails4  i try to use     with ruby on rails 4.1.  so i downloaded     form  here .  i put  `s javascript files in  vandor/assets/javascripts ,  css files in  vandor/assets/stylesheets  as berow.    where should i putã€œfontsã€?files?  
+where should i put   fonts files in case of using ruby on rails4  i try to use     with ruby on rails 4.1.  so i downloaded     form  here .  i put  `s javascript files in   as berow.    where should i putã€œfontsã€?files?  

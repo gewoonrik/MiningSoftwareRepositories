@@ -1,1 +1,1 @@
-dynamically create   alerts box through javascript  i'm using   2.0 for my project and i would like to dynamically add   alert box in my page (http:// .github.com/ /javascript.html#alerts). i want to do something like      -alert.warning("invalid credentials");     
+dynamically create   alerts box through javascript  i'm using   2.0 for my project and i would like to dynamically add   alert box in my page (http:// .github.com/ /javascript.html#alerts). i want to do something like       

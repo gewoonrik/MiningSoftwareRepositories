@@ -1,1 +1,1 @@
-css alternate row colour    i am using the   framework v3.1.1. the table class  table table-striped , colours the alternate rows  #f9f9f9 .     i am trying to use css to overwrite this rule with      .table-striped tbody tr:hover {     background-color: #efefef; }      using the above colours the non colourd rows by   however not the ones already coloured.  
+css alternate row colour    i am using the   framework v3.1.1. the table class      using the above colours the non colourd rows by   however not the ones already coloured.  

@@ -1,1 +1,1 @@
-    3: how to get vertical navbar?  seems like it was supported in  v2.3.2  in form of class  .nav-stacked       ul class="nav nav-tabs nav-stacked"    ...  /ul       is there a way to do that in version  3.0.0 ?  
+    3: how to get vertical navbar?  seems like it was supported in  v2.3.2  in form of class  ?  

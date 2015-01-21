@@ -1,1 +1,1 @@
-use   popover in joomla-backend  i would like to use the   popover (   .com/2.3.2/javascript.html#popovers ) in the backend of my component.    well, the tooltips already work by using:     echo jhtml::_('tooltip','test','','','test');      but the popovers do not work this way. could somebody help me out?  
+use   popover in joomla-backend  i would like to use the   popover (   .com/2.3.2/javascript.html#popovers ) in the backend of my component.    well, the tooltips already work by using:         but the popovers do not work this way. could somebody help me out?  

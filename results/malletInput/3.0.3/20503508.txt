@@ -1,1 +1,1 @@
-dropdown menu inside   panel group not completely visible  i am trying to get a dropdown menu to work with a collapsible panel group.  the dropdown works fine if i take it out of the  .panel-group  div.  i am using   3.0.3    non-working js fiddle:        and this is how it should look:      
+dropdown menu inside   panel group not completely visible  i am trying to get a dropdown menu to work with a collapsible panel group.  the dropdown works fine if i take it out of the   div.  i am using   3.0.3    non-working js fiddle:        and this is how it should look:      

@@ -1,1 +1,1 @@
-how to make label and input type text box in a single line using span classes for phone mode with     2.3.2  i have done like this..      div class="row-fluid"       div class="span3"          username:      /div       div class="span9"           input type="text"       /div   /div       kindly suggest any ideas to do this. thanks in advance..   
+how to make label and input type text box in a single line using span classes for phone mode with     2.3.2  i have done like this..         kindly suggest any ideas to do this. thanks in advance..   

@@ -1,1 +1,1 @@
-    . i cant open my modal manually  here is my js code :     $('#mymodal').modal('show');      here is my modal div :       same to the guide      
+    . i cant open my modal manually  here is my js code :         here is my modal div :       same to the guide      

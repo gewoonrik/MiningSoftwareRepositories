@@ -1,1 +1,1 @@
-in   v2.3.2 tooltip cuts word right in the middle       i initialize the  tooltip  plugin as:     $("#id").tooltip({    placement: 'top',    trigger: 'hover',    html: true,    container: 'body' });      how can this be avoided? thanks.  
+in   v2.3.2 tooltip cuts word right in the middle       i initialize the      how can this be avoided? thanks.  
