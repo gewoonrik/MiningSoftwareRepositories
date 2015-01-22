@@ -1,0 +1,25 @@
+Textify this:
+
+Steps:
+- Extract questions from SO datadump (provide link to scripts)
+- Build link table
+- Only consider questions with the 'bootstrap'-tag
+- Cleanup the questions: remove html, code, special characters
+- Normalize questions: change to lowercase
+- search for versions
+	+ only consider versions that were released before question was asked
+	+ for major versions also check for 3.0 besides 3.0.0
+	+ ?: maybe use the conditional pipeline method for bettermatching 
+
+Testing:
+- Select a sample of 100 questions
+- Match the questions manually
+- Run the matching algorithm
+- Compare manual with automatic version
+- calculate precision and recall
+
+Other text:
+- Random statistics about the results
+
+Reference:
+- How Do API Changes Trigger Stack Overflow Discussions? for methodology
