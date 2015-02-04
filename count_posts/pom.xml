@@ -22,6 +22,11 @@
 			<artifactId>scala-library</artifactId>
 			<version>${scala.version}</version>
 		</dependency>
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-csv</artifactId>
+            <version>1.0</version>
+        </dependency>
 
 		<!-- Test -->
 		<dependency>
@@ -54,7 +59,7 @@
 					<launchers>
 						<launcher>
 							<id>MainLauncher</id>
-							<mainClass>bazen.App</mainClass>
+							<mainClass>bazen.CompareTestingResults</mainClass>
 							<jvmArgs>
 								<jvmArg>-Djava.library.path=target/natives</jvmArg>
 							</jvmArgs>

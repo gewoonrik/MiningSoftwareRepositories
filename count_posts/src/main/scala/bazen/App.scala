@@ -39,7 +39,7 @@ object App {
 
   def main(args : Array[String]) {
     // Change to Your Database Config
-    val conn_str = "jdbc:mysql://localhost:3306/stackoverflow?user=&password="
+    val conn_str = "jdbc:mysql://localhost:3306/stackoverflow?user=root&password="
 
     // Load the driver
 
@@ -48,7 +48,7 @@ object App {
     val conn2 = DriverManager.getConnection(conn_str)
 
     try {
-      val input = scala.io.Source.fromFile("..\\data\\bootstrap-versions-date.csv").getLines()
+      val input = scala.io.Source.fromFile("../data/bootstrap-versions-date.csv").getLines()
       val versionsReleaseDate = input.map(v => {
         val vers = v.split(",")
         vers(0) = vers(0).stripPrefix("v")
